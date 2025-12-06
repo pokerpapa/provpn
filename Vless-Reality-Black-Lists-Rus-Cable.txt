@@ -1,7 +1,0 @@
-ФАЙЛ ПЕРЕИМЕНОВАН, ССЫЛКА ИЗМЕНИЛАСЬ! ТЕПЕРЬ ЧЕРНЫЕ СПИСКИ VLESS В ОДНОМ ФАЙЛЕ "BLACK_VLESS_RUS.txt"
-
-Новая ссылка: 
-https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt
-
-ПОЖАЛУЙСТА, ОБНОВИТЕ ССЫЛКУ, ЛИБО ЗАЙДИТЕ НА GITHUB https://github.com/igareck/vpn-configs-for-russia
-СПАСИБО ЗА ВНИМАНИЕ!
