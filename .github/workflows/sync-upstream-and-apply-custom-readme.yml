@@ -1,0 +1,53 @@
+name: Sync upstream and apply custom README
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"   # каждые 6 часов
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream and fetch
+        run: |
+          git remote add upstream https://github.com/igareck/vpn-configs-for-russia.git
+          git fetch upstream main
+          git fetch origin custom:custom
+
+      - name: Reset main to upstream
+        run: |
+          git checkout main
+          git reset --hard upstream/main
+
+      - name: Apply custom README as README.md (with your links)
+        run: |
+          git show custom:README_CUSTOM.md > README.md
+
+          # на всякий случай подчистим ссылки, если где-то остались оригинальные
+          sed -i 's#github.com/igareck/vpn-configs-for-russia#github.com/pokerpapa/provpn#g' README.md
+          sed -i 's#raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main#raw.githubusercontent.com/pokerpapa/provpn/main#g' README.md
+          sed -i 's#raw.githubusercontent.com/igareck/vpn-configs-for-russia/main#raw.githubusercontent.com/pokerpapa/provpn/main#g' README.md
+
+      - name: Commit and push (if changed)
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Sync upstream and apply custom README"
+            git push origin main --force-with-lease
+          fi
