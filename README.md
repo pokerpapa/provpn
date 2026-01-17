@@ -1,8 +1,12 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/vpn-configs-for-russia.svg" alt="vpn-configs-for-russia" />
+</h1>
+
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45">  Бесплатные VPN-конфигурации, работающие в РФ 
 
-[![stars](https://custom-icon-badges.demolab.com/github/stars/igareck/vpn-configs-for-russia?logo=star&&style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers "stars")
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers)
 <img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> 
-[![issues](https://custom-icon-badges.demolab.com/github/issues-raw/igareck/vpn-configs-for-russia?logo=issue&color=0e75b6&style=flat)](https://github.com/igareck/vpn-configs-for-russia/issues "issues")
+[![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/igareck/vpn-configs-for-russia/issues)
 [![last commit][1]][1]
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
 
