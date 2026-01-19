@@ -11,9 +11,12 @@
 [![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/igareck/vpn-configs-for-russia/issues)
 [![last commit][1]][1]
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
+[![Email](https://img.shields.io/badge/Email-igareck%40proton.me-0e75b6?logo=gmail&logoColor=white)](mailto:igareck@proton.me)
+
 
 [1]: https://custom-icon-badges.demolab.com/github/last-commit/igareck/vpn-configs-for-russia?logo=history&logoColor=white&color=0e75b6&style=flat
 
+**🌐 Language: [English](README-EN-US.md) | 🌐 语言: [中文](README-ZH-CN.md) | 🌐 زبان: [فارسی](README-FA-IR.md)**
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2RkeXZzdDl1Y3g4dW1xcjFxc2xsMHVsZ2RiY243OHJodjd0cHQ1NSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qXp82ZL3eZbbTUrLyy/giphy.gif" width="20"> Коллекция публичных и бесплатных, автообновляемых и автопроверяемых VPN-конфигураций, протестированных для работы на территории Российской Федерации  (`VLESS` / `VMess` / `Shadowsocks` /`Hysteria2` / `Tuic`/ `Trojan` и другие).
 
@@ -23,7 +26,7 @@
 
 Каждая конфигурация — это TXT-подписка, которую можно импортировать в любой необходимый вам клиент (`v2rayN`, `Streisand`, `NekoBox`, `Throne` и другие).
 
-Раз в час перед опубликованием конфиги проходят автоматические тесты на работоспособность на сервере в России, медленные и нерабочие отсеиваются. 
+Раз в 1-2 часа перед опубликованием конфиги проходят автоматические тесты на работоспособность на сервере в России, медленные и нерабочие отсеиваются. 
 
 Проводятся реальные тесты на доступность, задержку, скорость, а не просто обычная автосборка и дедупликация. С 13 ноября по 28 декабря делал все вручную - 28 декабря доделал скрипт, который автоматизировал и ускорил процесс проверки, поддерживая такой же качественный "ручной" результат.
 
@@ -57,7 +60,7 @@
 
 ```
 
-## ![IMAGE SOURCE](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=2000&pause=1500&color=D73537&vCenter=true&width=500&height=75&lines=%F0%9F%92%BE+%D0%A1%D0%9A%D0%90%D0%A7%D0%90%D0%A2%D0%AC+VPN-%D0%9A%D0%9E%D0%9D%D0%A4%D0%98%D0%93%D0%98)
+## <img src="https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/Download-VPN-configs-banner-RU-RU.svg" width="600">
 
   *Включите автообновление у себя в VPN-клиенте!*
 
@@ -592,6 +595,8 @@ https://github.com/uazo/cromite
 </details>
 
 > *Нажмите на стрелку, чтобы раскрыть список*
+
+##  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZmJ4anB6YjR3aWJpaTRvYzUzejY1dmwzN2c2M3c2NnV0MXUwM3RrcyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/acN91ftm1tJX23OOBx/giphy.gif" width="60"> Почта для связи: igareck@proton.me
 
 ## 👀 Количество посетителей
 <img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> <img src="https://visitor-badge.laobi.icu/badge?page_id=igareck.visitor-badge&left_color=black&right_color=green&left_text=Cyber+Hits" alt="Cyber Hits"/>  
