@@ -1,5 +1,5 @@
 # Date/Time: 2026-02-09 / 21:22 (Moscow)
-# For more info and VPN-configs - visit: www.github.com/pokerpapa/provpn
+# For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 vless://0b86a691-fb30-40a5-8e37-278366f5f624@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F154.31.114.136%3D443&sni=afrcloud22.mmv.kr#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%5BBL%5D
 vless://2982f5b8-89bd-4cdf-8b1d-9ed2ad84e628@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F109.123.231.212%3D2053&sni=afrcloud22.mmv.kr#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%5BBL%5D
 vless://2ab6e1d2-e3af-4461-8586-33388ec15bbe@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F18.144.44.213%3D80&sni=afrcloud22.mmv.kr#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%5BBL%5D
