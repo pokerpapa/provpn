@@ -1,3 +1,9 @@
+> 🔄 **Это зеркало (auto-sync) проекта**  
+> Оригинальный репозиторий: https://github.com/igareck/vpn-configs-for-russia  
+>  
+> TXT-подписки и README автоматически синхронизируются каждые 2 часа.
+
+
 <div align="center">
   
 ![maxresdefault](https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/vpn-configs-for-russia-4.svg)
@@ -6,9 +12,9 @@
 
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTljeGk4d3lzZnU3Mm1peDBienFpbmEyb3JmaDB5N21tMW9oczIwdyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8p1WPEOeDWFCksfe18/giphy.gif" width="45">  Бесплатные VPN-конфигурации, работающие в РФ 
 
-[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/igareck/vpn-configs-for-russia/stargazers)
+[![Stars](https://img.shields.io/github/stars/igareck/vpn-configs-for-russia?style=flat)](https://github.com/pokerpapa/provpn/stargazers)
 <img src="https://komarev.com/ghpvc/?username=igareck&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count" /> 
-[![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/igareck/vpn-configs-for-russia/issues)
+[![Issues](https://img.shields.io/github/issues/igareck/vpn-configs-for-russia?style=flat&color=0e75b6)](https://github.com/pokerpapa/provpn/issues)
 [![last commit][1]][1]
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)
 [![Email](https://img.shields.io/badge/Email-igareck%40proton.me-0e75b6?logo=gmail&logoColor=white)](mailto:igareck@proton.me)
@@ -72,20 +78,20 @@
 
 ### **VLESS для телефона (максимум 150 конфигов в подписке):** 
 
-### [BLACK_VLESS_RUS_mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt)
+### [BLACK_VLESS_RUS_mobile.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS_mobile.txt)
 
   `Сжатая, легкая телефонная подписка VLESS для Черных Списков. Содержит 150 самых быстрых конфигов из полной VLESS-подписки.`
 
 <details>
 <summary> QR-код </summary>
 
-  ![BLACK_VLESS_RUS_mobile_QR.png](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/BLACK_VLESS_RUS_mobile_QR.png)
+  ![BLACK_VLESS_RUS_mobile_QR.png](https://github.com/pokerpapa/provpn/blob/main/QR-codes/BLACK_VLESS_RUS_mobile_QR.png)
 
 </details>
 
 ### **VLESS полная (все конфиги):** 
 
-### [BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt)
+### [BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS.txt)
 
   `Полная подписка VLESS для Черных Списков.`
 
@@ -94,20 +100,20 @@
 <details>
 <summary> QR-код </summary>
 
-  ![BLACK_VLESS_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/BLACK_VLESS_RUS-QR.png)
+  ![BLACK_VLESS_RUS-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/BLACK_VLESS_RUS-QR.png)
 
 </details>
 
 ### **SHADOWSOCKS+ALL:** 
 
-### [BLACK_SS+All_RUS.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt)
+### [BLACK_SS+All_RUS.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_SS+All_RUS.txt)
 
   `Подписка ShadowSocks, Hysteria2, Vmess, Trojan для Черных Списков.`
 
 <details>
 <summary> QR-код </summary>
 
-  ![BLACK_SS+All_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/BLACK_SS+All_RUS-QR.png)
+  ![BLACK_SS+All_RUS-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/BLACK_SS+All_RUS-QR.png)
 
 </details>
 
@@ -126,12 +132,12 @@
 
 ### CIDR-ПОДПИСКА для телефона №1 (лучшие первые 150 конфигов в подписке) ⚪: 
 
-### [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
+### [Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE_VLESS_MOBILE_RUS-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-QR.png)
+  ![WHITE_VLESS_MOBILE_RUS-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-QR.png)
 
 </details>
 
@@ -140,12 +146,12 @@
 
 ### CIDR-ПОДПИСКА для телефона №2 (лучшие вторые 150 конфигов в подписке) ⚪: 
 
-### [Vless-Reality-White-Lists-Rus-Mobile-2.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt)
+### [Vless-Reality-White-Lists-Rus-Mobile-2.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE_VLESS_MOBILE_RUS-QR-2](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-2-QR.png)
+  ![WHITE_VLESS_MOBILE_RUS-QR-2](https://github.com/pokerpapa/provpn/blob/main/QR-codes/Vless-Reality-White-Lists-Rus-Mobile-2-QR.png)
 
 </details>
 
@@ -156,12 +162,12 @@
 
 ### CIDR-ПОДПИСКА полная (все конфиги) ⚪: 
 
-### [WHITE-CIDR-RU-all.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt)
+### [WHITE-CIDR-RU-all.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-all.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE-CIDR-RU-all-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WHITE-CIDR-RU-all-QR.png)
+  ![WHITE-CIDR-RU-all-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/WHITE-CIDR-RU-all-QR.png)
 
 </details>
 
@@ -172,12 +178,12 @@
 
 ### CIDR-ПОДПИСКА только с хостерами: VK, YANDEX, CDNVIDEO, Beeline ⚪:
 
-### [WHITE-CIDR-RU-checked.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt)
+### [WHITE-CIDR-RU-checked.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-checked.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE-CIDR-RU-checked-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WHITE-CIDR-RU-checked-QR.png)
+  ![WHITE-CIDR-RU-checked-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/WHITE-CIDR-RU-checked-QR.png)
 
 </details>
 
@@ -188,12 +194,12 @@
 
 ### SNI-ПОДПИСКА ⚪: 
 
-### [WHITE-SNI-RU-all.txt](https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt)
+### [WHITE-SNI-RU-all.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-SNI-RU-all.txt)
 
 <details>
 <summary> QR-код </summary>
 
-  ![WHITE-SNI-RU-all-QR](https://github.com/igareck/vpn-configs-for-russia/blob/main/QR-codes/WHITE-SNI-RU-all-QR.png)
+  ![WHITE-SNI-RU-all-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/WHITE-SNI-RU-all-QR.png)
 
 </details>
 
