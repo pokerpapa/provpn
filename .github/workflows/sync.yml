@@ -1,0 +1,47 @@
+name: Sync VPN configs from upstream
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'   # каждые 2 часа
+  workflow_dispatch:       # ручной запуск
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repo
+        uses: actions/checkout@v4
+
+      - name: Download files from upstream repo
+        run: |
+          BASE_URL="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main"
+
+          files=(
+            "Vless-Reality-White-Lists-Rus-Mobile.txt"
+            "Vless-Reality-White-Lists-Rus-Mobile-2.txt"
+            "WHITE-CIDR-RU-all.txt"
+            "WHITE-CIDR-RU-checked.txt"
+            "WHITE-SNI-RU-all.txt"
+            "BLACK_VLESS_RUS.txt"
+            "BLACK_VLESS_RUS_mobile.txt"
+            "BLACK_SS+All_RUS.txt"
+          )
+
+          for file in "${files[@]}"; do
+            echo "Downloading $file"
+            curl -L "$BASE_URL/$file" -o "$file"
+          done
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+          if git status --porcelain | grep .; then
+            git add .
+            git commit -m "sync: update vpn configs from upstream"
+            git push
+          else
+            echo "No changes"
+          fi
