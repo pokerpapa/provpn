@@ -1,4 +1,4 @@
-# Date/Time: 2026-02-27 / 17:34 (Moscow)
+# Date/Time: 2026-02-27 / 21:11 (Moscow)
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 vless://1c1d7040-828e-4fcc-8406-d8545a30c2ff@81.200.149.216:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.com&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
 vless://1c1d7040-828e-4fcc-8406-d8545a30c2ff@81.200.149.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.com&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5B%2ACIDR%5D
