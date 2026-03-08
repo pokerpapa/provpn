@@ -1,18 +1,20 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | SS, Hy2, Vmess, Trojan
 # profile-update-interval: 5
-# Date/Time: 2026-03-08 / 09:08 (Moscow)
-# Количество: 26
+# Date/Time: 2026-03-08 / 10:41 (Moscow)
+# Количество: 29
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZWYwMjU1ZC0yMzhkLTQ1OTItYjIxZC00M2NkNGVmNjZlNTU@fast219.visi.rip:46969?#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080?#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Noord%29%20%7C%20%5BBL%5D
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.19.130:443?#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443?#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiYWRkIjoiNDkuNTEuMTg0Ljc0IiwicG9ydCI6IjMxOTc2IiwiaWQiOiJjZGU2OWY1Yi0yNjQxLTQ2OWQtODkzMC1mZDI5MGQwODRhZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiYWRkIjoiNDkuNTEuMTg0Ljc0IiwicG9ydCI6IjMxOTc2IiwiaWQiOiJjZGU2OWY1Yi0yNjQxLTQ2OWQtODkzMC1mZDI5MGQwODRhZGYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU3QgTG91aXMgKERvd250b3duKSB8IFtCTF0iLCJhZGQiOiJjaGF0Z3B0LmNvbSIsInBvcnQiOiI4NDQzIiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCJ9
 trojan://adb13850-7e70-492e-85b2-01184801d587@45.82.245.138:443?security=tls&sni=br09.oportal.cc&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
 trojan://adb13850-7e70-492e-85b2-01184801d587@br09.oportal.cc:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
 trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Pointe-Claire%20%7C%20%5BBL%5D
@@ -22,6 +24,7 @@ trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@de5.nn-id.com:443?security=tls&sni=de5
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@58.152.18.189:443?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Tsui%20Wan%20Estate%20%7C%20%5BBL%5D
 trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@kz1.nn-id.com:443?security=tls&sni=kz1.nn-id.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%2C%20Astana%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
+trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@chatgpt.com:443?security=tls&sni=mfyousheng.nl.eu.org&insecure=0&allowInsecure=0&type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg%2C%20Bissen%20%7C%20%5BBL%5D
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20By%20EbraSha%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B4%20Norway%2C%20Oslo%20%28Alna%20District%29%20%7C%20%5BBL%5D
 trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@pl.nnmm.me:443?security=tls&sni=pl.nnmm.me&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20O%C5%BCar%C3%B3w%20%7C%20%5BBL%5D
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
