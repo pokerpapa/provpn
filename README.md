@@ -333,15 +333,6 @@
   
    `karing_1.2.10.1300_macos_universal.dmg` для MacOS
    
-**4)** **Singbox-launcher:** 
-
-  *Новый достойный внимания клиент для тестирования VPN-конфигураций, работает в связке с Sing-Box. Пробуйте, разработчик приветлив и всегда на связи.*
-
-   https://github.com/Leadaxe/singbox-launcher/releases
-
-   `singbox-launcher-v0.7.1-win64.zip` для Windows
-  
-   `singbox-launcher-v0.7.1-macos.zip` для MacOS
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS - используйте Streisand, Shadowrocket, Karing, V2Box или v2RayTun из App Store.
 
