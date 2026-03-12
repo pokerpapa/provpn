@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-12 / 14:56 (Moscow)
-# Количество: 13
+# Date/Time: 2026-03-12 / 16:29 (Moscow)
+# Количество: 9
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@fi.kv.prod.n7.homes:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20sun6-21.userapi.com
@@ -10,10 +10,6 @@ vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@de.kv.prod.n7.homes:8443?type=tcp&s
 vless://dc1b85fd-a08e-42d7-ae2b-0a320f3399b7@de.pp.prod.n7.homes:8443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&spx=/#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20sun6-21.userapi.com
 vless://0def14f7-5f68-4d4b-8273-97134fb090f8@tralalero.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&fp=random&sid=4ffc99daad0f261f#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5BSNI-RU%5D%20rbc.ru
 vless://0471f871-75a9-4e3a-8092-3e535cf41f80@lt-cherry-01.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&fp=random&sid=2cfb5a0ae8ab0cb0#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5BSNI-RU%5D%20rbc.ru
-vless://97db446c-772e-411b-9291-37cdb387bbf2@176.124.199.71:443?security=reality&type=grpc&headerType=&authority=&serviceName=&flow=&mode=gun&sni=ads.x5.ru&fp=&pbk=XrXK3qb2CKCBP80Vkg3WfNBB4gpy4YOADmQ7mhHfDWE&sid=#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20ads.x5.ru
 vless://b2b4672f-4a96-4256-8431-18158b0485cc@uk-gthost-01.com:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=dY9SNEllJMW63xo-JdXufhmjAxB_4uFw_QMjgufjiD8&fp=random&sid=37772edff71b4167#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20rbc.ru
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
-vless://2dd1a15d-1426-413a-a3b8-a645788bc844@188.120.234.103:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H6Ka1r2xZnRf29vhxygofvtwGD2KelEFcYHKXTEt2wk&sid=d87a6ae332fd4d2d&sni=sun6-21.userapi.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20sun6-21.userapi.com
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@9.cdnconn.com:1443?encryption=none&security=reality&sni=sun6-21.userapi.com&fp=qq&pbk=UoWP-cohTBmadLBP2fE823VBq8UvXI1qvRTKaaJnnRA&sid=cb78164bcc0adb7b&type=xhttp&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20sun6-21.userapi.com
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@9.cdnconn.com:1443?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=UoWP-cohTBmadLBP2fE823VBq8UvXI1qvRTKaaJnnRA&sid=cb78164bcc0adb7b&sni=sun6-21.userapi.com&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A1000000.0%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20sun6-21.userapi.com
 trojan://HCjFsAnDxW6M1tHg9PNRhnLnP9r1mY2v@ukraine.vles.space:1443?security=reality&type=tcp&path=&host=&sni=trk.mail.ru&fp=qq&pbk=KfxcXmGgAcZkoG0Akdpz7zr0p_OZvJoIrD5Nknvk5HY&sid=e16e2bebb1179f64#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20trk.mail.ru
