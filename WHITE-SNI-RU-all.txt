@@ -1,11 +1,12 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-15 / 21:22 (Moscow)
-# Количество: 5
+# Date/Time: 2026-03-15 / 22:31 (Moscow)
+# Количество: 6
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://3cc7c3a4-03a7-11f1-9bc0-0242ac110002@ru1.cyphervpn.pro:443?type=xhttp&security=reality&fp=firefox&pbk=AEdiOO2LEUGgBYuy7XiHnihpDwSxFrAA7etkMDZ5hjw&sid=5bfa0c&sni=eh.vk.com&host=&mode=auto&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
 vless://cc3f40b8-b869-4559-8490-9207bf0ed261@grinoree.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&fp=random&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5BSNI-RU%5D%20rbc.ru
+vless://818e3d20-4d31-4a1c-b74a-20ae054721a4@kz-mg-01.org:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&fp=chrome&sid=84aa32f674cfe92f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20rbc.ru
 vless://aebe6f93-7d22-4e36-90c3-67e1ed3c4b12@185.150.118.85:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5BSNI-RU%5D%20rbc.ru
 vless://7243243b-297b-47f0-8c13-c67f61b66feb@176.124.203.228:443?security=reality&encryption=none&pbk=p9OR29TWTl-GViMyOHeQWWd0WZI63MkiK49O3CZ62QA&headerType=none&fp=chrome&type=tcp&sni=wildberries.ru&sid=ba9f3c7d5e1a8b4c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20wildberries.ru
-vless://c220f447-badb-4120-aa3c-8c10f0a6dcb0@tr1.odavpn.online:59724/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=xBUqhMRjgJB7q-bavYp-zK5R-PTiej8ZsnPi0pFE0w4&sid=aabbccdd#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20ya.ru
+vless://ef3e2141-14d9-4764-8960-e7fe539c9bc6@quarenty.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=random&sid=205748bc0f24a747#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20rbc.ru
+vless://ef3e2141-14d9-4764-8960-e7fe539c9bc6@quarenty.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=random&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20rbc.ru
