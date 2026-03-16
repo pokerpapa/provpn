@@ -1,16 +1,16 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-16 / 08:14 (Moscow)
+# Date/Time: 2026-03-16 / 09:21 (Moscow)
 # Количество: 10
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://3cc7c3a4-03a7-11f1-9bc0-0242ac110002@ru1.cyphervpn.pro:443?type=xhttp&security=reality&fp=firefox&pbk=AEdiOO2LEUGgBYuy7XiHnihpDwSxFrAA7etkMDZ5hjw&sid=5bfa0c&sni=eh.vk.com&host=&mode=auto&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
 vless://9bb64d52-423f-4de0-ab23-587720af2021@152.89.244.171:8143?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&fp=random&sid=1afc9d750da1ba88#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rbc.ru
 vless://cc3f40b8-b869-4559-8490-9207bf0ed261@grinoree.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&fp=random&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5BSNI-RU%5D%20rbc.ru
+vless://818e3d20-4d31-4a1c-b74a-20ae054721a4@kz-mg-01.org:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&fp=chrome&sid=84aa32f674cfe92f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20rbc.ru
+vless://818e3d20-4d31-4a1c-b74a-20ae054721a4@kz-mg-01.org:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&fp=random&sid=84aa32f674cfe92f#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%5BSNI-RU%5D%20rbc.ru
 vless://7243243b-297b-47f0-8c13-c67f61b66feb@176.124.203.228:443?security=reality&encryption=none&pbk=p9OR29TWTl-GViMyOHeQWWd0WZI63MkiK49O3CZ62QA&headerType=none&fp=chrome&type=tcp&sni=wildberries.ru&sid=ba9f3c7d5e1a8b4c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20wildberries.ru
 vless://f1600497-20e4-0c07-64e0-3e28fa3d01e8@162.120.18.164:47009?security=reality&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=qq&pbk=tr79fhd6jVvu8d-Rp9gCEO8XtMyNpusiu3rLmIiKEnU&sid=e21f2248d3f24140#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20sun6-21.userapi.com
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
 vless://2563b829-866c-4c0f-8270-a91cffbfe852@ru36.tcpdoor.net:443?type=tcp&security=reality&fp=firefox&pbk=jlnKFP7eXy5fFjmH1HD8_3A-AKbraZvJMwPE03BRuhQ&sid=9d8307f6&sni=download.cdn.yandex.net&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20download.cdn.yandex.net
-vless://818e3d20-4d31-4a1c-b74a-20ae054721a4@kz-mg-01.org:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&fp=chrome&sid=84aa32f674cfe92f#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20rbc.ru
-vless://818e3d20-4d31-4a1c-b74a-20ae054721a4@kz-mg-01.org:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=unyuuAPGgKOlZDNcwmKK6re8DwGMp0Npy675AOhQTD8&fp=random&sid=84aa32f674cfe92f#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20rbc.ru
