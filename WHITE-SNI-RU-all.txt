@@ -1,11 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-16 / 10:30 (Moscow)
-# Количество: 5
+# Date/Time: 2026-03-16 / 11:56 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://cc3f40b8-b869-4559-8490-9207bf0ed261@grinoree.ru:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&fp=random&sid=8ba12e75110b7a9c#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5BSNI-RU%5D%20rbc.ru
-vless://ef3e2141-14d9-4764-8960-e7fe539c9bc6@quarenty.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=random&sid=205748bc0f24a747#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20rbc.ru
-vless://ef3e2141-14d9-4764-8960-e7fe539c9bc6@quarenty.site:8443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&fp=random&sid=c6ef72e4635d15a5#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5BSNI-RU%5D%20rbc.ru
-vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
+vless://aebe6f93-7d22-4e36-90c3-67e1ed3c4b12@185.150.118.86:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5BSNI-RU%5D%20rbc.ru
+vless://aebe6f93-7d22-4e36-90c3-67e1ed3c4b12@185.150.118.86:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=e0ef3d5c0aacb615#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5BSNI-RU%5D%20rbc.ru
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
