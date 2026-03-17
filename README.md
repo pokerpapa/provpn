@@ -450,6 +450,27 @@ DNS-over-HTTPS (DoH) - это тот же DNS, только зашифрован
 
 > *Нажмите на стрелку, чтобы посмотреть список*
 
+##  Альтернативные обходы ограничений
+
+<details>
+
+<summary> Нажмите на стрелку </summary>
+
+.
+
+**Psiphon** — бесплатное и открытое программное обеспечение для обхода Интернет-цензуры. Psiphon разработан специально для поддержки пользователей в странах с интернет-цензурой. Psiphon, Inc. была создана в 2007 году в качестве независимой корпорации в Онтарио, Канада. При сотрудничестве с Citizen Lab при Munk School of Global Affairs, Университетом Торонто.
+
+Информация: https://ru.wikipedia.org/wiki/Psiphon
+
+Официальная ссылка для скачивания на Windows 10/11 (доступно только через VPN): https://psiphon.ca/ru/
+
+Выгрузил установщик на GitHub: https://github.com/igareck/GoldCaviar/raw/refs/heads/main/Files/Psiphon3_VPN_install.exe
+
+Внимание! Работает только на кабельном интернете на ПК (мобильные сети нет)! Разнообразный выбор локаций!
+
+Система на базе устаревшего протокола SSH, соединение не быстрое, но самое главное, что работает. 
+
+</details>
 
 ## 👁️‍🗨️ Что видит провайдер и что вообще кому видно, когда вы сидите в интернете?
 
@@ -590,7 +611,6 @@ https://github.com/uazo/cromite
 
 </details>
 
-##  
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXJoeTEzZ3FtcGNrdmo2ZnFocDUwOTVvYmdjNWRnaWMwNHozMWN1YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="25"> Делитесь подписками! 
 
