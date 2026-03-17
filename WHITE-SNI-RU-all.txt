@@ -1,8 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-17 / 00:52 (Moscow)
-# Количество: 2
+# Date/Time: 2026-03-17 / 04:22 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://b44fbf4a-09f4-461d-a532-43242732f00c@de-10.ummavpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&pbk=gBer2H45i735ynkGtcYhGELZXDIf5CfxpE4S_Cl4WGw&sid=b42255c81b5a01c8&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20www.vk.com
+vless://d50feb8b-79e6-4b19-afe4-46431786855f@178.17.50.111:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b&sni=ads.x5.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20ads.x5.ru
+vless://b44fbf4a-09f4-461d-a532-43242732f00c@nl-6.ummavpn.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.vk.com&pbk=gBer2H45i735ynkGtcYhGELZXDIf5CfxpE4S_Cl4WGw&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20www.vk.com
+vless://47bc9730-3896-4b91-8ae1-5ed496ad1208@159.198.70.44:58888?security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&type=tcp&fp=edge&pbk=bHBZDPBhtUUsRx9oJVJPIk_3V_0RjyYSbmWyIaLDQ2M&sid=372c05b48fe83e5b&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ads.x5.ru
+vless://47bc9730-3896-4b91-8ae1-5ed496ad1208@195.250.25.185:58888?security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&type=tcp&fp=edge&pbk=bHBZDPBhtUUsRx9oJVJPIk_3V_0RjyYSbmWyIaLDQ2M&sid=372c05b48fe83e5b&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20ads.x5.ru
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?security=reality&encryption=none&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api.vk.com&sid=9339#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
