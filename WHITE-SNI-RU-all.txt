@@ -1,11 +1,12 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-18 / 09:48 (Moscow)
-# Количество: 5
+# Date/Time: 2026-03-18 / 11:04 (Moscow)
+# Количество: 6
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://c603d9a2-a89a-4b62-ac96-346d3b52620c@cze01.api.aiagentstack.net:10443?mode=stream-one&path=%2Fassets%2Fv2%2Fpkg&security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&fp=random&spx=%2F&type=xhttp&sni=s3.yandex.net&sid=e499f276e7bd6420#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5BSNI-RU%5D%20s3.yandex.net
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@ee-in-01.ray-proxy.ru:443?security=reality&encryption=none&pbk=Q0KSMLilS52B3cjNuSU2TwG9be57R3Gs9-l5rqPQSCg&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@fi-wc-01.ray-proxy.ru:443?security=reality&encryption=none&pbk=Q0KSMLilS52B3cjNuSU2TwG9be57R3Gs9-l5rqPQSCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
+vless://1dd4b4e6-6113-4c65-83a9-8df76e248b30@de-wc-01.ray-proxy.ru:443?security=reality&encryption=none&pbk=Q0KSMLilS52B3cjNuSU2TwG9be57R3Gs9-l5rqPQSCg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
 vless://3612d368-5fb7-4216-87fc-19967aec12e4@ch-gt-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5BSNI-RU%5D%20rbc.ru
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
 vless://56022eef-4ade-4240-b0cc-eb006797e7ac@94.126.207.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=V32osv0u9T3QItvyk4UgK-mjJuXkXLn4u_3pbk8eNgs&sid=9339&sni=api.vk.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20api.vk.com
-vless://caf92bbf-017c-4640-9f70-c42a7990dce5@ruwl-svowl-1.blook.network:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1LJ7JKcGBPqcXQMg7yQSXf66djP0y5svY1zCR5Q4PUE&sid=95826c08&sni=vk.com&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20vk.com
