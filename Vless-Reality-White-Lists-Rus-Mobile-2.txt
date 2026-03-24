@@ -1,28 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 5
-# Date/Time: 2026-03-24 / 19:50 (Moscow)
-# Количество: 22
+# Date/Time: 2026-03-24 / 21:00 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram+%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@38.180.203.118:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@85.192.41.169:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram🇨🇳+@WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.33.230:443?encryption=none&type=ws&security=tls&path=%2FTelegram+%40WangCai2&host=ylnhh.cc.cd&sni=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.33.230:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@89.169.33.230:443?type=ws&security=tls&encryption=none&sni=ylnhh.cc.cd&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=ylnhh.cc.cd#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://1e9d21e6-a203-4a06-b533-acf26cfbf06a@89.208.87.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=analytics.vk.ru&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=deadbeefcafebaab&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
-vless://1e9d21e6-a203-4a06-b533-acf26cfbf06a@89.208.87.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=maps.yandex.ru&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=f2e2d4c4b6a70788&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
-vless://1e9d21e6-a203-4a06-b533-acf26cfbf06a@89.208.87.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=c0ffee1234abcd11&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
-vless://3133f6a2-9774-4372-9cd4-85d233601dd6@213.219.215.80:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=vgKCDxOlThCeLG5I6e_n9o7EG7zAcXboGsF-n2qpqW4&sid=a884d25331a095&spx=/#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
-vless://b98d68f9-cfd3-472a-a590-1a561ae158b6@89.208.87.48:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=kAfACVGlqkxdp5T0pF_8rP8ElZ6mYSNnpP1NDnSr9H8&sid=c0ffee1234abcd11&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20VK
-vless://a23f1600-da7b-482d-a36b-0473892c0acc@51.250.41.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=_ya5j577IqCCOdoiAxC6DYQs-CdZtT3jSZ9klKGK3gs&sid=e8189cae50&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20YA
-vless://a23f1600-da7b-482d-a36b-0473892c0acc@51.250.41.219:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=megafon.ru&pbk=_ya5j577IqCCOdoiAxC6DYQs-CdZtT3jSZ9klKGK3gs&sid=e8189cae50&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D%20YA
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&amp&sni=www.cloudflare.com#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
-hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&sni=www.cloudflare.com&allowInsecure=true#%F0%9F%8C%90%20Anycast-IP%20%5B%2ACIDR%5D
