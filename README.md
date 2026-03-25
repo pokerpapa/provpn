@@ -44,6 +44,24 @@
 
 ---
 
+## ![IMAGE SOURCE](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=29&duration=1&color=D73537&vCenter=true&repeat=false&width=300&lines=%F0%9F%94%B4+%D0%9E%D0%91%D0%9D%D0%9E%D0%92%D0%9B%D0%95%D0%9D%D0%98%D0%95!)
+
+```diff
+
+25.03.2026
+
+- 1. Добавлены зеркала Яндекса на все ссылки.
+Чтобы вы могли обновлять ваши подписки, даже находясь в режиме Белых Списков или в случае блокировки GitHub.
+Внимательно смотрите раздел "СКАЧАТЬ VPN-КОНФИГИ".
+
+- 2. Добавлены списки мостов Tor Bridges.
+Чтобы у вас было больше альтернатив Черным Спискам.
+Используйте совместно с Tor Browser или Invizible Pro на Android.
+Внимательно смотрите раздел "СКАЧАТЬ VPN-КОНФИГИ".
+```
+
+---
+
 ## ОБЯЗАТЕЛЬНО К ПРОЧТЕНИЮ! 
 
 **Если вы хотите успешно запустить конфиги, скачать правильную подписку и понять что к чему - внимательно читайте следующие разделы!** 
@@ -52,7 +70,9 @@
 
 **1.** `В чем разница между черными и белыми списками;`
 
-**2.** `Какие есть подписки и чем они отличаются друг от друга;`
+**2.** `Какие есть подписки и чем они отличаются друг от друга.`
+
+`Обратите внимание, что в Readme присутствуют альтернативные ссылки (зеркала), которые работают в режиме БС, а так же при заблокированном GitHub;`
 
 **3.** `Какие приложения скачивать, где скачивать и как пользоваться;`
 
@@ -62,13 +82,19 @@
 
 **Конфиги, которые тут выкладываются - выходят после реальных проверок, то есть большинство будет живыми на момент публикации!**
 
-**Подписки обновляются каждые 2-3 часа, чтобы не потерять своей актуальности!**
+**Подписки обновляются каждые 1-2 часа, чтобы не потерять своей актуальности!**
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/igareck/GoldCaviar/refs/heads/main/Files/Download-VPN-configs-banner-RU-RU.svg" width="600">
 
+  *Названия подписок (подсвечены синим) кликабельны и содержат ссылку на RAW формат подписки!*
+
+  
+
   *Включите автообновление у себя в VPN-клиенте!*
+
+---
 
 <details>
 
@@ -80,8 +106,6 @@
 
 ### [BLACK_VLESS_RUS_mobile.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS_mobile.txt)
 
-  `Сжатая, легкая телефонная подписка VLESS для Черных Списков. Содержит 150 самых быстрых конфигов из полной VLESS-подписки.`
-
 <details>
 <summary> QR-код </summary>
 
@@ -89,39 +113,220 @@
 
 </details>
 
+`Сжатая, легкая телефонная подписка VLESS для Черных Списков. Содержит 150 самых быстрых конфигов из полной VLESS-подписки.`
+
+### [BLACK_VLESS_RUS_mobile.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
+
 ### **VLESS полная (все конфиги):** 
 
 ### [BLACK_VLESS_RUS.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS.txt)
 
-  `Полная подписка VLESS для Черных Списков.`
-
-  *Внимание! Осторожнее с загрузкой этой полной подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
-
-<details>
+  <details>
 <summary> QR-код </summary>
 
   ![BLACK_VLESS_RUS-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/BLACK_VLESS_RUS-QR.png)
 
 </details>
 
+  `Полная подписка VLESS для Черных Списков.`
+
+### [BLACK_VLESS_RUS.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS.txt&lang=de-de)
+
+ <details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+  *Внимание! Осторожнее с загрузкой этой полной подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
+
+---
+
 ### **SHADOWSOCKS+ALL:** 
 
 ### [BLACK_SS+All_RUS.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_SS+All_RUS.txt)
 
-  `Подписка ShadowSocks, Hysteria2, Vmess, Trojan для Черных Списков.`
-
-<details>
+  <details>
 <summary> QR-код </summary>
 
   ![BLACK_SS+All_RUS-QR](https://github.com/pokerpapa/provpn/blob/main/QR-codes/BLACK_SS+All_RUS-QR.png)
 
 </details>
 
+  `Подписка ShadowSocks, Hysteria2, Vmess, Trojan для Черных Списков.`
+
+### [BLACK_SS+All_RUS.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_SS+All_RUS.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
 
 </details>
 
-*[Нажмите на стрелку]*
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
+</details>
+
+*Подписки, обходящие Черные Списки РКН.*
+
+---
+---
+
+<details>
+
+ <summary><h3>🧾 TOR BRIDGES 🧅</h3></summary>
+
+
+### TOR BRIDGES ТОП-100: 
+
+### [TOR_BRIDGES_TOP100.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Списки мостов для выхода в сеть Tor. Лучшие 100 мостов.`
+
+### [TOR_BRIDGES_TOP100.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
+
+### TOR BRIDGES ПОЛНАЯ: 
+
+### [TOR_BRIDGES_ALL.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Списки мостов для выхода в сеть Tor. Полный список.`
+
+### [TOR_BRIDGES_ALL.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
+
+### TOR BRIDGES VANILLA: 
+
+### [TOR_BRIDGES_VANILLA.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Списки мостов для выхода в сеть Tor. Тип VANILLA.`
+
+### [TOR_BRIDGES_VANILLA.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
+
+### TOR BRIDGES OBFS4: 
+
+### [TOR_BRIDGES_OBFS4.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Списки мостов для выхода в сеть Tor. Тип OBFS4.`
+
+### [TOR_BRIDGES_OBFS4.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
+
+### TOR BRIDGES WEBTUNNEL: 
+
+### [TOR_BRIDGES_WEBTUNNEL.txt](https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Списки мостов для выхода в сеть Tor. Тип WEBTUNNEL.`
+
+### [TOR_BRIDGES_WEBTUNNEL.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+ `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+</details>
+
+
+
+*Списки мостов для выхода в сеть Tor. Аналог Черных Списков.*
+
+---
 ---
 
 <details>
@@ -142,7 +347,20 @@
 </details>
 
 `Сжатая, легкая телефонная CIDR-подписка для Белых Списков №1. Содержит первые лучшие 150 конфигов из полной CIDR-подписки. Обходит CIDR-блокировки по IP. Протокол VLESS.`
+ 
 
+### [Vless-Reality-White-Lists-Rus-Mobile.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
 
 ### CIDR-ПОДПИСКА для телефона №2 (лучшие вторые 150 конфигов в подписке) ⚪: 
 
@@ -159,6 +377,18 @@
 Пользуйтесь этой дополнительной телефонной подпиской №2, если вдруг не хватает телефонной подписки №1 или если она перегружена.
 Обходит CIDR-блокировки по IP. Протокол VLESS.`
 
+### [Vless-Reality-White-Lists-Rus-Mobile-2.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+---
 
 ### CIDR-ПОДПИСКА полная (все конфиги) ⚪: 
 
@@ -173,8 +403,20 @@
 
 `Полная CIDR-подписка для Белых Списков. Содержит все известные белые подсети от разных хостеров. Обходит CIDR-блокировки по IP. Протокол VLESS.`
 
+### [WHITE-CIDR-RU-all.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-all.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
 *Внимание! Осторожнее с загрузкой этой полной подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
 
+---
 
 ### CIDR-ПОДПИСКА только с хостерами: VK, YANDEX, CDNVIDEO, Beeline ⚪:
 
@@ -189,8 +431,20 @@
 
 `Отфильтрованная версия полной CIDR-подписки по конкретным хостерам. Меньше полной версии. В данной сокращенной подписке белые подсети только от этих Российских хостеров: VK, YANDEX, CDNVIDEO и Beeline, а в полной - все хостеры! Обходит CIDR-блокировки по IP. Протокол VLESS.`
 
+### [WHITE-CIDR-RU-checked.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-checked.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
+</details>
+
+`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
 *Внимание! Осторожнее с загрузкой этой подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
 
+---
 
 ### SNI-ПОДПИСКА ⚪: 
 
@@ -205,9 +459,20 @@
 
 `Обходит только SNI-блокировки по фейковому доменному имени SNI. CIDR-блокировки не обходит. Протокол VLESS.`
 
+### [WHITE-SNI-RU-all.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-SNI-RU-all.txt&lang=de-de)
+
+<details>
+<summary> QR-код </summary>
+
+
+
 </details>
 
-*[Нажмите на стрелку]*
+`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
+
+</details>
+
+*Подписки, обходящие Белые Списки РКН.*
 
 ---
 
@@ -224,7 +489,7 @@
 
 ### **1)** **Выбираем черное или белое**:  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3Q4NW94NXo0ZXQwajl1cDRzdHg3ZXFzbWc4aGtzeDA0cGRtNTl2ZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/35LH6GkOzEXuw/giphy.gif" width="80">  
 
-| | ЧЕРНЫЕ СПИСКИ (стандартный интернет) | БЕЛЫЕ СПИСКИ (максимально ограниченный) |
+| | ЧЕРНЫЕ СПИСКИ / TOR BRIDGES (стандартный интернет) | БЕЛЫЕ СПИСКИ (максимально ограниченный) |
 |--|--|--|
 | **Кратко** | Черные списки - это когда "разрешено все, что не запрещено" | Белые списки - это когда "запрещено все, что не разрешено" |
 | **Какой тип интернета?** | Любой кабельный + мобильный без жестких ограничений | Мобильный с самыми жесткими ограничениями |
@@ -235,20 +500,25 @@
 | **Какие протоколы и подписки есть?** | В коллекции черных списков есть **2 подписки VLESS** (1 отдельная полная для ПК + 1 сжатая для телефонов), а также **1 подписка Shadowsocks+Hysteria2+Vmess + Trojan** (1 полная одним файлом) |  Протокол тут в основном **VLESS**, разделенный на **4 CIDR-подписки**: 1 полная + 2 сжатые для телефонов + 1 дополнительная (CIDR-ограничения по IP-диапазонам сейчас работают у 100% мобильных операторов РФ, вводящих БС); а также **1-ну SNI-подписку** (ограничения по белым фейковым доменам SNI, что уже редкость) |
 
 
-
-
+————
 
 ### **2)** **При обычных черных списках ⚫:** **VLESS**, либо **SHADOWSOCKS+ALL**
 
-  **а)** **"VLESS полная", "VLESS для телефона" или "SHADOWSOCKS+ALL":**
+  **а)** **VLESS полная • VLESS для телефона • SHADOWSOCKS+ALL:**
 
-При обычных черных списках ⚫ выбираем самый устойчивый протокол **VLESS**, либо альтернативно **SHADOWSOCKS+ALL** (Shadowsocks, Hysteria2, Trojan, Vmess), но это не обязательно. На ПК или смартфоне - не важно, везде работает.
+При обычных черных списках выбираем самый устойчивый протокол **VLESS**, либо альтернативно **SHADOWSOCKS+ALL** (Shadowsocks, Hysteria2, Trojan, Vmess), но это не обязательно. На ПК или смартфоне - не важно, везде работает.
 
 *Иногда случается, что на проводном интернете доступны все конфигурации, а на Wifi часть не доступна (пингуется тоже не с первого раза, надо повторять).*
 
+ **б)** **TOR BRIDGES полная  •  ТОП-100  •  VANILLA • OBFS4 • WEBTUNNEL:**
+
+Отличная альтернатива Черным Спискам VPN - мосты TOR BRIDGES. Выполняют те же функции, что и Черные Списки VPN только с одной разницей - выход в сеть осуществляется не через стандартную глобальную сеть (так называемый clearnet), а через сеть Tor. Мосты - это прокси, так как стандартные IP подключения, вшитые в Tor Browser заблокированы РКН. Воспользоваться Tor Bridges вы сможете через Tor Browser или Invizible Pro, которое выступает в качестве клиента на устройстве Android.
+
+————
+
 ### **3)** **При белых списках ⚪: CIDR-ПОДПИСКА или SNI-ПОДПИСКА** 
 
-  **а)** **"CIDR-ПОДПИСКА полная", "CIDR-ПОДПИСКА для телефона" или "CIDR-ПОДПИСКА только с хостерами: VK, YANDEX, CDNVIDEO, Beeline":** 
+  **а)** **CIDR-ПОДПИСКА полная • для телефона • только с хостерами: VK, YANDEX, CDNVIDEO, Beeline** 
   
   Самые жесткие блокировки по белым IP (CIDR-диапазонам) сейчас только на мобильных операторах Мегафон, Билайн, МТС, Т2, Yota и др., поэтому `конфигурации с белыми IP (из белых CIDR-диапазонов), пробивающие самые жесткие ограничения мобильного интернета я положил в TXT-подписки, начинающиеся на "CIDR-ПОДПИСКА"` и пометил `[*CIDR]` в примечаниях к каждому конфигу. 
   
@@ -268,8 +538,13 @@
 
   В настоящее время SNI-блокировки почти не применяются мобильными операторами ввиду их легкого обхода, потому что почти каждый может арендовать и настроить свой сервер за границей с необходимым фейковым доменом из белого списка. Но кому-нибудь все равно может сильно повезти и SNI-конфиги смогут обойти ограничения даже сейчас. Тестируйте.
 
+————
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yml0MndhcDZ6dzFuYjY3aG0yNWowN2Rqbnp1aTV2cXNvb3FvMnluMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MxryCOQuSYVVD0SPyp/giphy.gif" width="40"> Как мне воспользоваться этими конфигурациями у себя на устройстве 
-1) VPN-конфигурации на вашем устройстве удобнее всего добавлять через *"подписку"* или *"группу подписки"* в v2rayN, Throne, v2rayNG, NekoBox, Streisand или Karing.
+
+### Общие правила:
+
+1) VPN-конфигурации на вашем устройстве удобнее всего добавлять через *"добавить профиль"* *"подписку"* или *"группу подписки"* в Karing, v2rayN, Throne, v2rayNG, NekoBox, Streisand и прочие.
 
 2) Копируйте Url-адрес txt-файла Github. Скопировав ссылку, в приложении нужно нажать "Добавить из буфера обмена" или использовать обычную кнопку "Добавить" -> "Настроить вручную" -> тип "Подписка" -> вставить ссылку на txt-файл и задать имя подписке.
 3) Сканируйте QR-код подписки из следующего пункта. QR-код еще проще - нажимаете кнопку "Добавить" -> "Отсканировать QR-код" и приложение само создаст подписку, вам лишь нужно будет поменять ее имя у себя в телефоне и нажать кнопку "Обновить", если список конфигов не загрузился сразу.
@@ -285,7 +560,67 @@
 7) Конфиги, особенно из белых списков, могут не сразу быть зелеными при проверке "реальной задержки", очень часто пинг по 2-3-4 раза показывает новые доступные сервера.
 8) Скачайте себе несколько разных клиентов на телефон - может такое случиться, что разные клиенты увидят разные доступные сервера. Это из-за различий в настройках клиентов при проверке конфигов.
 
-Можно, также, добавлять все вручную по-отдельности, просто копируя содержимое каждого txt-файла в клиент v2rayN и др., но подписки удобнее тем, что они обновляются автоматически у вас на устройстве после обновления на Github, без необходимости удаления и нового копирования, упрощая процесс.
+9) Можно, также, добавлять все вручную по-отдельности, просто копируя содержимое каждого txt-файла в клиент v2rayN и др., но подписки удобнее тем, что они обновляются автоматически у вас на устройстве после обновления на Github, без необходимости удаления и нового копирования, упрощая процесс.
+
+### Инструкция по каждому клиенту:
+
+<details>
+  
+<summary><h4> Инструкция Karing </h4></summary>
+
+
+
+</details>
+
+<details>
+  
+<summary><h4> Инструкция v2rayN </h4></summary>
+
+
+
+</details>
+
+<details>
+  
+<summary><h4> Инструкция Throne </h4></summary>
+
+
+
+</details>
+
+<details>
+  
+<summary><h4> Инструкция Streisand </h4></summary>
+
+
+
+</details>
+
+<details>
+  
+<summary><h4> Инструкция Nekobox </h4></summary>
+
+
+
+</details>
+
+<details>
+  
+<summary><h4> Инструкция Hiddify </h4></summary>
+
+
+
+</details>
+
+<details>
+  
+<summary><h4> Инструкция Happ </h4></summary>
+
+
+
+</details>
+
+————
 
 ## 🧩 Приложения для конфигов на ПК и телефоне: 
 
@@ -297,9 +632,25 @@
 
 Установите официальный клиент v2rayN или Throne (преемник Nekoray), запустите в "режиме Администратора", добавьте конфиг/подписку через Ctrl+V, загрузите подписку через "Группа подписки" - "Обновить текущую подписку без прокси", появится список, нажмите на проверку "Реальной задержки" (значок молнии сверху справа), после завершения - отсортируйте по пингу, выберите несколько верхних зеленых конфигов с наименьшим числом, нажмите правую клавишу мышки - выберите "Тест на скорость загрузки сервера", после теста выберите самый быстрый, нажав на нем Enter, в конце запустите "Режим VPN/Режим TUN".
 
-**1)** **v2rayN:**
+---
+
+### 1) Karing:
+
+*Рекомендую как лучший бесплатный клиент. Универсальный, адаптивный, мощный инструмент для того, чтобы ваши конфигурации завелись хоть из-под палки. Не подходит для массовых проверок скорости, только пинг.*
+
+   https://github.com/KaringX/karing/releases
+
+   `karing_1.2.10.1300_windows_x64.exe` для Windows
   
-   *Рекомендую v2rayN, т.к. стабильно и проверено работает с тысячами конфигов разных протоколов за раз (мой личный максимум 150.000 конфигов). Это самый универсальный клиент из всех. Идеален для массовых проверок. Работает, используя Xray, Sing-Box, Mihomo в одной связке.*
+   `karing_1.2.10.1300_linux_amd64.deb` для Linux (Ubuntu)
+  
+   `karing_1.2.10.1300_macos_universal.dmg` для MacOS
+
+---
+
+### 2) v2rayN:
+  
+   *Рекомендую v2rayN после Karing, стабильно и проверено работает с тысячами конфигов разных протоколов за раз (мой личный максимум 150.000 конфигов). Это тоже универсальный клиент из всех. Идеален для массовых проверок (пинг+скорость). Работает, используя Xray, Sing-Box, Mihomo в одной связке.*
 
    https://github.com/2dust/v2rayN/releases
   
@@ -309,7 +660,9 @@
   
    `v2rayN-macos-64.dmg` для MacOS
 
-**2)** **Throne (преемник заброшенного Nekoray, Nekoray не обновляют с 2024 года)**:
+---
+
+### 3) Throne (преемник заброшенного Nekoray, Nekoray не обновляют с 2024 года):
 
 *Рекомендую как альтернативный рабочий клиент после v2rayN. Конфигурации, которые "не завелись" в v2rayN - частично заводятся здесь. Подходит для массовых проверок.*
 
@@ -320,19 +673,8 @@
    `Throne-1.0.8-debian-x64.deb` для Linux (Ubuntu)
   
    `Throne-1.0.8-macos-arm64.zip` для MacOS
-
-**3)** **Karing:**
-
-*Рекомендую как еще один альтернативный клиент после v2rayN. Конфигурации, которые "не завелись" в v2rayN - частично заводятся здесь. Не подходит для массовых проверок.*
-
-   https://github.com/KaringX/karing/releases
-
-   `karing_1.2.10.1300_windows_x64.exe` для Windows
-  
-   `karing_1.2.10.1300_linux_amd64.deb` для Linux (Ubuntu)
-  
-   `karing_1.2.10.1300_macos_universal.dmg` для MacOS
    
+---
 
 ### <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGcxcG8yMGNzOTNmZDE1Z3hob3V3ajU4dmhkdnhsY2doMXFrNXowMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oFSDc1Oq12Ie5NJnmA/giphy.gif" width="20"> iOS - используйте Streisand, Shadowrocket, Karing, V2Box или v2RayTun из App Store.
 
