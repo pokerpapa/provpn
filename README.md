@@ -48,16 +48,20 @@
 
 ```diff
 
-25.03.2026
+25-26.03.2026
 
-- 1. Добавлены зеркала Яндекса на все ссылки.
-Чтобы вы могли обновлять ваши подписки, даже находясь в режиме Белых Списков или в случае блокировки GitHub.
-Внимательно смотрите раздел "СКАЧАТЬ VPN-КОНФИГИ".
+- 1. Добавлены/обновлены зеркала Яндекса, JsDelivr, Statically, Githack на все ссылки репо.
+Чтобы вы могли обновлять ваши подписки, даже
+находясь в режиме Белых Списков или в случае блокировки GitHub.
+Внимательно смотрите абзац "СКАЧАТЬ VPN-КОНФИГИ".
+Появился новый раздел "ЗЕРКАЛА", там заметки по Яндексу и большой список ссылок.
+Обязательно сохраните его себе на случай блокировок!
 
 - 2. Добавлены списки мостов Tor Bridges.
 Чтобы у вас было больше альтернатив Черным Спискам.
-Используйте совместно с Tor Browser или Invizible Pro на Android.
-Внимательно смотрите раздел "СКАЧАТЬ VPN-КОНФИГИ".
+Используйте совместно с Tor Browser, Orbot или Invizible Pro на Android.
+Внимательно смотрите абзац "СКАЧАТЬ VPN-КОНФИГИ".
+Появился новый раздел "TOR BRIDGES".
 ```
 
 ---
@@ -115,17 +119,6 @@
 
 `Сжатая, легкая телефонная подписка VLESS для Черных Списков. Содержит 150 самых быстрых конфигов из полной VLESS-подписки.`
 
-### [BLACK_VLESS_RUS_mobile.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
-`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
 ---
 
 ### **VLESS полная (все конфиги):** 
@@ -140,17 +133,6 @@
 </details>
 
   `Полная подписка VLESS для Черных Списков.`
-
-### [BLACK_VLESS_RUS.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS.txt&lang=de-de)
-
- <details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
   *Внимание! Осторожнее с загрузкой этой полной подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
 
@@ -168,17 +150,6 @@
 </details>
 
   `Подписка ShadowSocks, Hysteria2, Vmess, Trojan для Черных Списков.`
-
-### [BLACK_SS+All_RUS.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_SS+All_RUS.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
 </details>
 
@@ -205,17 +176,6 @@
 
  `Списки мостов для выхода в сеть Tor. Лучшие 100 мостов.`
 
-### [TOR_BRIDGES_TOP100.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
 ---
 
 ### TOR BRIDGES ПОЛНАЯ: 
@@ -230,17 +190,6 @@
 </details>
 
  `Списки мостов для выхода в сеть Tor. Полный список.`
-
-### [TOR_BRIDGES_ALL.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
 ---
 
@@ -257,17 +206,6 @@
 
  `Списки мостов для выхода в сеть Tor. Тип VANILLA.`
 
-### [TOR_BRIDGES_VANILLA.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
 ---
 
 ### TOR BRIDGES OBFS4: 
@@ -282,17 +220,6 @@
 </details>
 
  `Списки мостов для выхода в сеть Tor. Тип OBFS4.`
-
-### [TOR_BRIDGES_OBFS4.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
 ---
 
@@ -309,20 +236,7 @@
 
  `Списки мостов для выхода в сеть Tor. Тип WEBTUNNEL.`
 
-### [TOR_BRIDGES_WEBTUNNEL.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
 </details>
-
- `Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
-</details>
-
-
 
 *Списки мостов для выхода в сеть Tor. Аналог Черных Списков.*
 
@@ -347,18 +261,6 @@
 </details>
 
 `Сжатая, легкая телефонная CIDR-подписка для Белых Списков №1. Содержит первые лучшие 150 конфигов из полной CIDR-подписки. Обходит CIDR-блокировки по IP. Протокол VLESS.`
- 
-
-### [Vless-Reality-White-Lists-Rus-Mobile.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
-`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
 ---
 
@@ -377,17 +279,6 @@
 Пользуйтесь этой дополнительной телефонной подпиской №2, если вдруг не хватает телефонной подписки №1 или если она перегружена.
 Обходит CIDR-блокировки по IP. Протокол VLESS.`
 
-### [Vless-Reality-White-Lists-Rus-Mobile-2.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
-`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
 ---
 
 ### CIDR-ПОДПИСКА полная (все конфиги) ⚪: 
@@ -402,17 +293,6 @@
 </details>
 
 `Полная CIDR-подписка для Белых Списков. Содержит все известные белые подсети от разных хостеров. Обходит CIDR-блокировки по IP. Протокол VLESS.`
-
-### [WHITE-CIDR-RU-all.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-all.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
-`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
 
 *Внимание! Осторожнее с загрузкой этой полной подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
 
@@ -431,17 +311,6 @@
 
 `Отфильтрованная версия полной CIDR-подписки по конкретным хостерам. Меньше полной версии. В данной сокращенной подписке белые подсети только от этих Российских хостеров: VK, YANDEX, CDNVIDEO и Beeline, а в полной - все хостеры! Обходит CIDR-блокировки по IP. Протокол VLESS.`
 
-### [WHITE-CIDR-RU-checked.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-checked.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
-`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
 *Внимание! Осторожнее с загрузкой этой подписки на телефон! Может содержать более 1000-2000 конфигураций! Телефоны очень тяжело "переваривают" такое количество! Рекомендовано только для компьютера!*
 
 ---
@@ -459,20 +328,229 @@
 
 `Обходит только SNI-блокировки по фейковому доменному имени SNI. CIDR-блокировки не обходит. Протокол VLESS.`
 
-### [WHITE-SNI-RU-all.txt (зеркало при БС)](https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-SNI-RU-all.txt&lang=de-de)
-
-<details>
-<summary> QR-код </summary>
-
-
-
-</details>
-
-`Альтернативная ссылка. Доступна во время режима БС или при заблокированном Github.`
-
 </details>
 
 *Подписки, обходящие Белые Списки РКН.*
+
+---
+---
+
+<details>
+
+<summary><h3>🪞 ЗЕРКАЛА 🪞</h3></summary>
+
+**Есть много вариантов с зеркалами для альтернативного доступа к подпискам:**
+
+**1. Яндекс Переводчик:** поможет в режиме Белых Списков, т.к. подсети Яндекса самые стабильные и рабочие при БС.
+
+**2. JSDelivr (через CDN):** это обходной путь через крупную сеть доставки контента: https://cdn.jsdelivr.net. 
+
+**3. Statically (через CDN):** это обходной путь через крупную сеть доставки контента: https://cdn.statically.io.  
+
+**4. Githack (через Cloudflare):** https://rawcdn.githack.com 
+
+**5. Githack (напрямую):** https://raw.githack.com
+
+Пункты 2,3,4,5 помогут только в случае Черных Списков. Актуально, если Роскомнадзор заблокирует GitHub.
+
+---
+
+**СПОСОБ №1: ЯНДЕКС.**
+
+**Яндекс Переводчик как "прокси" во время режима Белых Списков.**
+
+Если вы находитесь в режиме Белых Списков или у вас заблокирован GitHub - есть вариант обновить любую подписку через Яндекс Переводчик. 
+До недавнего времени был вариант обновлять автоматически через клиент, но "спасибо" разрабам Яндекса, что пофиксили способ в угоду РКН и теперь он недоступен, так как сейчас при автоматическом обновлении всегда обнуляются параметры "sni/security/type/pbk/sid/fp/mode", раньше все работало.
+
+Варианты доставать подписку через Переводчик остались, но теперь только в ручном режиме методом Copy-Past из браузера (только в таком случае конфиги не бъются):
+
+1. **На сайте** "https://translate.yandex.ru/translate" можно вставить нужную ссылку в поле "Введите адрес сайта";
+
+2. **Вставить ссылку** на подписку  **вместо надписи "ПОДПИСКА"** вот здесь:
+
+https://translate.yandex.ru/translate?url=ПОДПИСКА&lang=de-de
+
+3. **Воспользоваться готовыми ссылками ниже**, которые вы можете сохранить у себя в заметках на телефоне или ПК и пользоваться при необходимости.
+
+---
+
+**СПОСОБ №2 и №3: JSDelivr CDN и Staticaly CDN.**
+
+Почему JSDelivr CDN и Staticaly CDN будут работать?
+
+Если их заблокируют целиком: перестанут нормально открываться тысячи российских ресурсов (интернет-магазины, форумы, государственные порталы), у которых элементы сайта подгружаются через эти CDN.
+
+JSDelivr - это один из самых стабильных способов достать файл с GitHub в РФ без VPN. 
+
+Staticaly CDN - как отличная альтернатива.
+
+Поможет только при Черных Списках.
+
+---
+
+### Ниже - готовые ссылки на подписки через зеркала. 
+
+### Сохраните себе их на устройстве, на случай блокировки GitHub или режима Белых Списков.
+
+#### Черные Списки VLESS ТОП-150: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS_mobile.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS_mobile.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS_mobile.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt
+
+#### Черные Списки VLESS Полная: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_VLESS_RUS.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/BLACK_VLESS_RUS.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt
+
+#### Черные Списки SHADOWSOCKS+ALL: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/BLACK_SS+All_RUS.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/BLACK_SS+All_RUS.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/BLACK_SS+All_RUS.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt
+
+#### TOR BRIDGES ТОП-100:
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt
+
+#### TOR BRIDGES ПОЛНАЯ: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_ALL.txt
+
+#### TOR BRIDGES VANILLA: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_VANILLA.txt
+
+#### TOR BRIDGES OBFS4: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_OBFS4.txt
+
+#### TOR BRIDGES WEBTUNNEL: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/TOR-BRIDGES/TOR_BRIDGES_WEBTUNNEL.txt
+
+#### Белые Списки CIDR ТОП 150 №1: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+#### Белые Списки CIDR ТОП 150 №2: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+#### Белые Списки CIDR полная: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-all.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-all.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-all.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt
+
+#### Белые Списки CIDR только с хостерами: VK, YANDEX, CDNVIDEO, Beeline: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-CIDR-RU-checked.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-checked.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-checked.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt
+
+#### Белые Списки SNI: 
+
+https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/pokerpapa/provpn/main/WHITE-SNI-RU-all.txt&lang=de-de
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-SNI-RU-all.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-SNI-RU-all.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
+
+</details>
+
+*Альтернативные ссылки для доступа к подпискам в режиме белых списков или в случае блокировки GitHub.*
 
 ---
 
