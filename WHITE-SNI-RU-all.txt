@@ -1,14 +1,14 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-26 / 20:57 (Moscow)
+# Date/Time: 2026-03-26 / 22:15 (Moscow)
 # Количество: 8
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://8d5c2801-e4b5-42db-a427-d8a1312c666e@by.1ij.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.47news.ru&fp=chrome&pbk=bDZMVH2376ZpWZLDhnVKA0C2NcAEyXOqVlKrILw8z1E&sid=b424fc54eefe2ba7&packetEncoding=xudp#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5BSNI-RU%5D%20m.47news.ru
-vless://1da30717-91e7-4a46-946f-7ba864992c19@5.colorbox.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xhXjERyogYP80GYaaOHMcPQf2TTu48TcaPjdAY2VMmA&sid=8b8c76fca32f49c8&sni=yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.ru
 vless://3087c9ad-591b-4281-b300-31c4a2dee848@1.colorbox.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JbBSpJmsbm8xIo5iBj1jnSDhxQeCBw5vqZwz0aVhLxk%0A&sid=efc5fd763cf107b9&sni=yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.ru
-vless://9a8a26fa-a59c-4b6d-babe-c3f91e87777c@3.colorbox.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zt9Zfm4-3mri2mvqJvH1rgNOWZieM97zuSZnq4wSGE8&sid=3838fee8d60c3bb9&sni=yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.ru
-vless://eb54aa03-5eaa-4f75-ae52-158a11bdd1e5@4.colorbox.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=UDgJgAAprMiKPsxkHs_oqmRHAdFTjUHjaO4KpKJq8F0&sid=3d8a83470b741809&sni=yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.ru
+vless://f01b93a3-e01f-4759-a14a-e0960bd1cc39@2.colorbox.space:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tWvb4tlSeCWTP-3Xi3Jv3Aq0Bj3Tqxct-ogbm1GDLm4&sid=795e03be12aee3cc&sni=yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20yandex.ru
 vless://8d5c2801-e4b5-42db-a427-d8a1312c666e@pl.1ij.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.47news.ru&fp=chrome&pbk=bDZMVH2376ZpWZLDhnVKA0C2NcAEyXOqVlKrILw8z1E&sid=b424fc54eefe2ba7&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20m.47news.ru
+vless://6f623839-1e6f-36ea-aa5b-5a8d9aa16fcd@193.247.82.50:47004?security=reality&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&fp=qq&pbk=J5-ZvlY9EUESyDK6jv2gRkPLKw-HULy8bJU58o_Blmw&sid=1fbcfafa80e45b24#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20sun6-21.userapi.com
+vless://0a77a746-518e-4f13-b6c6-7c3989a79a43@101.100.173.46:8443?security=reality&encryption=none&pbk=I38UUwyeG55AYD_Y4zleTiyC3eup_FNwU1ZPOmBCm2k&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=70235c69c712f39e#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5BSNI-RU%5D%20ads.x5.ru
 vless://0a77a746-518e-4f13-b6c6-7c3989a79a43@101.100.173.46:3443?security=reality&encryption=none&pbk=h4l96T-xqmGxWo9YqC3lRU1ATlElCXbDjvI6dwf17gE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=d03642b02758d70d#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5BSNI-RU%5D%20eh.vk.com
-vless://3b74a1ce-3a47-405c-8958-9c3793210334@194.87.140.58:51007?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=60TEJBCsFvX5zXOd-fkZHybDaoZEfNFKr1ju3RRgB2M&sid=a2cbdcc24efe55f7&sni=yandex.ru#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20yandex.ru
+vless://3b74a1ce-3a47-405c-8958-9c3793210334@194.87.140.58:51007?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=60TEJBCsFvX5zXOd-fkZHybDaoZEfNFKr1ju3RRgB2M&sid=a2cbdcc24efe55f7&sni=yandex.ru#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20yandex.ru
