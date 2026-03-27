@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-27 / 15:51 (Moscow)
+# Date/Time: 2026-03-27 / 17:20 (Moscow)
 # Количество: 1
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://8d5c2801-e4b5-42db-a427-d8a1312c666e@nl.1ij.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.47news.ru&fp=chrome&pbk=bDZMVH2376ZpWZLDhnVKA0C2NcAEyXOqVlKrILw8z1E&sid=b424fc54eefe2ba7&packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20m.47news.ru
+vless://8d5c2801-e4b5-42db-a427-d8a1312c666e@by.1ij.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.47news.ru&fp=chrome&pbk=bDZMVH2376ZpWZLDhnVKA0C2NcAEyXOqVlKrILw8z1E&sid=b424fc54eefe2ba7&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%BE%20Cyprus%20%5BSNI-RU%5D%20m.47news.ru
