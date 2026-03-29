@@ -48,7 +48,7 @@
 
 ```diff
 
-25-26.03.2026
+25.03.2026
 
 - 1. Добавлены/обновлены зеркала Яндекса, JsDelivr, Statically, Githack на все ссылки репо.
 Чтобы вы могли обновлять ваши подписки, даже
@@ -59,9 +59,20 @@
 
 - 2. Добавлены списки мостов Tor Bridges.
 Чтобы у вас было больше альтернатив Черным Спискам.
-Используйте совместно с Tor Browser, Orbot или Invizible Pro на Android.
+Используйте совместно с Tor Browser на Windows/Linux/MacOS,
+а также с Orbot или Invizible Pro на Android/iOS.
 Внимательно смотрите абзац "СКАЧАТЬ VPN-КОНФИГИ".
 Появился новый раздел "TOR BRIDGES".
+
+- 3. Добавлено описание особенностей работы Tor трафика в приложениях.
+Смотрите раздел "В чем разница между черными и белыми списками 
+и какую подписку выбрать", пункт 2 (б).
+Про UDP и TCP. Что работает и что нет.
+
+- 4. Добавлен раздел "Приложения для TOR BRIDGES на ПК и телефоне".
+
+- 5. Добавлены ссылки на инструкции к каждому отдельному клиенту.
+Karing, v2rayN, v2rayNG, Throne, Streisand, v2Box, Nekobox, Hiddify, ShadowRocket
 ```
 
 ---
@@ -161,7 +172,6 @@
 <details>
 
  <summary><h3>🧾 TOR BRIDGES 🧅</h3></summary>
-
 
 ### TOR BRIDGES ТОП-100: 
 
@@ -584,9 +594,9 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
 | **Какие протоколы и подписки есть?** | В коллекции черных списков есть **2 подписки VLESS** (1 отдельная полная для ПК + 1 сжатая для телефонов), а также **1 подписка Shadowsocks+Hysteria2+Vmess + Trojan** (1 полная одним файлом) |  Протокол тут в основном **VLESS**, разделенный на **4 CIDR-подписки**: 1 полная + 2 сжатые для телефонов + 1 дополнительная (CIDR-ограничения по IP-диапазонам сейчас работают у 100% мобильных операторов РФ, вводящих БС); а также **1-ну SNI-подписку** (ограничения по белым фейковым доменам SNI, что уже редкость) |
 
 
-————
+---
 
-### **2)** **При обычных черных списках ⚫:** **VLESS**, либо **SHADOWSOCKS+ALL**
+### **2)** **При обычных черных списках ⚫:** **VLESS**, либо **SHADOWSOCKS+ALL**, либо TOR BRIDGES
 
   **а)** **VLESS полная • VLESS для телефона • SHADOWSOCKS+ALL:**
 
@@ -594,11 +604,33 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
 
 *Иногда случается, что на проводном интернете доступны все конфигурации, а на Wifi часть не доступна (пингуется тоже не с первого раза, надо повторять).*
 
+————
+
  **б)** **TOR BRIDGES полная  •  ТОП-100  •  VANILLA • OBFS4 • WEBTUNNEL:**
 
-Отличная альтернатива Черным Спискам VPN - мосты TOR BRIDGES. Выполняют те же функции, что и Черные Списки VPN только с одной разницей - выход в сеть осуществляется не через стандартную глобальную сеть (так называемый clearnet), а через сеть Tor. Мосты - это прокси, так как стандартные IP подключения, вшитые в Tor Browser заблокированы РКН. Воспользоваться Tor Bridges вы сможете через Tor Browser или Invizible Pro, которое выступает в качестве клиента на устройстве Android.
+Достойная альтернатива Черным Спискам VPN - мосты TOR BRIDGES. 
 
-————
+Выполняют те же функции, что и Черные Списки VPN только с одной разницей - выход в сеть осуществляется не через стандартную глобальную сеть (так называемый clearnet), а через сеть Tor. Мосты - это прокси, так как стандартные IP подключения, вшитые в Tor Browser заблокированы РКН. 
+
+Воспользоваться Tor Bridges вы сможете через Tor Browser, а также Orbot или Invizible Pro, которые выступают в качестве клиента на устройстве iOS/Android.
+
+Уточнение, есть нюансы: если пользуетесь мостами Tor и оборачиваете ваш трафик в Tor-туннель через клиенты, то работать будут только TCP-потоки, UDP-соединения работать не будут ни при каких обстоятельствах, т.к. сама архитектура Tor не пропускает UDP. 
+
+Как это повлияет на работоспособность? 
+
+а) Браузеры в большинстве случаев завязаны на TCP-потоках и все, что в них происходит, будет загружаться нормально и обычно.
+
+б) Приложения, завязанные на UDP-соединения, такие как Discord или Steam, потеряют часть своего функционала. Какого? 
+
+В Discord будет отправляться текст/картинки/видео/файлы в сообщениях, все как в обычном мессенджере, но голос/видео/стриминг в реальном времени и звонки не пройдут, т.к. "онлайн" завязан на UDP-трафик.
+
+Telegram - то же самое: чаты, обмен сообщениями (текст/картинки/видео/файлы) работают спокойно, но звонки и онлайн-стримы не пройдут.
+
+Steam, в частности, будет открываться и игра будет запускаться, но уже внутри самой игры не будут загружаться онлайн-сервера, т.к. все что связано с "онлайном", завязано на UDP. 
+
+Но это не значит, что так со всеми приложениями. Есть приложения только для TCP-трафика, такие как почтовые клиенты, SSH-клиенты (Git-инструменты в SSH-режиме), SQL-клиенты, FTP/FTPS-клиенты, Клиенты к базам данных и прочее.
+
+---
 
 ### **3)** **При белых списках ⚪: CIDR-ПОДПИСКА или SNI-ПОДПИСКА** 
 
@@ -622,15 +654,15 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
 
   В настоящее время SNI-блокировки почти не применяются мобильными операторами ввиду их легкого обхода, потому что почти каждый может арендовать и настроить свой сервер за границей с необходимым фейковым доменом из белого списка. Но кому-нибудь все равно может сильно повезти и SNI-конфиги смогут обойти ограничения даже сейчас. Тестируйте.
 
-————
+---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Yml0MndhcDZ6dzFuYjY3aG0yNWowN2Rqbnp1aTV2cXNvb3FvMnluMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MxryCOQuSYVVD0SPyp/giphy.gif" width="40"> Как мне воспользоваться этими конфигурациями у себя на устройстве 
 
-### Общие правила:
+### Общие инструкции:
 
 1) VPN-конфигурации на вашем устройстве удобнее всего добавлять через *"добавить профиль"* *"подписку"* или *"группу подписки"* в Karing, v2rayN, Throne, v2rayNG, NekoBox, Streisand и прочие.
 
-2) Копируйте Url-адрес txt-файла Github. Скопировав ссылку, в приложении нужно нажать "Добавить из буфера обмена" или использовать обычную кнопку "Добавить" -> "Настроить вручную" -> тип "Подписка" -> вставить ссылку на txt-файл и задать имя подписке.
+2) Копируйте Url-адрес txt-файла Github. Проверяйте, чтобы была именно RAW-ссылка, а не обычная! Скопировав ссылку, в приложении нужно нажать "Добавить из буфера обмена" или использовать обычную кнопку "Добавить" -> "Настроить вручную" -> тип "Подписка" -> вставить RAW-ссылку на txt-файл и задать имя подписке.
 3) Сканируйте QR-код подписки из следующего пункта. QR-код еще проще - нажимаете кнопку "Добавить" -> "Отсканировать QR-код" и приложение само создаст подписку, вам лишь нужно будет поменять ее имя у себя в телефоне и нажать кнопку "Обновить", если список конфигов не загрузился сразу.
    
    QR-коды находятся под ссылкой на подписку, нажмите на стрелку с названием "QR-код".
@@ -646,67 +678,49 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
 
 9) Можно, также, добавлять все вручную по-отдельности, просто копируя содержимое каждого txt-файла в клиент v2rayN и др., но подписки удобнее тем, что они обновляются автоматически у вас на устройстве после обновления на Github, без необходимости удаления и нового копирования, упрощая процесс.
 
-### Инструкция по каждому клиенту:
+---
 
-<details>
+### Инструкции по каждому клиенту отдельно:
   
-<summary><h4> Инструкция Karing </h4></summary>
+**Инструкция Karing:**
 
+https://github.com/KaringX/karing/blob/main/README_ru.md
 
+https://telegra.ph/Karing-Part1-02-16
 
-</details>
+За предоставленнный подробный русифицированный мануал благодарности пользователю @Пупкин Вася.
 
-<details>
+**Инструкция v2rayN, v2rayNG:**
+
+https://vpnpanels.com/ru/p/setup-v2ray-windows
+
+https://vpnpanels.com/ru/p/setup-v2ray-android/
+ 
+**Инструкция Throne:**
+
+https://wiki.aeza.net/ru/guides/throne/
+
+**Инструкция Streisand, v2Box:**
+
+https://vpnpanels.com/ru/p/setup-v2ray-ios/
   
-<summary><h4> Инструкция v2rayN </h4></summary>
+**Инструкция Nekobox:**
 
-
-
-</details>
-
-<details>
+https://hiddify.com/manager/client-software-on-android/Tutorial-for-Nekobox-app/
   
-<summary><h4> Инструкция Throne </h4></summary>
+**Инструкция Hiddify:**
 
+https://hiddify.com/manager/client-software-on-desktop/Tutorial-for-HiddifyN-software/
 
+https://hiddify.com/app/How-to-use-Hiddify-app/
 
-</details>
+**Инструкция ShadowRocket:**
 
-<details>
-  
-<summary><h4> Инструкция Streisand </h4></summary>
+https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-ShadowRocket-app
 
+---
 
-
-</details>
-
-<details>
-  
-<summary><h4> Инструкция Nekobox </h4></summary>
-
-
-
-</details>
-
-<details>
-  
-<summary><h4> Инструкция Hiddify </h4></summary>
-
-
-
-</details>
-
-<details>
-  
-<summary><h4> Инструкция Happ </h4></summary>
-
-
-
-</details>
-
-————
-
-## 🧩 Приложения для конфигов на ПК и телефоне: 
+## 🧩 Приложения для VPN-конфигов на ПК и телефоне 
 
 В зависимости от клиента могут отличаться рабочие сервера. Поэтому поставьте себе на ПК 2-3 разных клиента: v2rayN, Throne и Karing. Например, в v2RayN конфиги могут все пропинговаться идеально, но часть может не "завестись" по скорости - но это НЕ значит, что они "плохие" (уточню, что конфиги на момент обновления - почти все рабочие), просто v2rayN не смог их правильно "завести", это нормально из-за особенностей работы каждого клиента в отдельности. Часть не работающих полноценно конфигов в v2RayN отлично заработает в Throne, часть - в Karing и других клиентах, поэтому подбирайте что вам ближе и удобнее. Конфигов в целом много, поэтому, даже если часть не заводится - не беда, 70-80% заработает через один клиент уж точно.
 
@@ -781,6 +795,8 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
    **4)** `V2Box` https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 
    **5)** `v2RayTun` https://apps.apple.com/us/app/v2raytun/id6476628951
+
+---
   
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODUzYWRwNzNpa3doMDd1bXo4NTlzanJsaTcya3dlNXA4d3c5cnVzNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width="20"> Android - используйте v2rayNG и NekoBox из GitHub или v2Box и v2RayTun из Google Play.
 
@@ -798,6 +814,41 @@ https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
 
   **4)** `v2RayTun` https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=en&pli=1
 
+---
+
+## 🧅 Приложения для TOR BRIDGES на ПК и телефоне
+
+**Официальная ссылка на скачивание** `Tor Browser` (через VPN): https://www.torproject.org/ru/download/
+
+**Получить обновленную версию** `Tor Browser` **через бота Telegram**: @gettor_bot
+
+**Получить обновленную версию** `Tor Browser` **можно через E-Mail**, отправив письмо с темой "windows", "macos", "linux" или "android" — в зависимости от вашей операционной системы: gettor@torproject.org
+
+*Доступно для Windows, macOS, Linux, Android.*
+
+**Мосты**, кроме как в этом репозитории, вы можете также официально **получить от проекта Tor Project, Inc.** 
+
+Но в этом случае их придется перебирать и тестировать, т.к. мосты попадаются не всегда рабочие для России.
+
+**Мосты через E-Mail** (отправьте письмо с адреса вашей электронной почты Gmail или Riseup): bridges@torproject.org
+
+**Мосты через бота Telegram**: @GetBridgesBot 
+
+**Мосты на официальном сайте Tor Project**: https://bridges.torproject.org/options
+
+### Клиенты для Tor Bridges на мобильных устройствах:
+
+`Orbot` **Wikipedia:** https://en.wikipedia.org/wiki/Orbot
+
+`Orbot` **App Store:** https://apps.apple.com/us/app/orbot/id1609461599
+
+`Orbot` **Google Play:** https://play.google.com/store/apps/details?id=org.torproject.android
+
+`Invizible Pro` **официальный сайт:** https://invizible.net/ru/
+
+`Invizible Pro` **Google Play:** https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp
+
+---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZDhxeG02NHlucTdqZGhtejBnb2V5dGpwaDBmcHhobWlsOHQxdWpoYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/8L0hXHQkY4o7eyQHJB/giphy.gif" width="30"> Полезная информация
 
@@ -875,6 +926,8 @@ DNS-over-HTTPS (DoH) - это тот же DNS, только зашифрован
 </details>
 
 > *Нажмите на стрелку, чтобы посмотреть список*
+
+---
 
 ##  Альтернативные обходы ограничений
 
