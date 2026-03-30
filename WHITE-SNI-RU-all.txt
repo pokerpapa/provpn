@@ -1,11 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-30 / 11:05 (Moscow)
-# Количество: 5
+# Date/Time: 2026-03-30 / 12:37 (Moscow)
+# Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://48380aca-b595-4444-97b1-9c3223dc10ed@213.165.58.203:443?type=tcp&security=reality&encryption=none&fp=random&pbk=3ZkV5iuUZAxag318uKf3lRdZ1x7I65kIrYbkPt8YNG8&sid=21&sni=rbc.ru&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20rbc.ru
-vless://c220f447-badb-4120-aa3c-8c10f0a6dcb0@pol.odavpn.online:59422/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=chrome&security=reality&pbk=Px_ZZaayDydcempYZxuouTf_M4lSFUYaciHWP5-_aFY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20ya.ru
-vless://06306128-7995-46ed-84ed-afabc88c7cd1@194.33.35.102:443?security=reality&encryption=none&pbk=p9OR29TWTl-GViMyOHeQWWd0WZI63MkiK49O3CZ62QA&headerType=none&fp=chrome&type=tcp&sni=dzen.ru&sid=ba9f3c7d5e1a8b4c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20dzen.ru
 vless://1546f279-2acc-40f5-9d1f-0e94d54db834@178.130.41.86:48444?security=reality&encryption=none&pbk=FApUbcJurXfV5Y3PG2xRycl1R7y0CxwmUU7FRgUpzG0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=1a2b3c4d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
-vless://a5e65913-62fa-4fd3-b177-0f1664de3cde@white77.alexanderoff.ru:44416?security=reality&type=grpc&headerType=&serviceName=xyz&authority=&mode=gun&sni=cdn.s3.yandex.net&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20cdn.s3.yandex.net
+vless://cfe3ee90-07fb-44ab-9f68-8bf501ca5abc@ru-5.barryvpn.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&sid=0123456789abcdef&sni=max.ru&path=&host=#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20max.ru
