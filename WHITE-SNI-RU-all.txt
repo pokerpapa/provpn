@@ -1,8 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-30 / 12:37 (Moscow)
+# Date/Time: 2026-03-30 / 15:05 (Moscow)
 # Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://1546f279-2acc-40f5-9d1f-0e94d54db834@178.130.41.86:48444?security=reality&encryption=none&pbk=FApUbcJurXfV5Y3PG2xRycl1R7y0CxwmUU7FRgUpzG0&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=1a2b3c4d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
-vless://cfe3ee90-07fb-44ab-9f68-8bf501ca5abc@ru-5.barryvpn.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=u1QltI2SnUX48F-cqulaVojcSLadC9I1Vt8gOqnFTB4&sid=0123456789abcdef&sni=max.ru&path=&host=#%F0%9F%8C%90%20Anycast-IP%20%5BSNI-RU%5D%20max.ru
+vless://b6c396d5-0edb-477e-9ac1-17322e1af748@tralalero.site:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%5BSNI-RU%5D%20rbc.ru
+vless://825b6942-aec1-4158-9bb9-69f274754173@pl-dp-01.online:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=d2c6d9f6e6e12bfe#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20rbc.ru
