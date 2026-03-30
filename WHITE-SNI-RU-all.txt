@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-03-30 / 17:58 (Moscow)
-# Количество: 8
+# Date/Time: 2026-03-30 / 19:34 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://22b06bc6-7641-4c66-a449-16a37475c2ee@br-m247-01.com:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%20%5BSNI-RU%5D%20rbc.ru
@@ -9,6 +9,5 @@ vless://b6c396d5-0edb-477e-9ac1-17322e1af748@tralalero.site:8443?security=realit
 vless://825b6942-aec1-4158-9bb9-69f274754173@pl-dp-01.online:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=d2c6d9f6e6e12bfe#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20rbc.ru
 vless://383541a4-e809-499f-b6d1-13dfd03ba667@md-alex-01.com:8443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&fp=random&pbk=NtsJnsHr8a9mPDr0SPxdJlSRbdUVmR_-Rq5RVT-3KzA&sid=9f4263b353817e73#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5BSNI-RU%5D%20rbc.ru
 vless://a5e65913-62fa-4fd3-b177-0f1664de3cde@fin136.alexanderoff.ru:4008?type=xhttp&security=reality&encryption=none&fp=chrome&pbk=_tBiRkButwPxxa2HHuNufy0Tyr_0SViQZReJT75JVTI&sid=d49d578f280fd83a&sni=eh.vk.com&host=eh.vk.com&mode=auto&extra=%7BscMaxEachPostBytes%3D1000000.0%2C%20scMaxConcurrentPosts%3D100.0%2C%20scMinPostsIntervalMs%3D30.0%2C%20xPaddingBytes%3D100-1000%2C%20noGRPCHeader%3Dfalse%7D#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20eh.vk.com
-vless://0d0a5a50-e18e-496d-8b33-517222872af0@72.56.236.2:9877?type=tcp&security=reality&flow=xtls-rprx-vision&sni=io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4&fp=chrome&bx=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20io.ozone.ru
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?allowInsecure=1&sni=eh.vk.com&insecure=1&type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5BSNI-RU%5D%20eh.vk.com
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n1.chateditimage.com:443?allowInsecure=1&headerType=none&insecure=1&security=tls&sni=eh.vk.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20eh.vk.com
