@@ -60,7 +60,11 @@
 
 Зеркало: https://web.archive.org/web/https://habr.com/ru/articles/1020080/
 
-**Состояние на 10 апреля 2026 года:**
+В сети опубликовали PDF с описанием выявленных методов слежки в российских приложениях:
+
+PDF файл: **[Russian_apps_spy_for_vpn.pdf](https://github.com/igareck/GoldCaviar/blob/main/Files/Russian_apps_spy_for_vpn.pdf)**
+
+**Состояние на 11 апреля 2026 года:**
 
 **Какие клиенты решили проблему, указанную автором статьи** @runetfreedom **на Хабре (проверено):** 
 
