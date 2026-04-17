@@ -1,23 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 5
-# Date/Time: 2026-04-17 / 21:04 (Moscow)
-# Количество: 17
+# Date/Time: 2026-04-17 / 23:33 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://1226ec8b-b222-471a-908d-9bb5eee1cc8f@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://17a55fa6-b265-4aa7-8578-52796abb2b72@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://287382c3-d1e9-4490-b0b6-13bd891e5b52@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://2ebe3102-b93c-4ed1-863e-3a0c478a7001@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://30106457-9695-4880-b16e-4992e738b011@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://492a5e45-cc8a-47f3-bd25-1075b0355602@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://542906be-bd7f-410d-9b8c-a15615dd56b8@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://560d5b59-c73a-4192-92e9-2073397e32dc@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://6f28cc41-2054-4a77-b1c3-fcc492c15e24@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://834c0fa1-ebf3-4b61-b503-0575dc1a502d@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://92ce9b9d-556d-466f-a97d-ee4a80b0b44e@217.13.104.213:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=sun6-22.userapi.com&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://a64debf6-1ad0-4867-ad75-d71e4004a7a6@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://c810dfae-68a1-4aea-9a7c-b06524ef1ac8@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://de0e9cab-df97-4c1f-b7f1-616ec8c11505@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://e7b6b875-c957-4921-b4e2-e4893ec92b38@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://f1d88d7a-360c-4cd1-96f4-198263f1cfac@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
-vless://f711cae1-a98d-47a1-83e6-f7af03e8a601@217.13.104.213:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=fhMqHujqxaRsM4oM5MOectW90_nHWj7AEftfbO3Ht0Q&sni=sun6-22.userapi.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20%5B%2ACIDR%5D
