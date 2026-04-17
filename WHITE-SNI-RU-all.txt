@@ -1,14 +1,15 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 5
-# Date/Time: 2026-04-17 / 15:40 (Moscow)
-# Количество: 8
+# Date/Time: 2026-04-17 / 17:11 (Moscow)
+# Количество: 9
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://2f3dd19a-950c-48c4-a93e-d8a030177bf1@fi.kuda-idem-nvrsk.ru:29904?type=tcp&security=reality&encryption=none&fp=firefox&pbk=G8lsgZQLC1cydeTSGFcugL-Zwxq-yIoaLONODkMuQA4&sid=ffd804c3bb61&sni=www.vk.com&spx=/1JcRyvpgl1kBsXA#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20www.vk.com
-vless://4e1d3ec4-f36c-4dba-8640-f14914f97e91@ru.verymad.net:20468?type=tcp&security=reality&encryption=none&fp=firefox&pbk=fZN3RaPoUpvSEE07sPTzvQva27vY3ooA3RYci5KL42Q&sid=03e3caa23f4ff727&sni=www.vk.com&spx=/TxcVVEJV9ikCVIo#%F0%9F%87%B8%F0%9F%87%B0%20Slovakia%20%5BSNI-RU%5D%20www.vk.com
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@tr-1.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&spx=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
 vless://TrueVPN_82029038@v546971.hosted-by-vdsina.com:8443?security=reality&sni=www.ozon.ru&fp=random&pbk=Fd8ZnZQFwws2bUouHbGqctACtZg7wNWqSf696-5aW28&sid=ffffffffff&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20www.ozon.ru
 vless://8cf1c214-3376-11f1-bf19-dcb6e8e27879@91.236.230.57:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&sni=cloudcdn-m9-15.cdn.yandex.net&fp=randomized&pbk=APwi9yR-ezZtFU6xj2a3SBoXvEoWOoiRuZSit0N9xWI&sid=#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20cloudcdn-m9-15.cdn.yandex.net
 vless://70c97cd4-835a-453d-9e3b-9065b66aeeeb@193.233.128.247:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ads.x5.ru
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
 hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=eh.vk.com&type=tcp&upmbps=10&downmbps=50#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
 hysteria2://123456789StrongPass@144.31.224.14:443?security=tls&insecure=1&sni=eh.vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
+hysteria2://123456789StrongPass@144.31.224.14:443?sni=eh.vk.com&insecure=1&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
