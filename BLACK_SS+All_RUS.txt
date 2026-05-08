@@ -1,41 +1,24 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | SS, Hy2, Vmess, Trojan
 # profile-update-interval: 1
-# Date/Time: 2026-05-08 / 01:27 (Moscow)
-# Количество: 68
+# Date/Time: 2026-05-08 / 03:43 (Moscow)
+# Количество: 57
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI=@218.158.249.174:10002?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%3D2560%3Btls%3Bsni%3Dwoshinidie-et3.pages.dev%3Bmux%3D0%3Bobfs%3Dwebsocket%3Bobfs-host%3Dwoshinidie-et3.pages.dev&sni=woshinidie-et3.pages.dev&security=tls#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ss://bm9uZTo1OWZjNWY4Yy01Njk3LTRlYjgtYWNmMi04YWUzNjNmMjAzYTI@218.158.249.174:10002?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dwoshinidie-et3.pages.dev%3Bpath%3D%2F59fc5f8c-5697-4eb8-acf2-8ae363f203a2%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:40022?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:40022?security=tls&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41073?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41073?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41211?sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41283?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41484?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41484?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41590?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41590?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41590?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41689?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41784?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41784?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41802?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41915?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41984?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41984?sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056/?insecure=1&sni=flkf.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?headerType=none&encryption=none&sni=flkf.mangshe.xyz&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://4d092122-268a-4a1a-b23f-83931c5abc3a@37.114.49.38:2056?security=tls&insecure=1&sni=flkf.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
@@ -44,31 +27,37 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443/?insecure=1&
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-005.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-005.fastervpn.world&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443/?insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443/?insecure=1&sni=vpn-jp-010.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-010.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-010.fastervpn.world&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443/?insecure=1&sni=vpn-jp-011.fastervpn.world#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-011.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-jp-011.fastervpn.world&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443?headerType=none&encryption=none&sni=bing.com&insecure=1#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
 hysteria2://239471f8-4608-438e-9d2e-a6a950d98ad4@31.59.104.139:8443?sni=bing.com&insecure=1#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%2C%20Riga%20%7C%20%5BBL%5D
-hysteria2://c5ff9631-1d11-4298-8c79-27bc53e41a04@edge-di.yuetong.online:30933/?insecure=0&sni=edge-di.yuetong.online#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D
-hysteria2://c5ff9631-1d11-4298-8c79-27bc53e41a04@edge-di.yuetong.online:34204/?insecure=0&sni=edge-di.yuetong.online#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taipei%20%7C%20%5BBL%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443/?insecure=1&sni=vpn-tw-001.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?headerType=none&encryption=none&sni=vpn-tw-001.fastervpn.world&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-tw-001.fastervpn.world:443?security=tls&insecure=1&sni=vpn-tw-001.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@157.254.223.43:27921?headerType=none&encryption=none&sni=apple.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@157.254.223.43:27921?headerType=none&encryption=none&sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@157.254.223.43:27921?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Buffalo%20%7C%20%5BBL%5D
-hysteria2://58b662c7-9481-4689-968c-76e048f1a958@46.38.157.183:10001?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+hysteria2://58b662c7-9481-4689-968c-76e048f1a958@46.38.157.183:10001?headerType=none&encryption=none&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+hysteria2://6d1696e4-e423-4ac5-b48c-e9ade2987deb@46.38.157.183:10002?headerType=none&encryption=none&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 hysteria2://6d1696e4-e423-4ac5-b48c-e9ade2987deb@46.38.157.183:10002?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 hysteria2://b26aff39-5782-4380-95af-b033fc4c0820@46.38.157.183:10005?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 hysteria2://f8551394-bf88-4ade-a835-3628dc7de30a@46.38.157.183:10003?insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
+hysteria2://9a94ba24@156.239.46.82:56524?headerType=none&encryption=none&sni=www.bing.com&insecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 hysteria2://9a94ba24@156.239.46.82:56524?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 hysteria2://9a94ba24@156.239.46.82:56524?insecure=1&sni=www.bing.com&mport=56524%2C50000-60000#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Downtown%20Los%20Angeles%29%20%7C%20%5BBL%5D
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@178.18.147.66:29900?insecure=1&sni=www.microsoft.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjhjOGZiNjYxLTdiMTYtNDllZi1hYWJiLWRhZDA1MzM5N2M4ZCIsInNuaSI6Im5vZGUzMC5vdXJmYXN0LmFzaWEiLCJob3N0Ijoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBhdGgiOiIvIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM5YjRmOTEyLWYxYjAtNDQ0ZS1iYmY5LWFiN2I1MmUwZmEyZSIsInNuaSI6Im5vZGUzMC5vdXJmYXN0LmFzaWEiLCJob3N0Ijoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBhdGgiOiIvIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBvcnQiOiI0NDMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjM5YjRmOTEyLWYxYjAtNDQ0ZS1iYmY5LWFiN2I1MmUwZmEyZSIsInNuaSI6Im5vZGUzMC5vdXJmYXN0LmFzaWEiLCJob3N0Ijoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBhdGgiOiIvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBvcnQiOiI0NDMiLCJpZCI6IjhjOGZiNjYxLTdiMTYtNDllZi1hYWJiLWRhZDA1MzM5N2M4ZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJub2RlMzAub3VyZmFzdC5hc2lhIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsImFsbG93SW5zZWN1cmUiOjAsInNuaSI6IiIsImFscG4iOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoibm9kZTMwLm91cmZhc3QuYXNpYSIsInBvcnQiOiI0NDMiLCJpZCI6IjM2MDQ3MGY0LThjMzgtNDkzNC1iNjkwLTQ0NThjMDgzNDYwNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJub2RlMzAub3VyZmFzdC5hc2lhIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsImFsbG93SW5zZWN1cmUiOjAsInNuaSI6IiIsImFscG4iOiIifQ==
-vmess://eyJhZGQiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJwb3J0IjoiMTAwMjIiLCJpZCI6Ijk0MWE3OTk5LTY4YmMtNDVkOC1iYjdmLWIwYTJmMWQxNmZlNCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiaG9zdCI6InVzMS1zcy5mbHlwYXJ0cy5jbiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vmess://eyJhZGQiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJwb3J0IjoiMTAwMjIiLCJpZCI6IjkxYTk4OGRjLTk5ZDUtNGMwZC1hOTk5LWExZDRkZDcyYWQyMSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiaG9zdCI6InVzMS1zcy5mbHlwYXJ0cy5jbiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiI0My4xNjIuMTA1LjMwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJpZCI6IjkxYTk4OGRjLTk5ZDUtNGMwZC1hOTk5LWExZDRkZDcyYWQyMSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTAwMjIiLCJwcyI6IvCfh7rwn4e4IFVuaXRlZCBTdGF0ZXMsIFNhbnRhIENsYXJhIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ1czEtc3MuZmx5cGFydHMuY24iLCJwb3J0IjoiMTAwMjIiLCJpZCI6ImE5YWZlOTFmLWM5YzAtNGNiYy05MDhhLWU2MjM4OTJkZmVhZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVW5pdGVkIFN0YXRlcywgU2FudGEgQ2xhcmEgfCBbQkxdIiwiaG9zdCI6InVzMS1zcy5mbHlwYXJ0cy5jbiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?type=ws&path=%2Ff2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Holborn%20%7C%20%5BBL%5D
 trojan://GP-MnpOCSXOTH_pFntTEIg@216.105.168.58:443?security=none&type=ws&headerType=&path=/&host=telegram.org&prefix= ¨#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://TXFkyCbNU4WTD3Xebs7bog@216.105.168.58:443?security=none&type=ws&headerType=&path=/&host=telegram.org&prefix= ¨#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
-trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+trojan://XODfuHEtrGfr-J86k2bx-Q@66.23.207.68:443?path=%2F&security=none&host=telegram.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20National%20City%20%7C%20%5BBL%5D
+trojan://162534@185.121.134.40:8443?type=ws&security=tls&path=/?ed=2560&https://t.me/@anonymouskeys&host=cchh2.pages.dev&sni=cchh2.pages.dev&fp=chrome&allowInsecure=#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
