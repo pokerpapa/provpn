@@ -1,12 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-05-14 / 16:41 (Moscow)
-# Количество: 6
+# Date/Time: 2026-05-14 / 20:30 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@46.243.234.151:443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=grpc&fp=random&sni=eh.vk.com&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20CDN
-vless://6183c1c0-2853-4e83-b31b-19527950b23b@90.156.215.164:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=random&pbk=gZakFTUC23DnCPU63fEhj8ywghbAGDGiUHlc7RB_8Go&sid=4e89f9e0c016374f#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
-vless://6183c1c0-2853-4e83-b31b-19527950b23b@90.156.215.183:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
-vless://6183c1c0-2853-4e83-b31b-19527950b23b@90.156.215.183:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api.max.ru&fp=chrome&pbk=aySWi4vGm4__zU_RFNtym1AyjtfY0AX9WoigfVG7hWA&sid=6c183039c8fe2676#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5B%2ACIDR%5D%20VK
 vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@158.160.38.221:443?fragment=100-200%2C10-20%2Ctlshello%2C100-200&fp=chrome&type=tcp&pbk=pxKqxFKiZjeTlVKv1JM7DozcbBJYp-_nK75KS1JVpSE&sid=1a1e145c&headerType=none&spx=%2F&security=reality&flow=xtls-rprx-vision&sni=max.ru&r=4f79f1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20YA
-vless://3249a588-0b96-4209-9601-621c7d827cd0@158.160.218.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=u918pQoBaR_OKVik9dhLdqhTWDpyWdh84MjukzFCZio&sid=c71038697ba6f498#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://7e2f5f6f-c033-4c14-a02f-b04de44e7224@212.233.98.229:8443?fp=chrome&headertype=none&pbk=fSDlnAmI1kknEMUDiytK5v0SXiurWrxO4q5XGSqSR38&security=reality&sni=masterdel.ru.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@51.250.47.0:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=ads.x5.ru&pbk=4iuR2mv0RnnPZbwvQuZ4L07Bois8hMUczEbMeDF0iRc&sid=fb38c1c83009e1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
