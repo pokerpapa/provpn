@@ -1,8 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-05-20 / 12:45 (Moscow)
-# Количество: 2
+# Date/Time: 2026-05-20 / 17:36 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://30f5b380-5b9e-4d42-a50c-508a2a8cb2f6@germany2.telega.now:443?type=tcp&headerType=none&security=reality&encryption=none&sni=xapi.ozon.ru&fp=chrome&pbk=EA-Sxh4tF7Iym27iYccYI5aCrc796cBJgRv9_maBbl4&sid=0ffcc7&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20xapi.ozon.ru
-vless://613ec6b1-be75-487d-a5e9-713471a2a2da@f-eu3.powerhost.pro:443?type=xhttp&security=reality&fp=chrome&pbk=KNJVnH7B-1BAb9z5DW9vgQ_XHMGdEop0_WzbfhXFoHI&sid=a60d3a8e9039648f&sni=sun6-21.userapi.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20sun6-21.userapi.com
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.91.55.108:443?type=tcp&security=reality&pbk=NeqzZ-mb_awh3RG7kQg094X0mWfSaudtSlmodTA_1BM&fp=chrome&sni=sun6-20.userapi.com&sid=edd304d1&flow=xtls-rprx-vision#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20sun6-20.userapi.com
+vless://a53ce585-0291-4d45-89d0-adabed1a2271@ru.vz-or.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun9-38.userapi.com&pbk=RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE&sid=abbcd128&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BSNI-RU%5D%20sun9-38.userapi.com
+vless://7625adbb-52f7-4ff4-95f8-677471071a77@89.127.210.216:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-MS_qpxViChYzpiJc9JOzyeee72MxtOF_eb7zJpeZxA&security=reality&sid=6ba85179e30d4fc2&sni=io.ozone.ru&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20io.ozone.ru
