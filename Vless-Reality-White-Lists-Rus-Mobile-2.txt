@@ -1,6 +1,16 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-05-22 / 20:35 (Moscow)
-# Количество: 0
+# Date/Time: 2026-05-22 / 22:28 (Moscow)
+# Количество: 10
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@158.160.152.184:443?type=tcp&security=reality&fp=chrome&pbk=2Et7jJQgInNsCchmLQhDOUj4WjKwvXDxSXA72ZrMjRc&sid=e08298be&sni=ads.x5.ru&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@158.160.162.212:443?type=tcp&security=reality&fp=chrome&pbk=IVsSs9ohELtMphDA1TJ72Hqxn2HgpJdhSJuLhZFnBwg&sid=47693015&sni=ads.x5.ru&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@158.160.169.247:443?type=tcp&security=reality&fp=chrome&pbk=WFWCKjBb7VzyZsZ73mQyU4ROa-kzxGTv9bAcYeTBoHs&sid=dde1f65f&sni=ads.x5.ru&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://ee6ca40f-57e4-5943-8e4c-7a9b911aff44@158.160.249.65:443?type=tcp&security=reality&fp=chrome&pbk=ICbaUTFU_kk6wFJbn_WVM8pJIigkuq2kqhAiBFuq11Q&sid=96b94e23&sni=ads.x5.ru&mux=true&muxConcurrency=8&fragment=100-200,10-20,tlshello#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://06c89951-0e91-4ed6-b4be-2237a7559979@158.160.255.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://d658ea41-ef4c-49d0-8f86-18959592e863@158.160.255.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://e533f992-dabc-4e53-ac24-75654a0ca532@158.160.255.35:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20YA
+vless://35fd6e20-d441-4403-bf75-3182f43a4489@auto.api-rutube.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cdn.trahodrom.fun&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://41990152-3b7f-40a2-b692-49148d7053a5@158.160.156.172:5988?security=reality&encryption=none&pbk=FQrOWrsi6jfp5YX7QDdXUigTUgq0HOuDKM78Cp6P50g&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=surfvpn24.ru&sid=c19de8fa#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?insecure=0&alpn=h3&fp=&sni=s463.okgfwbackxyz.xyz#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
