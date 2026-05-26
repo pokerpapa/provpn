@@ -1,12 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-05-26 / 09:48 (Moscow)
-# Количество: 6
+# Date/Time: 2026-05-26 / 17:41 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://ccbbd3a3-db22-4f82-956e-d65178de2743@37.77.106.113:443?type=xhttp&security=reality&fp=chrome&pbk=tFKuLI3W0VZ7IxAL6hFQhD7DWmxAl0_NCjLya_I64zQ&sid=b2d4f6e8&sni=okko.tv&path=/berketgo&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20okko.tv
-vless://b4186875-7023-4f20-88b2-125a04943b2b@gegege.lightforum.su:443?fp=random&host=storage.yandexcloud.net&mode=auto&path=%2Ftopschool.backet%2Fpublic%2Fcourse_cover%2Fe20b56b6-8679-4123-89c4-963142e1bb7c.png&pbk=n5P9loBH9eKY7Lj6uVi2CMh7vZcAclKWYjbSOWG0mkU&security=reality&sid=54c7c13b52eea5f3&sni=storage.yandexcloud.net&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20storage.yandexcloud.net
+vless://77defd0f-bcb2-46b1-ab8d-b5e4e4adea18@130.49.189.40:8443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=chrome&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#%F0%9F%87%A6%F0%9F%87%B1%20Albania%20%5BSNI-RU%5D%20ads.x5.ru
+vless://106c376f-431d-4ea0-bc61-f82308fefb4e@94.125.103.201:443?flow=xtls-rprx-vision&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=2f49bccf11150ef2&sni=ads.x5.ru&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%20%5BSNI-RU%5D%20ads.x5.ru
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.91.53.57:443?type=tcp&security=reality&pbk=RpB5c3RXN12fp9odK5E47XDQT3nf7AY0TtVbXU9vUS8&fp=chrome&sni=www.vk.com&sid=dfc739&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20www.vk.com
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@62.217.179.4:443?mode=auto&path=/api/v3/f29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&allowinsecure=0&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521b2#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20ads.x5.ru
-vless://84c0e8e7-c497-45c2-9c13-777a2fa9e6f7@217.60.25.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=queuev4.vk.com&fp=chrome&security=reality&pbk=LszM5vYxUf7XqS_FRmhhJHcIOnqAMnOKcQ7j-QE0sWQ&sid=6ba85279e30d44c2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20queuev4.vk.com
+vless://106c376f-431d-4ea0-bc61-f82308fefb4e@83.168.91.237:443?flow=xtls-rprx-vision&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&security=reality&sid=b76dcf9e1183fe1b&sni=ads.x5.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?path=%2Fapi%2Fv3%2Ff29479507adb&security=reality&encryption=none&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&host=ads.x5.ru&fp=chrome&type=xhttp&sni=ads.x5.ru&sid=2da46294d6a521B2#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
 vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@155.212.146.195:443?type=xhttp&security=reality&fp=chrome&pbk=AhQkw1Ydp_ZkXnE7UbIZvwHk9KE_Bf5_TkojYZZUuGs&sid=2da46294d6a521B2&sni=ads.x5.ru&path=%2Fapi%2Fv3%2Ff29479507adb&mode=auto#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ads.x5.ru
