@@ -1,10 +1,9 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-06-01 / 10:48 (Moscow)
-# Количество: 4
+# Date/Time: 2026-06-01 / 17:28 (Moscow)
+# Количество: 3
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://033f6ad0-90c1-4ebf-ac12-09d158a13daa@s2.fastfilex.pro:8080?type=xhttp&security=reality&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&sni=ozon.ru&mode=auto&extra=%7B#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20ozon.ru
 vless://87be8be2-9296-4912-944e-d49cc81485d8@85.158.109.113:443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&type=xhttp&path=/tDjkeuxyQPUDqF8wT2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20www.kinopoisk.ru
 vless://87be8be2-9296-4912-944e-d49cc81485d8@85.158.109.113:443?encryption=none&type=xhttp&mode=auto&host=www.kinopoisk.ru&path=%2FtDjkeuxyQPUDqF8wT2&security=reality&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sni=www.kinopoisk.ru&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20www.kinopoisk.ru
-vless://5a2dd675-410e-4553-a81b-db7cc8b02d59@72.5.42.122:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.yandex.ru&pbk=CxjnGHCI3HXN2RAXwytela7jXyOGDCBqzMAqTfm60D0&sid=4ed920401771c4ab&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%5BSNI-RU%5D%20www.yandex.ru
+vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vruyc.mostserv.xyz:443?type=tcp&headerType=none&security=reality&encryption=none&sni=ads.x5.ru&fp=chrome&pbk=EBISh6QAVskJ_nvet-Qio9jS2yqxe9de6GMScYlbjhI&sid=226509f017e4c36d&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20ads.x5.ru
