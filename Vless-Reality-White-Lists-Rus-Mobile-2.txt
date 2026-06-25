@@ -1,6 +1,21 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-06-25 / 22:53 (Moscow)
-# Количество: 0
+# Date/Time: 2026-06-26 / 01:29 (Moscow)
+# Количество: 15
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&insecure=0&headerType=none&sni=fta.fontanvpn.com&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&freeinternet=kizyak_vpn1782416487286#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=0&encryption=none&sni=fta.fontanvpn.com&headerType=none&_t=d1c0cc0c&seq=you_are_beautiful0919#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?insecure=1&sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782323570413#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&freeinternet=kizyak_vpn1782335316958#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&headerType=none&insecure=0&encryption=none&__rand=df80d432#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com&insecure=0&encryption=none&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&headerType=none&nonce=vKY6H3Vl#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&insecure=0&sni=fta.fontanvpn.com&seq=you_are_beautiful1378#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?burmalda=f3ababc1&sni=fta.fontanvpn.com&__rand=025d5f55&_t=6cacf777#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?burmalda=f3ababc1&sni=fta.fontanvpn.com&descriptions=141&__rand=025d5f55&__rand=746706be#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&__rand=025d5f55&sni=fta.fontanvpn.com&__rand=94cf702c&descriptions=_c888e7#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&headerType=none&__rand=025d5f55&sni=fta.fontanvpn.com&insecure=0&__rand=94cf702c#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&sni=fta.fontanvpn.com&insecure=0&headerType=none&__rand=025d5f55&freeinternet=kizyak_vpn178219664666#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?insecure=0&sni=fta.fontanvpn.com&__rand=025d5f55&burmalda=f3ababc1&burmalda=2a86d095#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&__rand=025d5f55&__rand=7bfe579d#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?sni=fta.fontanvpn.com&__rand=025d5f55&insecure=0&burmalda=f3ababc1&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8Fd215e6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
