@@ -1,11 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-06-26 / 20:40 (Moscow)
-# Количество: 5
+# Date/Time: 2026-06-26 / 23:15 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F4bf2f6&insecure=0&seq=you_are_beautiful5049&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?encryption=none&sni=fta.fontanvpn.com&descriptions=_4bf2f6#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?headerType=none&encryption=none&sni=fta.fontanvpn.com&insecure=0&descriptions=%D0%BB%D1%8E%D0%B1%D0%B8_%D1%81%D0%B5%D0%B1%D1%8F1275ab#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?__rand=025d5f55&sni=fta.fontanvpn.com&nonce=dPzla-4Q#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443?encryption=none&sni=fta.fontanvpn.com&__rand=025d5f55&nonce=F5a7cE2x#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
