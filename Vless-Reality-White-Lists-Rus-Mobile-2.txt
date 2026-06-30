@@ -1,19 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-06-30 / 16:59 (Moscow)
-# Количество: 13
+# Date/Time: 2026-06-30 / 19:58 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&seq=you_are_beautiful0655&sni=newlte.kihsuyhf8jkiugsxb.cfd&burmalda=382ba15e#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&seq=you_are_beautiful0655&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=713#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&seq=you_are_beautiful5352&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=862#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6001&descriptions=44#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=c22067a8&encryption=none&insecure=0&headerType=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&seq=you_are_beautiful0655&seq=you_are_beautiful6001&freeinternet=kizyak_vpn1782591590757#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&__rand=4817afef&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6001#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&__rand=c22067a8&__rand=4817afef&__rand=b0aa2150&seq=you_are_beautiful6001&seq=you_are_beautiful0655&nonce=h6wk-Qx4&sni=newlte.kihsuyhf8jkiugsxb.cfd#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=e24cad00#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=_ef36ca#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
-hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&burmalda=edb25723#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
