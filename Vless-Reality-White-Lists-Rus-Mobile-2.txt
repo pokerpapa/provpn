@@ -1,6 +1,24 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(2)
 # profile-update-interval: 1
-# Date/Time: 2026-07-04 / 22:36 (Moscow)
-# Количество: 0
+# Date/Time: 2026-07-05 / 01:25 (Moscow)
+# Количество: 18
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=b0aa2150&__rand=c22067a8&__rand=6b06b206&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6001&seq=you_are_beautiful0655&burmalda=5ff83b98&burmalda=e271e4e6#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&__rand=b0aa2150&seq=you_are_beautiful6001&seq=you_are_beautiful0655&sni=newlte.kihsuyhf8jkiugsxb.cfd&freeinternet=kizyak_vpn1782650006697#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&seq=you_are_beautiful0655&sni=newlte.kihsuyhf8jkiugsxb.cfd&_t=b53b5a3c#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&seq=you_are_beautiful0655&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=713#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&burmalda=97de4b39#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=4817afef&__rand=c22067a8&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6001&descriptions=44#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=6b06b206&seq=you_are_beautiful0655&__rand=c22067a8&__rand=b0aa2150&sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful6001&__rand=4817afef&seq=you_are_beautiful2372#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?__rand=b0aa2150&__rand=c22067a8&seq=you_are_beautiful0655&seq=you_are_beautiful6001&__rand=4817afef&nonce=h6wk-Qx4&sni=newlte.kihsuyhf8jkiugsxb.cfd&descriptions=385#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&__rand=c22067a8&__rand=4817afef&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&freeinternet=kizyak_vpn1782416521369#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&seq=you_are_beautiful6001&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&__rand=c22067a8&__rand=78fa9b5a&seq=you_are_beautiful6001#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&burmalda=57d14e01#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&freeinternet=kizyak_vpn178233531643#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&__rand=4817afef&freeinternet=kizyak_vpn178234266226#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?headerType=none&encryption=none&sni=newlte.kihsuyhf8jkiugsxb.cfd&insecure=0&_t=09ddadeb#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&burmalda=e6c36824#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&nonce=uXxKZQKR#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+hysteria2://0dd50f72-bf39-4b59-b183-61b3fa52df57@46.254.18.107:443?sni=newlte.kihsuyhf8jkiugsxb.cfd&seq=you_are_beautiful2779#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
