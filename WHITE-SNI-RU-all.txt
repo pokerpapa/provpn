@@ -1,9 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-07-25 / 04:36 (Moscow)
-# Количество: 3
+# Date/Time: 2026-07-25 / 09:12 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@140.233.160.24:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=ya.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20ya.ru
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@140.233.160.24:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=ya.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20ya.ru
-vless://da7685a7-15ef-41e4-a0d9-009bb4be7220@140.233.160.24:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=ya.ru&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&sid=abcd&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5BSNI-RU%5D%20ya.ru
