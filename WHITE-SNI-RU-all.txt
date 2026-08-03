@@ -1,8 +1,12 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-08-03 / 05:16 (Moscow)
-# Количество: 2
+# Date/Time: 2026-08-03 / 09:36 (Moscow)
+# Количество: 6
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@2.26.5.213:18443?fp=edge&host=max.ru&mode=stream-one&path=%2Fxhttp-pl&pbk=UnbK4twvjELS1JYF3bPotbz6Yqmr568f7NFetgt-i0I&security=reality&sid=148cb4094a&sni=max.ru&spx=%2F&type=xhttp#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20max.ru
-vless://fc1ee51e-72ec-4af0-ab0f-540c9e22427b@2.26.5.213:18443?host=max.ru&mode=stream-one&path=%2Fxhttp-pl&pbk=UnbK4twvjELS1JYF3bPotbz6Yqmr568f7NFetgt-i0I&security=reality&sid=148cb4094a&sni=max.ru&spx=%2F&type=xhttp&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20max.ru
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?security=reality&encryption=none&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&serviceName=vless-grpc-reality&path=/#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?type=grpc&security=reality&fp=edge&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?type=grpc&security=reality&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?type=grpc&security=reality&fp=ios&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@ss.l90909l.vip:2096?type=grpc&security=reality&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=id.vk.com&mode=gun&serviceName=vless-grpc-reality#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20id.vk.com
