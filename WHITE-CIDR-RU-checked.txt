@@ -1,6 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-04 / 19:43 (Moscow)
-# Количество: 0
+# Date/Time: 2026-08-04 / 22:03 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=android#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://851ed0d8-a37b-452d-8ef2-5b6c2d28a060@158.160.9.223:443?encryption=none&flow=xtls-rprx-vision&pbk=rZgu2lJcC2yrYnx66znee-Z75mW6m4TRfWt7_neoEVI&security=reality&sid=1b8e04c90af97d47&sni=rbc.ru&type=raw&fp=ios#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
