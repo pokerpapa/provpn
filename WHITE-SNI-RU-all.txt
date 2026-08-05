@@ -1,11 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-08-05 / 09:22 (Moscow)
-# Количество: 5
+# Date/Time: 2026-08-05 / 12:56 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@168.222.253.225:34499?encryption=none&type=grpc&security=reality&sni=m.vk.com&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&serviceName=grpc&fp=android#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%7C%20%5BSNI-RU%5D%20m.vk.com
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@168.222.253.225:34499?encryption=none&type=grpc&security=reality&sni=m.vk.com&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&serviceName=grpc&fp=chrome#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%7C%20%5BSNI-RU%5D%20m.vk.com
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@168.222.253.225:34499?encryption=none&type=grpc&security=reality&sni=m.vk.com&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&serviceName=grpc&fp=firefox#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%7C%20%5BSNI-RU%5D%20m.vk.com
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@168.222.253.225:34499?encryption=none&type=grpc&security=reality&sni=m.vk.com&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&serviceName=grpc&fp=qq#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%7C%20%5BSNI-RU%5D%20m.vk.com
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@168.222.253.225:34499?encryption=none&type=grpc&security=reality&sni=m.vk.com&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&serviceName=grpc&fp=safari#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%20%5BSNI-RU%5D%20m.vk.com
