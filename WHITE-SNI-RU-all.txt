@@ -1,9 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 10:32 (Moscow)
-# Количество: 3
+# Date/Time: 2026-08-11 / 13:18 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.128.48:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%5BSNI-RU%5D%20vk.com
 hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443/?insecure=1&sni=vk.com#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20vk.com
+hysteria2://b7c9e2f1-4d83-42a1-9e5f-sg2026proxy@209.74.81.28:8443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%5BSNI-RU%5D%20vk.com
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20vk.com
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20vk.com
