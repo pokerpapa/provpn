@@ -1,11 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-11 / 14:53 (Moscow)
-# Количество: 5
+# Date/Time: 2026-08-11 / 17:41 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=android#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=qq#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8f6085da-2a5f-4969-97c8-ee3e490ec75d@obx1.vypnet.su:443?security=reality&flow=xtls-rprx-vision&type=raw&sni=obx1.vypnet.su&pbk=C819rM4M_c473A8glp-eBFh8Fm9O1cmEeXmivDhM1Fc&fp=safari#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D%20VK
