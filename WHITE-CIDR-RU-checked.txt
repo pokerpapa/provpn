@@ -1,7 +1,7 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-16 / 17:00 (Moscow)
+# Date/Time: 2026-08-16 / 18:46 (Moscow)
 # Количество: 1
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-hysteria2://hysteria2_fastlane_0w714uuli%3A4VnAvMp3WwKxTciga4mV7PRitYxAHDFc@84.23.54.203:1935?sni=ru2.h.smartaisupport.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
+vless://707db87b-9cbf-438f-b4c7-9d984c8e944a@serv25.strettenvpn.com:443?type=tcp&security=none&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
