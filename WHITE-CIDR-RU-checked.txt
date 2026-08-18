@@ -1,9 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-18 / 04:45 (Moscow)
-# Количество: 3
+# Date/Time: 2026-08-18 / 07:22 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=disagreedebut.net&type=raw#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20Beeline
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?security=tls&encryption=none&sni=disagreedebut.net&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20Beeline
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?security=tls&encryption=none&sni=disagreedebut.net&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20Beeline
