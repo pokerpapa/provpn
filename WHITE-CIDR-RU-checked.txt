@@ -1,6 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-08-28 / 17:34 (Moscow)
-# Количество: 0
+# Date/Time: 2026-08-29 / 05:30 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@5.188.141.67:8449?encryption=none&flow=xtls-rprx-vision&security=tls&sni=edge-vk.vpn.partners&alpn=h2&type=tcp&headerType=none&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D%20VK
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@5.188.141.67:8449?encryption=none&flow=xtls-rprx-vision&security=tls&sni=edge-vk.vpn.partners&alpn=h2&type=tcp&headerType=none&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D%20VK
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@5.188.141.67:8449?encryption=none&flow=xtls-rprx-vision&security=tls&sni=edge-vk.vpn.partners&alpn=h2&type=tcp&headerType=none&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D%20VK
+vless://2dfd0db2-cd4e-4c09-97fc-67c3d8ee9409@5.188.141.67:8449?encryption=none&flow=xtls-rprx-vision&security=tls&sni=edge-vk.vpn.partners&alpn=h2&type=tcp&headerType=none&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D%20VK
