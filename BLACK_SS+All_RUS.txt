@@ -1,7 +1,7 @@
 # profile-title: 🏴 ЧЕРНЫЕ СПИСКИ 🏴 BLACK LISTS | Полная • Full | SS, Hy2, Vmess, Trojan
 # profile-update-interval: 1
-# Date/Time: 2026-09-04 / 16:47 (Moscow)
-# Количество: 13
+# Date/Time: 2026-09-04 / 20:22 (Moscow)
+# Количество: 36
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
 # RU: Эта подписка может содержать Trojan/Hysteria2/Hy2 с legacy-параметрами insecure=1 или allowInsecure=1.
@@ -15,13 +15,36 @@
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=t.me&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://f165967b-5a97-4791-8d19-aefabab31cd8@156.226.169.208:55644?insecure=1&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=127.0.0.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=fr.vpn.legendaah.xyz#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@deu0003ntrhy01.tcp-reset-club.net:443?insecure=1&sni=deu0003ntrhy01.tcp-reset-club.net#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443?insecure=1&sni=t.me#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20Mumbai%20%7C%20%5BBL%5D
 hysteria2://9c5be37406b6584005b8de0ee3734dd9@140.238.43.0:50160?insecure=1&sni=www.bing.com#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Inzai%20%28Otsuka%29%20%7C%20%5BBL%5D
+hysteria2://5d0a6445-a30d-4522-bb1f-94f1d3ad63be@mlxy2.mangshe.xyz:2060?insecure=1&sni=mlxy2.mangshe.xyz#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%2C%20Cyberjaya%20%7C%20%5BBL%5D
+hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Loyang%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Chuncheon-si%20%7C%20%5BBL%5D
 hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Chuncheon-si%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Incheon%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443?insecure=1&sni=t.me#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Incheon%20%7C%20%5BBL%5D
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yangcheondong%20%7C%20%5BBL%5D
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443?insecure=1&sni=speedtest.tinkoff.ru#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?insecure=1&sni=127.0.0.1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443?security=tls&insecure=1&sni=che01plrhy01.tcp-reset-club.net#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=nl01ntrhy01.tcp-reset-club.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
 hysteria2://29c2de1cf5408523ed4d3252199079d2@108.59.244.158:443?insecure=1&sni=vk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicVRLRFI4alhFM3dFRnhKTS52LjNkbnMudmlwIiwiYWxwbiI6IiIsInBhdGgiOiIvd3Mtdm1lc3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJxVEtEUjhqWEUzd0VGeEpNLnYuM2Rucy52aXAiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoicXRrZHI4anhlM3dlZnhqbS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoicVRLRFI4alhFM3dFRnhKTS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiZHJia2cxNmVnZjNmemxtMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwic25pIjoiZHJia2cxNmVnZjNmemxtMy52LjNkbnMudmlwIiwiYWxsb3dJbnNlY3VyZSI6IjEiLCJpbnNlY3VyZSI6IjEiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiZHJia2cxNmVnZjNmemxtMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyNy1jMWY5LTQzNzMtODc2Yy0yZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6ImRyYmtnMTZlZ2YzZnpsbTMudi4zZG5zLnZpcCIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiJjZTBnZWRweHdvdTZjcW9uLnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6ImNlMGdlZHB4d291NmNxb24udi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcsIEhvbmcgS29uZyB8IFtCTF0iLCJzbmkiOiJjZTBnZWRweHdvdTZjcW9uLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiJzYWNkYS50ci5zbmFwZXVyb3AuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImExN2JlMWVmLWQ1YmMtNDFhMS1hZWFjLWIwMjM0NTgyM2YwNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh7nwn4e3IFR1cmtleSwgSXN0YW5idWwgfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://kakashka13222@5.249.164.28:25615?allowInsecure=1&alpn=http%2F1.1&host=op-1.firecone.eu&path=%2Ffemboyporn--femboyporn--femboyporn--femboyporn%2Ffree-trojan-node%2Fonly-smux-supported&security=tls&sni=op-1.firecone.eu&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20M%C3%BCnster%20%7C%20%5BBL%5D
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=edge#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=firefox#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://v2whz6ahmyy2f84j@subtu.charsoulink3.ir:2087?sni=pus.mmdaqaorg2.ir&headerType=none&allowInsecure=0&type=tcp&insecure=0&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&fp=safari#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
