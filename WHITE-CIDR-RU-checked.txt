@@ -1,6 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-06 / 02:15 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-06 / 03:21 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://6126424f-b7b0-4307-92d5-3e7c5b99c9f9@185.241.195.74:443?encryption=none&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=edge-pull-m4.malina24.xyz&type=raw&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://6126424f-b7b0-4307-92d5-3e7c5b99c9f9@185.241.195.74:443?encryption=none&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=edge-pull-m4.malina24.xyz&type=raw&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://6126424f-b7b0-4307-92d5-3e7c5b99c9f9@185.241.195.74:443?encryption=none&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=edge-pull-m4.malina24.xyz&type=raw&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://6126424f-b7b0-4307-92d5-3e7c5b99c9f9@185.241.195.74:443?encryption=none&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=edge-pull-m4.malina24.xyz&type=raw&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
+vless://6126424f-b7b0-4307-92d5-3e7c5b99c9f9@185.241.195.74:443?encryption=none&flow=xtls-rprx-vision&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&sid=5678&sni=edge-pull-m4.malina24.xyz&type=raw&fp=safari#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5B%2ACIDR%5D%20VK
