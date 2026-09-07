@@ -118,7 +118,7 @@
 ```diff
 Обратите внимание!
 
-Самый пик нагрузок и блокировок - это дневное время. 
+Самый пик нагрузок/блокировок - это дневное время (Понедельник-Пятница). 
 Наилучшую выживаемость днем показали 2 подписки: 
 BLACK_SS+All_RUS (стандартный или Clash-формат), а особенно TOR BRIDGES!
 Из-за возросшей нагрузки и усиленных массовых блокировок 
@@ -146,7 +146,7 @@ BLACK_SS+All_RUS (стандартный или Clash-формат), а особ
 
 *Подписки для клиентов v2rayNG/Streisand/Happ/v2RayTun/V2Box - это однокнопочное единое подключение, которое само автоматически подбирает сервер, там не будет списка конфигов, как в других подписках. v2rayN - автоматическая конфигурация PolicyGroup, но вместе с полным списком серверов.* 
 
-*Если соединение у подписки с автопроверкой вдруг оборвалось во время работы, а это иногда случается при отвале конфигурации, чтобы не ждать автоматику - просто перезапустите подключение, подождите 5-20 секунд, приложение повторно выберет лучший прокси и соединение снова появится. Если вы работаете в Mihomo-клиентах, то можно вручную выбирать из списка (удобно), без ожидания автоматики и полного переподключения.*
+*Если соединение у подписки с автопроверкой вдруг оборвалось во время работы, чтобы не ждать автоматику - просто перезапустите подключение, подождите 5-20 секунд, приложение повторно выберет лучший прокси и соединение снова появится. Если вы работаете в Mihomo-клиентах, то можно вручную выбирать из списка, без ожидания автоматики или полного переподключения.*
 
 | | |
 |:---|:---|
@@ -158,7 +158,7 @@ BLACK_SS+All_RUS (стандартный или Clash-формат), а особ
 
 ТОП-150 варианты ЧС и БС - всегда легкие, оптимизированные, универсальные под большинство клиентов, самый идеальный вариант для телефонов или чтобы попробовать в первый раз.
 
-**Если мобильные подписки ЧС работают нестабильно - пробуйте полные наборы (примерно с 11 утра до 23 вечера лучше всего работает подписка BLACK_SS+All_RUS):**
+**Если мобильные подписки ЧС работают нестабильно - пробуйте полные наборы (примерно с 11 утра до 23 вечера Пн-Пт лучше всего работает подписка BLACK_SS+All_RUS):**
 
  **[BLACK_SS+All_RUS.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS%2BAll_RUS.txt) или [BLACK_SS+All_RUS_clash_rudirect.yaml](https://raw.githack.com/igareck/vpn-configs-for-russia/main/Export/Clash/RU_DIRECT/BLACK_SS%2BAll_RUS_clash_rudirect.yaml)** 
 
@@ -166,7 +166,7 @@ BLACK_SS+All_RUS (стандартный или Clash-формат), а особ
 
 **Для Karing или Mihomo-клиентов.**
 
-Ссылки и QR-коды ко всем подпискам, а также список всех клиентов для ПК/Роутеров/iOS/Android с подробными инструкциями вы найдете ниже.
+Ссылки и QR-коды ко всем подпискам + список всех клиентов для ПК/Роутеров/iOS/Android + инструкции вы найдете ниже.
 
 </details>
 
@@ -180,7 +180,7 @@ BLACK_SS+All_RUS (стандартный или Clash-формат), а особ
 
 **Все [TOR BRIDGES](https://github.com/pokerpapa/provpn/tree/main/TOR-BRIDGES) в этом репозитории тестируются каждые 4 часа специально для работы в России, проверяется их задержка, скорость и полная доступность.** Не путайте с обычным пингом, он не показывает реальную работоспособность.
 
-VPN конфигурации, начиная с 1 сентября, стали работать с большими перебоями в дневное время: примерно с 11 утра до 23 вечера по Московскому времени. Худший период для публичного VPN - в районе 13:00, в это время происходит массовый отвал всего, особенно VLESS. Постепенно восстанавливаться все начинает только после 19-20 часов вечера. А более-менее стабильная работа у VPN - теперь только ночью, примерно с 23 вечера до 11 утра. 
+VPN конфигурации, начиная с 1 сентября, с Понедельника по Пятницу, стали работать с большими перебоями в дневное время: примерно с 11 утра до 23 вечера по Московскому времени. Худший период для публичного VPN - в районе 13:00, в это время происходит массовый отвал всего, особенно VLESS. Постепенно восстанавливаться все начинает только после 19-20 часов вечера. А более-менее стабильная работа у VPN - теперь только ночью, примерно с 23 вечера до 11 утра. 
 
 Поэтому днем используйте TOR, он стабильно работает в любое время суток!
 
@@ -201,7 +201,7 @@ VPN конфигурации, начиная с 1 сентября, стали �
 
 То есть пинг у них успешный, но трафик со временем перестает проходить.
 
-Решилось это все через настройки DNS в клиенте.
+Решилось это все через настройки Remote DNS (Удаленный DNS) в клиенте.
 
 Приведу примеры:
 
@@ -814,7 +814,7 @@ GitLab/Codeberg/Gitea/SourceHut/Bitbucket/Githack RAW - информация а�
 
 `⬇   ПОРЯДОК ДЕЙСТВИЙ   ⬇`
 
-`В начале проверим - работает ли интернет вообще: откроем Yandex.ru, Госуслуги, ВК, Rutube.ru, Сбербанк, Mail.ru, Ozon. Если ничего из этого не открывается - у вас не работает интернет в принципе (нет никакого соединения) и никакие конфиги тут не помогут! В этом случае проверьте подключение у себя на устройстве!"`
+`В начале проверим - работает ли интернет вообще: откроем Dzen.ru, Yandex.ru, Госуслуги, ВК, Rutube.ru, Сбербанк, Mail.ru, Ozon. Если ничего из этого не открывается - у вас не работает интернет в принципе (нет никакого соединения) и никакие конфиги тут не помогут! В этом случае проверьте подключение у себя на устройстве!"`
 
 `Если вдруг "не грузит ни в какую", то часто помогает сброс подключения к сети (перезагрузка): включаете "Авиарежим" на 10-15 секунд, потом выключаете, пробуете подключение снова - профит!`
 
@@ -826,11 +826,11 @@ GitLab/Codeberg/Gitea/SourceHut/Bitbucket/Githack RAW - информация а�
 |--|--|--|
 | **Кратко** | Черные списки - это когда "разрешено все, что не запрещено" | Белые списки - это когда "запрещено все, что не разрешено" |
 | **Какой тип интернета?** | Любой кабельный + мобильный без жестких ограничений | Мобильный с самыми жесткими ограничениями |
-| **Что работает?** | Интернет работает как обычно: открывается Google, App Store, Telegram или любой обычный иностранный сайт/сервис, который в России не заблокирован официально | У вас мобильный интернет и ничего не работает кроме Yandex.ru, Госуслуг, ВК, Rutube, Сбербанка, Mail.ru, Ozon и других утвержденных РКН сайтов. Ни Google.com, ни GMail, ни App Store, ни Telegram, ни один иностранный сайт не открывается. Зайти получается только на те Российские сайты, которые одобрил регулятор, используя свои "белые" списки. То есть, например, РКН одобрил только Яндекс и Озон - вы сможете зайти только на Яндекс и Озон и никуда кроме |
-| **Какая цель VPN?** | Посетить сервис, который официально заблокирован в России: смотреть YouTube в 4K, звонить/чатиться в WhatsApp, Viber, Signal, FaceTime, Facebook, Discord, постить в Instagram, X(Twitter), пользоваться LinkedIn, играть в Roblox (да, разблокировали Roblox, но кто знает, что будет завтра), пользоваться Telegram, Grok, ChatGPT, Gemini и прочее | Просто зайти хоть куда-нибудь кроме Яндекса, Сбербанка, Госуслуг и ВК во время ограничений. Использовать сервис, который не сильно требователен к пингу и пропускной способности сети: WhatsApp, Telegram, Google, любой E-Mail, видео в YouTube с телефона. Не рассчитано на тяжелый трафик и онлайн-игры (пробовать можно, но результат не гарантирован) |
+| **Что работает?** | Интернет работает как обычно: открывается Google, App Store, Wikipedia или любой обычный иностранный сайт/сервис, который в России не заблокирован официально | У вас мобильный интернет и ничего не работает кроме Dzen.ru, Yandex.ru, Госуслуг, ВК, Rutube, Сбербанка, Mail.ru, Ozon и других утвержденных РКН сайтов. Ни Google.com, ни GMail, ни App Store, ни Telegram, ни один иностранный сайт не открывается. Зайти получается только на те Российские сайты, которые одобрил регулятор, используя свои "белые" списки. То есть, например, РКН одобрил только Яндекс и Озон - вы сможете зайти только на Яндекс и Озон и никуда кроме |
+| **Какая цель VPN?** | Посетить сервис, который официально заблокирован в России: смотреть YouTube, звонить/чатиться в Telegram, WhatsApp, Viber, Signal, FaceTime, Facebook, Discord, постить в Instagram, X(Twitter), пользоваться LinkedIn, играть в Roblox (да, разблокировали Roblox, но кто знает, что будет завтра), пользоваться Grok, ChatGPT, Gemini и прочее | Просто зайти хоть куда-нибудь кроме Яндекса, Сбербанка, Госуслуг и ВК во время ограничений. Использовать сервис, который не сильно требователен к пингу и пропускной способности сети: WhatsApp, Telegram, Google, любой E-Mail, видео в YouTube с телефона. Не рассчитано на тяжелый трафик и онлайн-игры (пробовать можно, но результат не гарантирован) |
 | **Примечание** | Конфигурации "Черный список" - по сути, это самый обычный/универсальный/международный вариант VPN, только с современным протоколом! Черный список также самый быстрый, так как работает в стандартных условиях | Конфигурации "Белый список" - по сути это специализированный VPN, обходящий специфические тяжелые ограничения в текущих Российских условиях |
 | **Что мне выбрать?** | Если у вас кабельный интернет, или мобильный без ограничений и ваша ситуация подходит под описание в этой "левой" колонке - то вам нужна подписка "ЧЕРНЫЙ СПИСОК" или "TOR BRIDGES" | Если у вас мобильный интернет, все ограничено и ваша ситуация подходит под описание в этой "правой" колонке, то вам нужна подписка "БЕЛЫЙ СПИСОК" |
-| **Какие протоколы и подписки есть?** | В коллекции черных списков есть разделение по протоколам: **подписка Shadowsocks+Hysteria2+Vmess + Trojan** **[BLACK_SS+All_RUS.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt)**, **подписка VLESS** **[BLACK_VLESS_RUS.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt)**, а также сжатая ТОП-150 подписка для телефонов **[BLACK_VLESS_RUS_mobile.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt)** (VLESS в названии чисто исходное, в реальности  - это ТОП-150 микс всех доступных конфигураций) |  Протокол тут в основном **VLESS**, разделенный на **4 CIDR-подписки**: 1 полная **[WHITE-CIDR-RU-all.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt)** + 1 сжатая для телефонов **[Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt)** + 1 дополнительная **[WHITE-CIDR-RU-checked.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt)** (CIDR-ограничения по IP-диапазонам сейчас работают у 100% мобильных операторов РФ, вводящих БС); а также **1-ну SNI-подписку** **[WHITE-SNI-RU-all.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt)** (ограничения по белым фейковым доменам SNI, что уже не работает в плане обхода БС, а только ЧС) |
+| **Какие протоколы и подписки есть?** | В коллекции черных списков есть разделение по протоколам: **подписка Shadowsocks+Hysteria2+Vmess + Trojan** **[BLACK_SS+All_RUS.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt)**, **подписка VLESS** **[BLACK_VLESS_RUS.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt)**, а также сжатая ТОП-150 подписка для телефонов **[BLACK_VLESS_RUS_mobile.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS_mobile.txt)** (VLESS в названии чисто исходное, в реальности  - это ТОП-150 микс всех доступных конфигураций). **Аналог Черных Списков - [TOR BRIDGES](https://github.com/pokerpapa/provpn/tree/main/TOR-BRIDGES)** |  Протокол тут в основном **VLESS**, разделенный на **4 CIDR-подписки**: 1 полная **[WHITE-CIDR-RU-all.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt)** + 1 сжатая для телефонов **[Vless-Reality-White-Lists-Rus-Mobile.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt)** + 1 дополнительная **[WHITE-CIDR-RU-checked.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt)** (CIDR-ограничения по IP-диапазонам сейчас работают у 100% мобильных операторов РФ, вводящих БС); а также **1-ну SNI-подписку** **[WHITE-SNI-RU-all.txt](https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt)** (ограничения по белым фейковым доменам SNI, что уже не работает в плане обхода БС, а только ЧС) |
 
 ---
 
@@ -1390,13 +1390,16 @@ https://github.com/pokerpapa/provpn/tree/main/Export/Clash/GLOBAL
 
     **Зачем?** Для продвинутых пользователей: если необходимо поменять какие-либо опции Clash-подписок вручную в самом клиенте Clash Verge Rev, сделав их глобальными для любых входящих подписок. Настройки, записанные в самом клиенте Clash Verge Rev перезапишут настройки из любых входящих Clash-подписок при совпадении.
 
+<details>
+<summary><strong><code> YAML-профиль BLACKLIST RU-DIRECT для ЧЕРНЫХ СПИСКОВ </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
 ```diff
 # ============================================================
 # Igareck Mihomo Client Profile
 # Профиль настроек без встроенных прокси.
 # Прокси должны поступать из подключённой подписки.
 #
-# Режим:
+# Режим BLACKLIST RU-DIRECT:
 # - автоматический выбор лучшего прокси;
 # - ручной выбор прокси;
 # - RU-DIRECT.
@@ -1576,6 +1579,7 @@ proxy-groups:
 rules:
   - DOMAIN-SUFFIX,localhost,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
   - "DOMAIN-REGEX,^[^.]+$,DIRECT"
 
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
@@ -1598,6 +1602,215 @@ rules:
 
   - "MATCH,Igareck Manual (Ручное Подключение)"
 ```
+
+</details>
+
+<details>
+<summary><strong><code> YAML-профиль WHITELIST для БЕЛЫХ СПИСКОВ </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
+```diff
+# ============================================================
+# Igareck Mihomo WL Client Profile
+# Профиль настроек без встроенных прокси.
+# Прокси должны поступать из подключённой подписки.
+#
+# Режим WHITELIST (БЕЛЫЕ СПИСКИ):
+# - автоматический выбор лучшего прокси;
+# - ручной выбор прокси;
+# - GLOBAL (весь интернет через прокси).
+# ============================================================
+
+
+mode: rule
+unified-delay: true
+tcp-concurrent: true
+
+keep-alive-idle: 300
+keep-alive-interval: 60
+disable-keep-alive: false
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+dns:
+  enable: true
+  prefer-h3: false
+  ipv6: false
+  use-hosts: true
+  use-system-hosts: true
+  # Подключения к зарубежным DoH из nameserver направляются
+  # через правила маршрутизации и активную прокси-группу.
+  respect-rules: true
+
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter-mode: blacklist
+
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "localhost"
+
+    - "time.*.com"
+    - "time.*.gov"
+    - "time.*.apple.com"
+    - "time-ios.apple.com"
+    - "time1.*.com"
+    - "time2.*.com"
+    - "time3.*.com"
+    - "time4.*.com"
+    - "time5.*.com"
+    - "time6.*.com"
+    - "time7.*.com"
+
+    - "ntp.*.com"
+    - "ntp1.*.com"
+    - "ntp2.*.com"
+    - "ntp3.*.com"
+    - "ntp4.*.com"
+    - "ntp5.*.com"
+    - "ntp6.*.com"
+    - "ntp7.*.com"
+    - "*.pool.ntp.org"
+
+    - "+.push.apple.com"
+
+    - "+.stun.*.*"
+    - "+.stun.*.*.*"
+    - "+.stun.*.*.*.*"
+    - "+.stun.*.*.*.*.*"
+    - "+.stun.playstation.net"
+
+    - "lens.l.google.com"
+    - "*.n.n.srv.nintendo.net"
+    - "xbox.*.*.microsoft.com"
+    - "*.*.xboxlive.com"
+
+    - "*.msftncsi.com"
+    - "*.msftconnecttest.com"
+
+    - "WORKGROUP"
+
+  cache-algorithm: arc
+
+  default-nameserver:
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  nameserver:
+    - https://dns.google/dns-query
+    - https://dns.quad9.net/dns-query
+    - https://dns.adguard-dns.com/dns-query
+    - https://freedns.controld.com/p0
+    - https://dns.mullvad.net/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://doh.libredns.gr/dns-query
+    - https://doh.dns4all.eu/dns-query
+    - https://wikimedia-dns.org/dns-query
+    - https://dns.hostux.net/dns-query
+    - https://blank.dnsforge.de/dns-query
+
+  proxy-server-nameserver:
+    - system
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  direct-nameserver:
+    - system
+    - https://common.dot.dns.yandex.net/dns-query
+    - https://safe.dot.dns.yandex.net/dns-query
+    - https://family.dot.dns.yandex.net/dns-query
+
+  direct-nameserver-follow-policy: false
+
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+
+    TLS:
+      ports: [443, 8443]
+
+    QUIC:
+      ports: [443, 8443]
+
+proxy-groups:
+  - name: "Igareck Auto Select (Автоподключение)"
+    type: url-test
+    include-all: true
+    exclude-type: "Direct|Reject|RejectDrop|Compatible|Pass|Dns"
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 150
+    lazy: true
+    timeout: 5000
+    max-failed-times: 2
+    expected-status: 204
+
+  - name: "Igareck Manual (Ручное Подключение)"
+    type: select
+    proxies:
+      - "Igareck Auto Select (Автоподключение)"
+    include-all: true
+    exclude-type: "Direct|Reject|RejectDrop|Compatible|Pass|Dns"
+    default-selected: "Igareck Auto Select (Автоподключение)"
+
+  - name: "GLOBAL"
+    type: select
+    proxies:
+      - "Igareck Auto Select (Автоподключение)"
+      - "Igareck Manual (Ручное Подключение)"
+    default-selected: "Igareck Auto Select (Автоподключение)"
+
+rules:
+  - DOMAIN-SUFFIX,localhost,DIRECT
+  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
+  - "DOMAIN-REGEX,^[^.]+$,DIRECT"
+
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+
+  - "MATCH,Igareck Manual (Ручное Подключение)"
+```
+
+</details>
 
 ---
 
@@ -1753,9 +1966,9 @@ geoip:private       → bypass
 
 https://github.com/hiddify/Hiddify-Manager/wiki/Tutorial-for-ShadowRocket-app
 
-**1. Конфигурационный файл RU-DIRECT**
+**1. Конфигурационный файл BLACKLIST RU-DIRECT**
 
-**[Скачать Shadowrocket_RU_DIRECT_ROUTING.conf](https://raw.githack.com/igareck/GoldCaviar/main/Files/Shadowrocket_RU_DIRECT_ROUTING.conf)**
+**[Скачать Shadowrocket_BL_RU_DIRECT_ROUTING.conf](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Shadowrocket_BL_RU_DIRECT_ROUTING.conf)**
 
 <details>
 <summary><code> Открыть </code></summary>
@@ -1854,9 +2067,9 @@ localhost = 127.0.0.1
 </details>
 
 
-**2. Конфигурационный файл GLOBAL**
+**2. Конфигурационный файл BLACKLIST GLOBAL**
 
-**[Скачать Shadowrocket_GLOBAL_ROUTING.conf](https://raw.githack.com/igareck/GoldCaviar/main/Files/Shadowrocket_GLOBAL_ROUTING.conf)**
+**[Скачать Shadowrocket_BL_GLOBAL_ROUTING.conf](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Shadowrocket_BL_GLOBAL_ROUTING.conf)**
 
 <details>
 <summary><code> Открыть </code></summary>
@@ -1900,6 +2113,109 @@ allow-dns-svcb = false
 allow-dns-all = true
 
 dns-server = 8.8.8.8,8.8.4.4,9.9.9.9,94.140.14.14,76.76.2.0,76.76.10.0,1.0.0.1,1.1.1.1,208.67.220.220,208.67.222.222,system
+
+fallback-dns-server = system
+dns-fallback-system = true
+
+proxy-dns-server = https://dns.google/dns-query#no-h3,https://dns.quad9.net/dns-query#no-h3,https://dns.adguard-dns.com/dns-query#no-h3,https://freedns.controld.com/p0#no-h3,https://dns.mullvad.net/dns-query#no-h3,https://cloudflare-dns.com/dns-query#no-h3,https://doh.opendns.com/dns-query#no-h3,https://doh.libredns.gr/dns-query#no-h3,https://doh.dns4all.eu/dns-query#no-h3,https://wikimedia-dns.org/dns-query#no-h3,https://dns.hostux.net/dns-query#no-h3,https://blank.dnsforge.de/dns-query#no-h3
+
+dns-direct-system = false
+dns-direct-fallback-proxy = false
+hijack-dns = *:53
+
+always-real-ip = *.lan,*.local,localhost,time.*.com,time.*.gov,time.*.apple.com,time-ios.apple.com,time1.*.com,time2.*.com,time3.*.com,time4.*.com,time5.*.com,time6.*.com,time7.*.com,ntp.*.com,ntp1.*.com,ntp2.*.com,ntp3.*.com,ntp4.*.com,ntp5.*.com,ntp6.*.com,ntp7.*.com,*.pool.ntp.org,push.apple.com,*.push.apple.com,stun.*.*,*.stun.*.*,stun.*.*.*,*.stun.*.*.*,stun.*.*.*.*,*.stun.*.*.*.*,stun.*.*.*.*.*,*.stun.*.*.*.*.*,stun.playstation.net,*.stun.playstation.net,lens.l.google.com,*.n.n.srv.nintendo.net,xbox.*.*.microsoft.com,*.*.xboxlive.com,*.msftncsi.com,*.msftconnecttest.com,WORKGROUP
+
+skip-proxy = 127.0.0.0/8,10.0.0.0/8,172.16.0.0/12,192.168.0.0/16,169.254.0.0/16,100.64.0.0/10,localhost,*.local,*.lan
+
+tun-excluded-routes = 10.0.0.0/8,100.64.0.0/10,127.0.0.0/8,169.254.0.0/16,172.16.0.0/12,192.0.0.0/24,192.0.2.0/24,192.88.99.0/24,192.168.0.0/16,198.51.100.0/24,203.0.113.0/24,224.0.0.0/4,239.255.255.250/32,255.255.255.255/32
+
+udp-policy-not-supported-behaviour = REJECT
+block-quic = always-allow
+use-local-host-item-for-proxy = true
+icmp-auto-reply = false
+always-reject-url-rewrite = false
+
+[Rule]
+
+DOMAIN,localhost,DIRECT
+DOMAIN-SUFFIX,local,DIRECT
+DOMAIN-SUFFIX,lan,DIRECT
+
+IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
+IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+
+IP-CIDR,::1/128,DIRECT,no-resolve
+IP-CIDR,fc00::/7,DIRECT,no-resolve
+IP-CIDR,fe80::/10,DIRECT,no-resolve
+
+FINAL,PROXY
+
+[Host]
+
+localhost = 127.0.0.1
+```
+
+</details>
+
+**3. Конфигурационный файл WHITELIST**
+
+**[Скачать Shadowrocket_WL_GLOBAL_ROUTING.conf](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Shadowrocket_WL_GLOBAL_ROUTING.conf)**
+
+<details>
+<summary><code> Открыть </code></summary>
+
+㋡
+
+```diff
+# Shadowrocket WHITELIST GLOBAL routing and DNS configuration
+#
+# ENG
+# This file does not contain proxy nodes.
+# First add a normal RAW/Base64 WHITELIST subscription to Shadowrocket and
+# configure Shadowrocket's native automatic proxy testing/selection. Then
+# import and activate this .conf in the Configuration ("Настройка") routing
+# mode.
+#
+# WHITELIST GLOBAL means all external Internet traffic uses PROXY. Localhost,
+# private networks, and LAN devices remain DIRECT so the router and local
+# devices stay reachable.
+#
+# Russian and system DNS resolvers are used directly for bootstrap and DIRECT
+# lookups. External DNS lookups for proxied traffic use DoH through PROXY.
+#
+# RU
+# Этот файл не содержит прокси-узлов.
+# Сначала добавьте в Shadowrocket обычную RAW/Base64-подписку WHITELIST и
+# настройте встроенную автоматическую проверку и выбор прокси. Затем
+# импортируйте этот файл .conf и активируйте его в режиме маршрутизации
+# «Настройка».
+#
+# WHITELIST GLOBAL означает, что весь внешний интернет-трафик направляется
+# через PROXY. Localhost, частные сети и устройства локальной сети остаются в
+# режиме DIRECT, чтобы сохранить доступ к роутеру и другим локальным
+# устройствам.
+#
+# Российские и системный DNS используются напрямую для bootstrap и запросов
+# DIRECT. Зарубежные DoH для трафика PROXY доступны через прокси.
+#
+# For more information visit: github.com/pokerpapa/provpn
+
+[General]
+
+ipv6 = false
+prefer-ipv6 = false
+ipv6-only-if-no-ipv4-dns = false
+
+private-ip-answer = true
+always-ip-address = false
+allow-dns-svcb = false
+allow-dns-all = true
+
+dns-server = system,https://common.dot.dns.yandex.net/dns-query#no-h3,https://safe.dot.dns.yandex.net/dns-query#no-h3,https://family.dot.dns.yandex.net/dns-query#no-h3,77.88.8.1,77.88.8.2,77.88.8.3,77.88.8.7,77.88.8.8,77.88.8.88,89.175.167.27,94.72.28.59,95.31.212.206,82.140.107.246,83.149.26.2,188.162.79.131
 
 fallback-dns-server = system
 dns-fallback-system = true
@@ -2005,15 +2321,21 @@ localhost = 127.0.0.1
 
 **Domestic DNS**
 
-Вставьте одной строкой:
+Для подписок BLACKLIST:
 
 ```diff
 8.8.8.8,8.8.4.4,9.9.9.9,94.140.14.14,76.76.2.0,76.76.10.0,1.0.0.1,1.1.1.1,208.67.220.220,208.67.222.222
 ```
 
+Для подписок WHITELIST:
+
+```diff
+localhost,https://common.dot.dns.yandex.net/dns-query,https://safe.dot.dns.yandex.net/dns-query,https://family.dot.dns.yandex.net/dns-query
+```
+
 **Remote DNS**
 
-Вставьте одной строкой:
+Для любых подписок:
 
 ```diff
 https://dns.google/dns-query,https://dns.quad9.net/dns-query,https://dns.adguard-dns.com/dns-query,https://freedns.controld.com/p0,https://dns.mullvad.net/dns-query,https://cloudflare-dns.com/dns-query,https://doh.opendns.com/dns-query,https://doh.libredns.gr/dns-query,https://doh.dns4all.eu/dns-query,https://wikimedia-dns.org/dns-query,https://dns.hostux.net/dns-query,https://blank.dnsforge.de/dns-query
@@ -2021,13 +2343,19 @@ https://dns.google/dns-query,https://dns.quad9.net/dns-query,https://dns.adguard
 
 **Bootstrap DNS**
 
-Вставьте одной строкой:
+Для подписок BLACKLIST:
 
 ```diff
 8.8.8.8,8.8.4.4,9.9.9.9,94.140.14.14,76.76.2.0,76.76.10.0,1.0.0.1,1.1.1.1,208.67.220.220,208.67.222.222
 ```
 
-Остальные параметры Basic DNS Settings:
+Для подписок WHITELIST:
+
+```diff
+77.88.8.1,77.88.8.2,77.88.8.3,77.88.8.7,77.88.8.8,77.88.8.88,89.175.167.27,94.72.28.59,95.31.212.206,82.140.107.246,83.149.26.2,188.162.79.131
+```
+
+**Остальные параметры Basic DNS Settings:**
 
 ```diff
 • Direct Target Resolution Strategy: UseIPv4
@@ -2456,6 +2784,9 @@ $CRASHDIR/yamls/user.yaml
 
 Вставить общие параметры:
 
+<details>
+<summary><strong><code> Общие параметры для ЧЕРНЫХ СПИСКОВ (YAML) </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
 ```diff
 mode: rule
 unified-delay: true
@@ -2603,6 +2934,158 @@ sniffer:
 </details>
 
 <details>
+<summary><strong><code> Общие параметры для БЕЛЫХ СПИСКОВ (YAML) </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
+```diff
+mode: rule
+unified-delay: true
+tcp-concurrent: true
+
+keep-alive-idle: 300
+keep-alive-interval: 60
+disable-keep-alive: false
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+dns:
+  enable: true
+  prefer-h3: false
+  ipv6: false
+  use-hosts: true
+  use-system-hosts: true
+  # Подключения к зарубежным DoH из nameserver направляются
+  # через правила маршрутизации и активную прокси-группу.
+  respect-rules: true
+
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter-mode: blacklist
+
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "localhost"
+
+    - "time.*.com"
+    - "time.*.gov"
+    - "time.*.apple.com"
+    - "time-ios.apple.com"
+    - "time1.*.com"
+    - "time2.*.com"
+    - "time3.*.com"
+    - "time4.*.com"
+    - "time5.*.com"
+    - "time6.*.com"
+    - "time7.*.com"
+
+    - "ntp.*.com"
+    - "ntp1.*.com"
+    - "ntp2.*.com"
+    - "ntp3.*.com"
+    - "ntp4.*.com"
+    - "ntp5.*.com"
+    - "ntp6.*.com"
+    - "ntp7.*.com"
+    - "*.pool.ntp.org"
+
+    - "+.push.apple.com"
+
+    - "+.stun.*.*"
+    - "+.stun.*.*.*"
+    - "+.stun.*.*.*.*"
+    - "+.stun.*.*.*.*.*"
+    - "+.stun.playstation.net"
+
+    - "lens.l.google.com"
+    - "*.n.n.srv.nintendo.net"
+    - "xbox.*.*.microsoft.com"
+    - "*.*.xboxlive.com"
+
+    - "*.msftncsi.com"
+    - "*.msftconnecttest.com"
+
+    - "WORKGROUP"
+
+  cache-algorithm: arc
+
+  default-nameserver:
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  nameserver:
+    - https://dns.google/dns-query
+    - https://dns.quad9.net/dns-query
+    - https://dns.adguard-dns.com/dns-query
+    - https://freedns.controld.com/p0
+    - https://dns.mullvad.net/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://doh.libredns.gr/dns-query
+    - https://doh.dns4all.eu/dns-query
+    - https://wikimedia-dns.org/dns-query
+    - https://dns.hostux.net/dns-query
+    - https://blank.dnsforge.de/dns-query
+
+  proxy-server-nameserver:
+    - system
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  direct-nameserver:
+    - system
+    - https://common.dot.dns.yandex.net/dns-query
+    - https://safe.dot.dns.yandex.net/dns-query
+    - https://family.dot.dns.yandex.net/dns-query
+
+  direct-nameserver-follow-policy: false
+
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+
+    TLS:
+      ports: [443, 8443]
+
+    QUIC:
+      ports: [443, 8443]
+```
+
+</details>
+
+---
+
+</details>
+
+<details>
 <summary><code> Группы proxy-groups.yaml </code></summary>
 
 **Группы** `proxy-groups.yaml`
@@ -2700,6 +3183,7 @@ $CRASHDIR/yamls/rules.yaml
 ```diff
   - DOMAIN-SUFFIX,localhost,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
   - "DOMAIN-REGEX,^[^.]+$,DIRECT"
 
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
@@ -2713,7 +3197,7 @@ $CRASHDIR/yamls/rules.yaml
   - IP-CIDR6,fc00::/7,DIRECT,no-resolve
   - IP-CIDR6,fe80::/10,DIRECT,no-resolve
 
-  # Удалите 4 следующие строки для Глобального/Не-RU-Direct роутинга
+  # Удалите 4 следующие строки для Глобального/Не-RU-Direct или Whitelist роутинга
   # Delete the next 4 lines for Global/Not-RU-Direct routing
   - DOMAIN-SUFFIX,ru,DIRECT
   - DOMAIN-SUFFIX,xn--p1ai,DIRECT
@@ -3012,6 +3496,7 @@ Services
 rules:
   - DOMAIN-SUFFIX,localhost,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
   - "DOMAIN-REGEX,^[^.]+$,DIRECT"
 
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
@@ -3222,13 +3707,16 @@ Services
 
 *Заметка: Nikki-YAML отличается от стандартного YAML тем, что блок `rules:` называется `nikki-rules:`.*
 
+<details>
+<summary><strong><code> Конфигурационный файл BLACKLIST RU-DIRECT для ЧЕРНЫХ СПИСКОВ (YAML) </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
 ```diff
 # ============================================================
 # Igareck Nikki Client Profile
 # Профиль настроек без встроенных прокси.
 # Прокси должны поступать из подключённой подписки.
 #
-# Режим:
+# Режим BLACKLIST RU-DIRECT:
 # - автоматический выбор лучшего прокси;
 # - ручной выбор прокси;
 # - RU-DIRECT.
@@ -3408,6 +3896,7 @@ proxy-groups:
 nikki-rules:
   - DOMAIN-SUFFIX,localhost,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
   - "DOMAIN-REGEX,^[^.]+$,DIRECT"
 
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
@@ -3430,6 +3919,215 @@ nikki-rules:
 
   - "MATCH,Igareck Manual (Ручное Подключение)"
 ```
+
+</details>
+
+<details>
+<summary><strong><code> Конфигурационный файл WHITELIST GLOBAL для БЕЛЫХ СПИСКОВ (YAML) </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
+```diff
+# ============================================================
+# Igareck Nikki WL Client Profile
+# Профиль настроек без встроенных прокси.
+# Прокси должны поступать из подключённой подписки.
+#
+# Режим WHITELIST (БЕЛЫЕ СПИСКИ):
+# - автоматический выбор лучшего прокси;
+# - ручной выбор прокси;
+# - GLOBAL (весь интернет через прокси).
+# ============================================================
+
+
+mode: rule
+unified-delay: true
+tcp-concurrent: true
+
+keep-alive-idle: 300
+keep-alive-interval: 60
+disable-keep-alive: false
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+dns:
+  enable: true
+  prefer-h3: false
+  ipv6: false
+  use-hosts: true
+  use-system-hosts: true
+  # Подключения к зарубежным DoH из nameserver направляются
+  # через правила маршрутизации и активную прокси-группу.
+  respect-rules: true
+
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter-mode: blacklist
+
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "localhost"
+
+    - "time.*.com"
+    - "time.*.gov"
+    - "time.*.apple.com"
+    - "time-ios.apple.com"
+    - "time1.*.com"
+    - "time2.*.com"
+    - "time3.*.com"
+    - "time4.*.com"
+    - "time5.*.com"
+    - "time6.*.com"
+    - "time7.*.com"
+
+    - "ntp.*.com"
+    - "ntp1.*.com"
+    - "ntp2.*.com"
+    - "ntp3.*.com"
+    - "ntp4.*.com"
+    - "ntp5.*.com"
+    - "ntp6.*.com"
+    - "ntp7.*.com"
+    - "*.pool.ntp.org"
+
+    - "+.push.apple.com"
+
+    - "+.stun.*.*"
+    - "+.stun.*.*.*"
+    - "+.stun.*.*.*.*"
+    - "+.stun.*.*.*.*.*"
+    - "+.stun.playstation.net"
+
+    - "lens.l.google.com"
+    - "*.n.n.srv.nintendo.net"
+    - "xbox.*.*.microsoft.com"
+    - "*.*.xboxlive.com"
+
+    - "*.msftncsi.com"
+    - "*.msftconnecttest.com"
+
+    - "WORKGROUP"
+
+  cache-algorithm: arc
+
+  default-nameserver:
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  nameserver:
+    - https://dns.google/dns-query
+    - https://dns.quad9.net/dns-query
+    - https://dns.adguard-dns.com/dns-query
+    - https://freedns.controld.com/p0
+    - https://dns.mullvad.net/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://doh.libredns.gr/dns-query
+    - https://doh.dns4all.eu/dns-query
+    - https://wikimedia-dns.org/dns-query
+    - https://dns.hostux.net/dns-query
+    - https://blank.dnsforge.de/dns-query
+
+  proxy-server-nameserver:
+    - system
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  direct-nameserver:
+    - system
+    - https://common.dot.dns.yandex.net/dns-query
+    - https://safe.dot.dns.yandex.net/dns-query
+    - https://family.dot.dns.yandex.net/dns-query
+
+  direct-nameserver-follow-policy: false
+
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+
+    TLS:
+      ports: [443, 8443]
+
+    QUIC:
+      ports: [443, 8443]
+
+proxy-groups:
+  - name: "Igareck Auto Select (Автоподключение)"
+    type: url-test
+    include-all: true
+    exclude-type: "Direct|Reject|RejectDrop|Compatible|Pass|Dns"
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 150
+    lazy: true
+    timeout: 5000
+    max-failed-times: 2
+    expected-status: 204
+
+  - name: "Igareck Manual (Ручное Подключение)"
+    type: select
+    proxies:
+      - "Igareck Auto Select (Автоподключение)"
+    include-all: true
+    exclude-type: "Direct|Reject|RejectDrop|Compatible|Pass|Dns"
+    default-selected: "Igareck Auto Select (Автоподключение)"
+
+  - name: "GLOBAL"
+    type: select
+    proxies:
+      - "Igareck Auto Select (Автоподключение)"
+      - "Igareck Manual (Ручное Подключение)"
+    default-selected: "Igareck Auto Select (Автоподключение)"
+
+nikki-rules:
+  - DOMAIN-SUFFIX,localhost,DIRECT
+  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
+  - "DOMAIN-REGEX,^[^.]+$,DIRECT"
+
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+
+  - "MATCH,Igareck Manual (Ручное Подключение)"
+```
+
+</details>
 
 Затем:
 
@@ -3693,24 +4391,30 @@ Services → PassWall2 → Basic Settings → Main
 
 **Готовый профиль / конфигурационный файл dae: RU-DIRECT + Auto Select (для dae/daed используется не YAML, а собственный формат конфигурации .dae)**
 
-   *Уточнение 1: Профиль сделан для мобильной подписки Черных Списков ТОП-150 (BLACK_VLESS_RUS_mobile.txt), для другой подписки/зеркала - замените ссылку у параметра "subscription".*
+   *Уточнение 1: Профиль сделан для мобильной подписки Черных Списков ТОП-150 (BLACK_VLESS_RUS_mobile.txt) + Белых Списков ТОП-150 (Vless-Reality-White-Lists-Rus-Mobile.txt), для другой подписки/зеркала - замените ссылку у параметра "subscription".*
 
    *`https-file://` — это специальная схема dae. Это не ссылка для браузера.*
 
    *Уточнение 2: Автоматические настройки YAML здесь работать не будут, т.к. это не Mihomo/Clash клиент, а dae.*
 
-```diff
+**a. Конфигурационный файл BLACKLIST RU-DIRECT**
 
+**Скачать [Igareck_dae_daed_BLACKLIST_RU-DIRECT.dae](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Igareck_dae_daed_BLACKLIST_RU-DIRECT.dae)**
+
+<details>
+<summary><code> Открыть </code></summary>
+
+```diff
 # ============================================================
 # Igareck dae/daed Client Profile
 # Профиль настроек без встроенных прокси.
 # Прокси поступают из подключённой подписки.
 #
-# Режим:
+# Режим BLACKLIST RU-DIRECT:
 # - автоматический выбор лучшего прокси;
 # - RU-DIRECT.
 #
-# Требуется dae v1.1.0 или новее (используется dns.bind).
+# Требуется dae v2.0.0 или новее.
 # ============================================================
 
 global {
@@ -3725,7 +4429,7 @@ global {
 
   dial_mode: domain
   sniffing_timeout: 100ms
-  allow_insecure: false
+  allow_insecure: true
 
   bootstrap_resolver: '8.8.8.8:53'
   fallback_resolver: '1.1.1.1:53'
@@ -3740,7 +4444,7 @@ subscription {
 dns {
   ipversion_prefer: 4
 
-  # Локальный DNS dae. Требуется dae v1.1.0+.
+  # Локальный DNS dae.
   bind: 'tcp+udp://127.0.0.1:5353'
 
   upstream {
@@ -3804,6 +4508,7 @@ routing {
   domain(
     suffix: localhost,
     suffix: local,
+    suffix: lan,
     regex: '^[^.]+$'
   ) -> direct
 
@@ -3817,8 +4522,140 @@ routing {
 
   fallback: auto_select
 }
-
 ```
+
+</details
+
+
+**b. Конфигурационный файл WHITELIST**
+
+**Скачать [Igareck_dae_daed_WHITELIST.dae](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Igareck_dae_daed_WHITELIST.dae)**
+
+<details>
+<summary><code> Открыть </code></summary>
+
+```diff
+# ============================================================
+# Igareck dae/daed WL Client Profile
+# Профиль настроек без встроенных прокси.
+# Прокси поступают из подключённой подписки.
+#
+# Режим WHITELIST (БЕЛЫЕ СПИСКИ):
+# - автоматический выбор лучшего прокси;
+# - GLOBAL (весь интернет через прокси).
+#
+# Требуется dae v2.0.0 или новее.
+# ============================================================
+
+global {
+  # Замените eth1 на ваш LAN-интерфейс:
+  # например br0, br-lan или eth1.
+  lan_interface: eth1
+  wan_interface: auto
+
+  log_level: info
+  auto_config_kernel_parameter: true
+  disable_waiting_network: false
+
+  dial_mode: domain
+  sniffing_timeout: 100ms
+  allow_insecure: true
+
+  # Российские DNS для первоначального запуска
+  # в режиме белых списков.
+  bootstrap_resolver: '77.88.8.8:53'
+  fallback_resolver: '77.88.8.88:53'
+}
+
+subscription {
+  # Для другой подписки или зеркала замените ссылку.
+  # https-file:// — специальная схема dae, а не ссылка для браузера.
+  igareck_whitelist: 'https-file://translate.yandex.ru/translate?url=https://bitbucket.org/igareck/vpn-configs-for-russia/raw/main/Vless-Reality-White-Lists-Rus-Mobile.txt&lang=de-de'
+}
+
+dns {
+  ipversion_prefer: 4
+
+  # Локальный DNS dae.
+  bind: 'tcp+udp://127.0.0.1:5353'
+
+  upstream {
+    resolver: 'https://dns.google/dns-query'
+    bootstrap: 'tcp+udp://77.88.8.8:53'
+  }
+
+  routing {
+    request {
+      sub(igareck_whitelist) -> bootstrap
+      subnode(subtag: igareck_whitelist) -> bootstrap
+
+      fallback: resolver
+    }
+
+    response {
+      upstream(resolver) -> accept
+      upstream(bootstrap) -> accept
+      fallback: accept
+    }
+  }
+}
+
+group {
+  auto_select {
+    filter: subtag(igareck_whitelist)
+    policy: min_moving_avg
+
+    tcp_check_url: 'https://www.gstatic.com/generate_204'
+    tcp_check_http_method: GET
+
+    udp_check_dns: 'dns.google:53,8.8.8.8'
+
+    check_interval: 300s
+    check_tolerance: 150ms
+  }
+}
+
+routing {
+  pname(
+    NetworkManager,
+    systemd-resolved,
+    dnsmasq
+  ) -> must_direct
+
+  dip(
+    77.88.8.8/32,
+    77.88.8.88/32
+  ) -> must_direct
+
+  dip(
+    224.0.0.0/3,
+    'ff00::/8'
+  ) -> direct
+
+  dip(
+    127.0.0.0/8,
+    10.0.0.0/8,
+    172.16.0.0/12,
+    192.168.0.0/16,
+    169.254.0.0/16,
+    100.64.0.0/10,
+    '::1/128',
+    'fc00::/7',
+    'fe80::/10'
+  ) -> direct
+
+  domain(
+    suffix: localhost,
+    suffix: local,
+    suffix: lan,
+    regex: '^[^.]+$'
+  ) -> direct
+
+  fallback: auto_select
+}
+```
+
+</details>
 
 После изменения файла:
 
@@ -3987,13 +4824,16 @@ https://github.com/pokerpapa/provpn/tree/main/Export/Clash/GLOBAL
 
     **Зачем?** Для продвинутых пользователей: если необходимо поменять какие-либо опции Clash-подписок вручную в самом клиенте Clash Verge Rev, сделав их глобальными для любых входящих подписок. Настройки, записанные в самом клиенте Clash Verge Rev перезапишут настройки из любых входящих Clash-подписок при совпадении. 
 
+<details>
+<summary><strong><code> YAML-профиль BLACKLIST RU-DIRECT для ЧЕРНЫХ СПИСКОВ </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
 ```diff
 # ============================================================
 # Igareck Mihomo Client Profile
 # Профиль настроек без встроенных прокси.
 # Прокси должны поступать из подключённой подписки.
 #
-# Режим:
+# Режим BLACKLIST RU-DIRECT:
 # - автоматический выбор лучшего прокси;
 # - ручной выбор прокси;
 # - RU-DIRECT.
@@ -4173,6 +5013,7 @@ proxy-groups:
 rules:
   - DOMAIN-SUFFIX,localhost,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
   - "DOMAIN-REGEX,^[^.]+$,DIRECT"
 
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
@@ -4195,6 +5036,215 @@ rules:
 
   - "MATCH,Igareck Manual (Ручное Подключение)"
 ```
+
+</details>
+
+<details>
+<summary><strong><code> YAML-профиль WHITELIST для БЕЛЫХ СПИСКОВ </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
+```diff
+# ============================================================
+# Igareck Mihomo WL Client Profile
+# Профиль настроек без встроенных прокси.
+# Прокси должны поступать из подключённой подписки.
+#
+# Режим WHITELIST (БЕЛЫЕ СПИСКИ):
+# - автоматический выбор лучшего прокси;
+# - ручной выбор прокси;
+# - GLOBAL (весь интернет через прокси).
+# ============================================================
+
+
+mode: rule
+unified-delay: true
+tcp-concurrent: true
+
+keep-alive-idle: 300
+keep-alive-interval: 60
+disable-keep-alive: false
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+dns:
+  enable: true
+  prefer-h3: false
+  ipv6: false
+  use-hosts: true
+  use-system-hosts: true
+  # Подключения к зарубежным DoH из nameserver направляются
+  # через правила маршрутизации и активную прокси-группу.
+  respect-rules: true
+
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter-mode: blacklist
+
+  fake-ip-filter:
+    - "*.lan"
+    - "*.local"
+    - "localhost"
+
+    - "time.*.com"
+    - "time.*.gov"
+    - "time.*.apple.com"
+    - "time-ios.apple.com"
+    - "time1.*.com"
+    - "time2.*.com"
+    - "time3.*.com"
+    - "time4.*.com"
+    - "time5.*.com"
+    - "time6.*.com"
+    - "time7.*.com"
+
+    - "ntp.*.com"
+    - "ntp1.*.com"
+    - "ntp2.*.com"
+    - "ntp3.*.com"
+    - "ntp4.*.com"
+    - "ntp5.*.com"
+    - "ntp6.*.com"
+    - "ntp7.*.com"
+    - "*.pool.ntp.org"
+
+    - "+.push.apple.com"
+
+    - "+.stun.*.*"
+    - "+.stun.*.*.*"
+    - "+.stun.*.*.*.*"
+    - "+.stun.*.*.*.*.*"
+    - "+.stun.playstation.net"
+
+    - "lens.l.google.com"
+    - "*.n.n.srv.nintendo.net"
+    - "xbox.*.*.microsoft.com"
+    - "*.*.xboxlive.com"
+
+    - "*.msftncsi.com"
+    - "*.msftconnecttest.com"
+
+    - "WORKGROUP"
+
+  cache-algorithm: arc
+
+  default-nameserver:
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  nameserver:
+    - https://dns.google/dns-query
+    - https://dns.quad9.net/dns-query
+    - https://dns.adguard-dns.com/dns-query
+    - https://freedns.controld.com/p0
+    - https://dns.mullvad.net/dns-query
+    - https://cloudflare-dns.com/dns-query
+    - https://doh.opendns.com/dns-query
+    - https://doh.libredns.gr/dns-query
+    - https://doh.dns4all.eu/dns-query
+    - https://wikimedia-dns.org/dns-query
+    - https://dns.hostux.net/dns-query
+    - https://blank.dnsforge.de/dns-query
+
+  proxy-server-nameserver:
+    - system
+    - 77.88.8.1
+    - 77.88.8.2
+    - 77.88.8.3
+    - 77.88.8.7
+    - 77.88.8.8
+    - 77.88.8.88
+    - 89.175.167.27
+    - 94.72.28.59
+    - 95.31.212.206
+    - 82.140.107.246
+    - 83.149.26.2
+    - 188.162.79.131
+
+  direct-nameserver:
+    - system
+    - https://common.dot.dns.yandex.net/dns-query
+    - https://safe.dot.dns.yandex.net/dns-query
+    - https://family.dot.dns.yandex.net/dns-query
+
+  direct-nameserver-follow-policy: false
+
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+
+    TLS:
+      ports: [443, 8443]
+
+    QUIC:
+      ports: [443, 8443]
+
+proxy-groups:
+  - name: "Igareck Auto Select (Автоподключение)"
+    type: url-test
+    include-all: true
+    exclude-type: "Direct|Reject|RejectDrop|Compatible|Pass|Dns"
+    url: "https://www.gstatic.com/generate_204"
+    interval: 300
+    tolerance: 150
+    lazy: true
+    timeout: 5000
+    max-failed-times: 2
+    expected-status: 204
+
+  - name: "Igareck Manual (Ручное Подключение)"
+    type: select
+    proxies:
+      - "Igareck Auto Select (Автоподключение)"
+    include-all: true
+    exclude-type: "Direct|Reject|RejectDrop|Compatible|Pass|Dns"
+    default-selected: "Igareck Auto Select (Автоподключение)"
+
+  - name: "GLOBAL"
+    type: select
+    proxies:
+      - "Igareck Auto Select (Автоподключение)"
+      - "Igareck Manual (Ручное Подключение)"
+    default-selected: "Igareck Auto Select (Автоподключение)"
+
+rules:
+  - DOMAIN-SUFFIX,localhost,DIRECT
+  - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,lan,DIRECT
+  - "DOMAIN-REGEX,^[^.]+$,DIRECT"
+
+  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
+  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+
+  - IP-CIDR6,::1/128,DIRECT,no-resolve
+  - IP-CIDR6,fc00::/7,DIRECT,no-resolve
+  - IP-CIDR6,fe80::/10,DIRECT,no-resolve
+
+  - "MATCH,Igareck Manual (Ручное Подключение)"
+```
+
+</details>
 
 ---
 
@@ -4244,7 +5294,7 @@ rules:
 
 </details>
 
-Более подробные инструкции вы найдете выше абзацем (нажмите на стрелку) и в разделе [Инструкции по каждому клиенту отдельно](#-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BA%D0%B0%D0%B6%D0%B4%D0%BE%D0%BC%D1%83-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%83-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE).
+Более подробные инструкции вы найдете выше абзацем (нажмите на стрелку) и в разделе **[Инструкции по каждому клиенту отдельно](#-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D0%B8-%D0%BF%D0%BE-%D0%BA%D0%B0%D0%B6%D0%B4%D0%BE%D0%BC%D1%83-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%83-%D0%BE%D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE)**.
 
 **Самые стабильные - Clash/Yaml-подписки + Mihomo-клиенты и Стандартные + Karing.**
 
