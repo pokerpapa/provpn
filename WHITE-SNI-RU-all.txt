@@ -1,17 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-07 / 15:06 (Moscow)
-# Количество: 11
+# Date/Time: 2026-09-07 / 21:51 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=firefox#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=ios#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@194.87.52.142:443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=safari#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-vless://8c9a8787-056f-4b47-b193-0dcfa273d825@144.31.28.104:8443?encryption=none&flow=xtls-rprx-vision&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&security=reality&sid=d82c4b67f9a13e5c&sni=ads.x5.ru&type=tcp&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20ads.x5.ru
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443?insecure=1&sni=vk.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5BSNI-RU%5D%20vk.com
+vless://6e34a4ea-f950-490d-92f6-51b64ad5c133@unlimited.gruztrack.online:8080?type=xhttp&mode=packet-up&security=reality&sni=max.ru&pbk=0iAwNpu3TAZxNlRX8gSiYPbx-S-P12fYe5h_xAxoWAQ&sid=6d6f13013d3e1d0c&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://6e34a4ea-f950-490d-92f6-51b64ad5c133@unlimited.gruztrack.online:8080?type=xhttp&mode=packet-up&security=reality&sni=max.ru&pbk=0iAwNpu3TAZxNlRX8gSiYPbx-S-P12fYe5h_xAxoWAQ&sid=6d6f13013d3e1d0c&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://6e34a4ea-f950-490d-92f6-51b64ad5c133@unlimited.gruztrack.online:8080?type=xhttp&mode=packet-up&security=reality&sni=max.ru&pbk=0iAwNpu3TAZxNlRX8gSiYPbx-S-P12fYe5h_xAxoWAQ&sid=6d6f13013d3e1d0c&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://6e34a4ea-f950-490d-92f6-51b64ad5c133@unlimited.gruztrack.online:8080?type=xhttp&mode=packet-up&security=reality&sni=max.ru&pbk=0iAwNpu3TAZxNlRX8gSiYPbx-S-P12fYe5h_xAxoWAQ&sid=6d6f13013d3e1d0c&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://6e34a4ea-f950-490d-92f6-51b64ad5c133@unlimited.gruztrack.online:8080?type=xhttp&mode=packet-up&security=reality&sni=max.ru&pbk=0iAwNpu3TAZxNlRX8gSiYPbx-S-P12fYe5h_xAxoWAQ&sid=6d6f13013d3e1d0c&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20max.ru
+hysteria2://395fbe10db53714e6128c77c3de39694@194.87.55.90:443?insecure=1&sni=vkvideo.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vkvideo.ru
+hysteria2://cf5282e985104cb2f5b7ad111a580e2e@108.59.244.158:443?insecure=1&sni=www.kinopoisk.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20www.kinopoisk.ru
