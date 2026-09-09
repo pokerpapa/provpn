@@ -5821,13 +5821,13 @@ DNS-over-TLS (DoT) у большинства врядли заработает.
 
 **`https://safe.dot.dns.yandex.net/dns-query`** - *Яндекс DNS Безопасный режим. Внимание! Рекомендуется только для режима Белых Списков, в нормальном режиме (для Черных Списков) используйте DNS-сервера ниже;*
 
-**[Yandex_DoH_iPhone.mobileconfig](https://raw.githack.com/igareck/GoldCaviar/main/Files/Yandex_DoH_iPhone.mobileconfig)**  - *скачать Yandex DoH конфигурацию-файл (Яндекс DNS Базовый) для iOS;*
+**[Yandex_DoH_iPhone.mobileconfig](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Yandex_DoH_iPhone.mobileconfig)**  - *скачать Yandex DoH конфигурацию-файл (Яндекс DNS Базовый) для iOS;*
 
 **Google**
 
 **`https://dns.google/dns-query`** или **`https://8.8.8.8/dns-query`** - *Google Public DNS, штаб-квартира в Маунтин-Вью, штат Калифорния, США;*
 
-**[Google_DoH_iPhone.mobileconfig](https://raw.githack.com/igareck/GoldCaviar/main/Files/Google_DoH_iPhone.mobileconfig)**  - *скачать Google DoH конфигурацию-файл для iOS;*
+**[Google_DoH_iPhone.mobileconfig](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Google_DoH_iPhone.mobileconfig)**  - *скачать Google DoH конфигурацию-файл для iOS;*
 
 **Cloudflare**
 
@@ -5835,13 +5835,13 @@ DNS-over-TLS (DoT) у большинства врядли заработает.
 
 **`https://security.cloudflare-dns.com/dns-query`** - *Cloudflare DNS для блокировки вредоносного ПО, штаб-квартира в Сан-Франциско, штат Калифорния, США;*
 
-**[Cloudflare_DoH_iPhone.mobileconfig](https://raw.githack.com/igareck/GoldCaviar/main/Files/Cloudflare_DoH_iPhone.mobileconfig)**  - *скачать Cloudflare DoH конфигурацию-файл (Cloudflare DNS Базовый) для iOS;*
+**[Cloudflare_DoH_iPhone.mobileconfig](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/Cloudflare_DoH_iPhone.mobileconfig)**  - *скачать Cloudflare DoH конфигурацию-файл (Cloudflare DNS Базовый) для iOS;*
 
 **OpenDNS**
 
 **`https://doh.opendns.com/dns-query`** - *Cisco Umbrella (OpenDNS), штаб-квартира в Сан-Франциско, штат Калифорния, США;*
 
-**[OpenDNS_DoH_iPhone.mobileconfig](https://raw.githack.com/igareck/GoldCaviar/main/Files/OpenDNS_DoH_iPhone.mobileconfig)**  - *скачать OpenDNS DoH конфигурацию-файл для iOS;*
+**[OpenDNS_DoH_iPhone.mobileconfig](https://cdn.jsdelivr.net/gh/igareck/GoldCaviar@main/Files/OpenDNS_DoH_iPhone.mobileconfig)**  - *скачать OpenDNS DoH конфигурацию-файл для iOS;*
 
 **AdGuard**
 
