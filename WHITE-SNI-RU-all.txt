@@ -1,6 +1,16 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-09 / 16:36 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-09 / 21:07 (Moscow)
+# Количество: 10
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@suboard.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0NNui3jWwyhoR6EeD1opk7vxjRt3UHb039tvaawdRlM&sni=business.vk.ru&sid=4b0fde52e6963ddb&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20business.vk.ru
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@suboard.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0NNui3jWwyhoR6EeD1opk7vxjRt3UHb039tvaawdRlM&sni=business.vk.ru&sid=4b0fde52e6963ddb&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20business.vk.ru
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@suboard.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0NNui3jWwyhoR6EeD1opk7vxjRt3UHb039tvaawdRlM&sni=business.vk.ru&sid=4b0fde52e6963ddb&fp=firefox#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20business.vk.ru
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@suboard.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0NNui3jWwyhoR6EeD1opk7vxjRt3UHb039tvaawdRlM&sni=business.vk.ru&sid=4b0fde52e6963ddb&fp=ios#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20business.vk.ru
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@suboard.net:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=0NNui3jWwyhoR6EeD1opk7vxjRt3UHb039tvaawdRlM&sni=business.vk.ru&sid=4b0fde52e6963ddb&fp=qq#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%5BSNI-RU%5D%20business.vk.ru
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@ger.frdmhere.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=D3MfcpELMizpiEByQpaDGGpH884n3wlxG6rIRWGNxE4&sni=cdn.s3.yandex.net&sid=c9873d96deef7a1a&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20cdn.s3.yandex.net
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@ger.frdmhere.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=D3MfcpELMizpiEByQpaDGGpH884n3wlxG6rIRWGNxE4&sni=cdn.s3.yandex.net&sid=c9873d96deef7a1a&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20cdn.s3.yandex.net
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@ger.frdmhere.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=D3MfcpELMizpiEByQpaDGGpH884n3wlxG6rIRWGNxE4&sni=cdn.s3.yandex.net&sid=c9873d96deef7a1a&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20cdn.s3.yandex.net
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@ger.frdmhere.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=D3MfcpELMizpiEByQpaDGGpH884n3wlxG6rIRWGNxE4&sni=cdn.s3.yandex.net&sid=c9873d96deef7a1a&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20cdn.s3.yandex.net
+vless://985c2ce1-3ed4-41fb-a13f-f7653306f7fb@ger.frdmhere.com:443?type=tcp&security=reality&flow=xtls-rprx-vision&pbk=D3MfcpELMizpiEByQpaDGGpH884n3wlxG6rIRWGNxE4&sni=cdn.s3.yandex.net&sid=c9873d96deef7a1a&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20cdn.s3.yandex.net
