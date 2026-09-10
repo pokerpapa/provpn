@@ -1,6 +1,10 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-10 / 00:29 (Moscow)
-# Количество: 0
+# Date/Time: 2026-09-10 / 04:59 (Moscow)
+# Количество: 4
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@144.31.243.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20x5.ru
+vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@144.31.243.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&fp=edge#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20x5.ru
+vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@144.31.243.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20x5.ru
+vless://4cec0315-d5d4-4b29-afe4-7f8b8dd94f36@144.31.243.248:443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5.ru&pbk=Snqizwey11Sp7A3JOzYATE-bcWTOPz1uFblMUiZToVY&sid=f3836ba5541bdc9e&fp=ios#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20x5.ru
