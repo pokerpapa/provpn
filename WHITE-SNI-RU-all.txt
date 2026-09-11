@@ -1,7 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-11 / 10:52 (Moscow)
-# Количество: 1
+# Date/Time: 2026-09-11 / 15:47 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5BSNI-RU%5D%20vk.com
