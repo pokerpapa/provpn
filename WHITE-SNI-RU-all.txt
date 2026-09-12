@@ -1,9 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-12 / 04:50 (Moscow)
-# Количество: 3
+# Date/Time: 2026-09-12 / 09:54 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://ae09ddf8-b786-4cc4-bc36-775a34fb5364@lt2.umi-w.com:6666?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=ITAZHhtDe-XSALdxcudrmuaPi5T00JGO9rO-p7ZGAS8&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://ae09ddf8-b786-4cc4-bc36-775a34fb5364@lt2.umi-w.com:6666?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=ITAZHhtDe-XSALdxcudrmuaPi5T00JGO9rO-p7ZGAS8&flow=xtls-rprx-vision&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
-vless://ae09ddf8-b786-4cc4-bc36-775a34fb5364@lt2.umi-w.com:6666?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&pbk=ITAZHhtDe-XSALdxcudrmuaPi5T00JGO9rO-p7ZGAS8&flow=xtls-rprx-vision&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5BSNI-RU%5D%20api-maps.yandex.ru
