@@ -1,8 +1,15 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-13 / 02:17 (Moscow)
-# Количество: 2
+# Date/Time: 2026-09-13 / 04:57 (Moscow)
+# Количество: 9
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@de31.rockblack.site:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
-vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@de31.rockblack.site:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
+vless://482aed33-c5ae-4e1d-bff4-8b0bdb72fb81@109.107.155.189:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&sid=e7d8f0aa&allowInsecure=1&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://482aed33-c5ae-4e1d-bff4-8b0bdb72fb81@109.107.155.189:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&sid=e7d8f0aa&allowInsecure=1&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://482aed33-c5ae-4e1d-bff4-8b0bdb72fb81@fr.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e7d8f0aa&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://482aed33-c5ae-4e1d-bff4-8b0bdb72fb81@fr.srv.safes-infrastructure.com:8443?security=reality&encryption=none&pbk=yg8AxPPiKD1wQ-AlxB8Iwo0w59A4QTVob_FVAl4iuRw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=e7d8f0aa&fp=firefox#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BSNI-RU%5D%20max.ru
+vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@139.28.241.187:8443?encryption=none&flow=xtls-rprx-vision&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&security=reality&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&type=tcp&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
+vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@139.28.241.187:8443?encryption=none&flow=xtls-rprx-vision&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&security=reality&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&type=tcp&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
+vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@de31.rockblack.site:8443?security=reality&encryption=none&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
+vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@de31.rockblack.site:8443?security=reality&encryption=none&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
+vless://6be01e14-b937-4ed5-9d2c-074a0da22ffc@de31.rockblack.site:8443?security=reality&encryption=none&pbk=n0i4qSfWa7-oiLBfY2QBW6UK8JX68tULpkINVm4Hv0Q&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=xn--80ajghhoc2aj1c8b.xn--p1ai&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20xn--80ajghhoc2aj1c8b.xn--p1ai
