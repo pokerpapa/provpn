@@ -1,11 +1,20 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Mobile-150-(1)
 # profile-update-interval: 1
-# Date/Time: 2026-09-15 / 15:38 (Moscow)
-# Количество: 5
+# Date/Time: 2026-09-15 / 20:20 (Moscow)
+# Количество: 14
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=false&up-mbps=0&sni=msk.frkn.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiIxOTQuODcuNzEuMTQxIiwicG9ydCI6IjQ0MyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJ0bHMiOiJ0bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=edge#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=qq#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%5B%2ACIDR%5D
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=android#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=ios#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
+vless://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?encryption=none&security=tls&sni=lt26.cdnfern.org&alpn=h2&type=xhttp&mode=auto&path=%2Fapi%2Fv1%2F&fp=safari#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20%5B%2ACIDR%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=0&sni=msk.frkn.org#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?security=tls&sni=hy.quattro-tech.ru&alpn=h3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20%5B%2ACIDR%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSBbKkNJRFJdIiwiYWRkIjoiMTk0LjIyNi4xNDIuMTIwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwb3J0IjoiNDQzIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSB8IFsqQ0lEUl0iLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJhaWQiOiIwIiwiaWQiOiJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+MkCBBbnljYXN0LUlQIHwg8J+HqfCfh6og8J+HuPCfh6ogfCBbKkNJRFJdIiwic2VjdXJpdHkiOiJhdXRvIiwidGxzIjoidGxzIiwidiI6IjIiLCJ0eXBlIjoibm9uZSIsInNjeSI6ImF1dG8iLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
