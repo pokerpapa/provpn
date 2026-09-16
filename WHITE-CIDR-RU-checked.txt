@@ -1,20 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-16 / 16:58 (Moscow)
-# Количество: 14
+# Date/Time: 2026-09-16 / 21:45 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?encryption=none&extra=null&host=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&security=reality&sni=max.ru&type=xhttp&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?encryption=none&extra=null&host=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&security=reality&sni=max.ru&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?encryption=none&extra=null&host=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&security=reality&sni=max.ru&type=xhttp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://06ec3898-f952-52a5-8547-51ae1e6f0a62@51.250.106.197:443?type=xhttp&security=reality&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=%2F&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&type=xhttp&sni=max.ru&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=%2F&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=%2F&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&type=xhttp&sni=max.ru&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?path=%2F&security=reality&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&host=max.ru&type=xhttp&sni=max.ru&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=%2F&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=%2F&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=qq#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=%2F&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%5B%2ACIDR%5D%20YA
-vless://Fluffy_VPN-Oth8rOq3@51.250.106.197:443?type=xhttp&security=reality&path=%2F&sni=max.ru&pbk=LGSiGIQDFwB3IgQw8IBEsI5qfQoPQRSeUZWofnEu00U&fp=ios#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%5B%2ACIDR%5D%20YA
