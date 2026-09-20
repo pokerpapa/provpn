@@ -1,15 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-09-20 / 05:45 (Moscow)
-# Количество: 9
+# Date/Time: 2026-09-20 / 11:01 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://6eefb4c5-96c2-4b41-a8e3-3dd13e8e09d0@93.89.220.7:8443?security=reality&type=tcp&sni=eh.vk.com&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&encryption=none&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20eh.vk.com
-vless://6eefb4c5-96c2-4b41-a8e3-3dd13e8e09d0@93.89.220.7:8443?security=reality&type=tcp&sni=eh.vk.com&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&encryption=none&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20eh.vk.com
-vless://6eefb4c5-96c2-4b41-a8e3-3dd13e8e09d0@93.89.220.7:8443?security=reality&type=tcp&sni=eh.vk.com&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&encryption=none&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20eh.vk.com
-vless://6eefb4c5-96c2-4b41-a8e3-3dd13e8e09d0@93.89.220.7:8443?security=reality&type=tcp&sni=eh.vk.com&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6&encryption=none&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5BSNI-RU%5D%20eh.vk.com
-vless://37cec958-22ac-4d99-aee2-48facd8d84d7@144.31.57.48:4143?mode=gun&security=reality&encryption=none&pbk=EB4Ay55d7wUDYVTfDNXg2sX2PxWqNqsyivR4fGcELDo&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=ad63&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20yandex.ru
-vless://37cec958-22ac-4d99-aee2-48facd8d84d7@144.31.57.48:4143?mode=gun&security=reality&encryption=none&pbk=EB4Ay55d7wUDYVTfDNXg2sX2PxWqNqsyivR4fGcELDo&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=ad63&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20yandex.ru
-vless://37cec958-22ac-4d99-aee2-48facd8d84d7@144.31.57.48:4143?mode=gun&security=reality&encryption=none&pbk=EB4Ay55d7wUDYVTfDNXg2sX2PxWqNqsyivR4fGcELDo&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=ad63&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20yandex.ru
-vless://37cec958-22ac-4d99-aee2-48facd8d84d7@144.31.57.48:4143?mode=gun&security=reality&encryption=none&pbk=EB4Ay55d7wUDYVTfDNXg2sX2PxWqNqsyivR4fGcELDo&type=grpc&serviceName=google.android.location.SyncService&sni=yandex.ru&sid=ad63&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20yandex.ru
-hysteria2://7302ad33229de166d393cd56143a1e4c@131.186.19.174:50160?insecure=1&sni=vk.com#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%5BSNI-RU%5D%20vk.com
