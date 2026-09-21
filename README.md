@@ -1096,22 +1096,57 @@ TOR безопаснее любого даже самого навороченн
 
 
 <details>
-<summary><strong><code> Инструкция OnionHop V3 </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+<summary><strong> Tor <code> Инструкция OnionHop V3 </code></strong> ⬅ Нажмите, чтобы открыть </summary>
 
 ---
 
 ### `OnionHop V3`
 
-Мануал сделан по версии V2, обновлю до V3 позже, но в целом все похоже.
+**[OnionHop V3 — краткий обзор Tor-клиента для ПК (оригинал, доступен через VPN или Tor)](https://telegra.ph/OnionHop-V3--kratkij-obzor-Tor-klienta-dlya-PK-09-11)**
 
-**[OnionHop V2 — краткий обзор Tor-клиента для ПК (оригинал, доступен через VPN или Tor)](https://telegra.ph/OnionHop-V2--kratkij-obzor-Tor-klienta-dlya-PK-04-04)**
-
-**[OnionHop V2 — краткий обзор Tor-клиента для ПК (зеркало)](https://web.archive.org/web/https://graph.org/OnionHop-V2--kratkij-obzor-Tor-klienta-dlya-PK-04-04)**
+**[OnionHop V3 — краткий обзор Tor-клиента для ПК (зеркало)](https://web.archive.org/web/https://graph.org/OnionHop-V3--kratkij-obzor-Tor-klienta-dlya-PK-09-11)**
 
 ---
 
 </details>
 
+<details>
+<summary><strong> Tor <code> Инструкция Orbot (iOS) </code></strong> ⬅ Нажмите, чтобы открыть </summary>
+
+---
+
+### `Orbot (iOS)`
+
+**1.** Необходимо скачать [**Orbot iOS**](https://apps.apple.com/us/app/orbot/id1609461599) (App Store);
+
+**2.** При первом открытии нажать кнопку **Установить**. Разрешить **Добавление конфигурации VPN**;
+
+**3.** Сразу не запускать;
+
+**4.** На главной странице нажать **Выберите способ подключения**;
+
+**5.** Выбрать **Пользовательские мосты**;
+
+**6.** Нажать **Далее**;
+
+**7.** Вводить по 4 штуки мостов каждого из типов **Vanilla/Obfs4/Webtunnel** отдельно, пока не заработает один из них;
+
+**Источник всех мостов**: https://github.com/pokerpapa/provpn/tree/main/TOR-BRIDGES
+
+**Предпочтительный источник ТОП-100**: https://github.com/pokerpapa/provpn/blob/main/TOR-BRIDGES/TOR_BRIDGES_TOP100.txt
+
+**8.** Нажать **Сохранить**;
+
+**9.** На главной странице нажать **Запустить**.
+
+   Дождаться подключения.
+
+Не забыть перед подключением выключить остальные VPN.
+Для профилактики перед подключением можно отправить телефон в Авиарежим секунд на 15-20 (иконка самолета).
+
+---
+
+</details>
 
 <details>
 <summary><strong><code> Инструкция Karing </code></strong> ⬅ Нажмите, чтобы открыть </summary>
