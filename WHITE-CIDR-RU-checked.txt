@@ -1,23 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-28 / 21:15 (Moscow)
-# Количество: 17
+# Date/Time: 2026-09-29 / 02:50 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@185.86.145.78:8443?encryption=none&type=grpc&security=reality&sni=idlecore.me&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@185.86.145.78:8443?encryption=none&type=grpc&security=reality&sni=idlecore.me&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@185.86.145.78:8443?encryption=none&type=grpc&security=reality&sni=idlecore.me&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@185.86.145.78:8443?encryption=none&type=grpc&security=reality&sni=idlecore.me&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://8d2341a3-13b8-4e5e-84e1-da1c4923149a@185.86.145.78:8443?encryption=none&type=grpc&security=reality&sni=idlecore.me&pbk=Qf5kMbpi0sUGV4ZB_2wVGdi-iACSFv47quZT-z-ymEo&sid=a1b2c3d4&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&host=dostavitos.stroymatdv.cc&path=%2Fe5ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&host=dostavitos.stroymatdv.cc&path=%2Fe5ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&host=dostavitos.stroymatdv.cc&path=%2Fe5ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&host=dostavitos.stroymatdv.cc&path=%2Fe5ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&host=dostavitos.stroymatdv.cc&path=%2Fe5ws&security=tls&sni=dostavitos.stroymatdv.cc&type=ws&fp=random#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=android#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=edge#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=ios#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=qq#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
-vless://c16fd1ee-7581-4fe9-aac7-ef7c89a1ddad@37.139.42.138:443?encryption=none&security=tls&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Fe5ws&host=dostavitos.stroymatdv.cc&fp=safari#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5B%2ACIDR%5D%20VK
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://365de9e9-ba29-4819-af2d-766f9638e3be@37.139.42.179:443?encryption=none&host=vyvoz-musora.cc&path=%2Fe8ws&security=tls&sni=vyvoz-musora.cc&type=ws&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
