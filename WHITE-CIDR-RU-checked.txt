@@ -1,7 +1,11 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-09-30 / 03:10 (Moscow)
-# Количество: 1
+# Date/Time: 2026-09-30 / 10:20 (Moscow)
+# Количество: 5
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://f9f5a72c-c299-4d98-b2ad-d04aba3c7b1f@185.241.195.218:443?encryption=none&type=grpc&serviceName=vlgrpc&mode=gun&security=tls&sni=cdn0.s3-rus.ru&fp=chrome&alpn=h2#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://0f087cba-d780-4962-a0cd-c74ad6060523@katering.coteite.pro:14443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=%2Fn2ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://0f087cba-d780-4962-a0cd-c74ad6060523@katering.coteite.pro:14443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=%2Fn2ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://0f087cba-d780-4962-a0cd-c74ad6060523@katering.coteite.pro:14443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=%2Fn2ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://0f087cba-d780-4962-a0cd-c74ad6060523@katering.coteite.pro:14443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=%2Fn2ws&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
+vless://0f087cba-d780-4962-a0cd-c74ad6060523@katering.coteite.pro:14443?encryption=none&type=ws&security=tls&sni=katering.coteite.pro&path=%2Fn2ws&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20VK
