@@ -51,6 +51,8 @@
 
 ### Подписывайтесь на Telegram-канал: https://t.me/igareq <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/960px-Telegram_2019_Logo.svg.png" width="25" align="absmiddle">
 
+### `Новые рабочие ссылки для Белых Списков находятся в Telegram-канале! BitBucket пока что недоступен!`
+
 ---
 
 <h2><code> TOPIC №2 </code></h2>
