@@ -1,6 +1,19 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-10-07 / 07:06 (Moscow)
-# Количество: 0
+# Date/Time: 2026-10-07 / 14:08 (Moscow)
+# Количество: 13
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@37.139.42.221:443?encryption=none&host=apis.stroymatdv.cc&path=%2Famsws&security=tls&sni=apis.stroymatdv.cc&type=ws&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@37.139.42.221:443?encryption=none&host=apis.stroymatdv.cc&path=%2Famsws&security=tls&sni=apis.stroymatdv.cc&type=ws&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B%2ACIDR%5D%20VK
+vless://57a6de33-cb7e-4ac3-96b3-8ed01915c354@84.201.135.77:443?encryption=none&extra=null&host=ads.x5.ru&mode=auto&path=%2F&pbk=z4ZddzhbeCYDng09RnRL7lEqFGdc-Sb5mQJNHn-2USA&security=reality&sni=ads.x5.ru&type=xhttp&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+vless://57a6de33-cb7e-4ac3-96b3-8ed01915c354@84.201.135.77:443?encryption=none&extra=null&host=ads.x5.ru&mode=auto&path=%2F&pbk=z4ZddzhbeCYDng09RnRL7lEqFGdc-Sb5mQJNHn-2USA&security=reality&sni=ads.x5.ru&type=xhttp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+vless://57a6de33-cb7e-4ac3-96b3-8ed01915c354@84.201.135.77:443?encryption=none&extra=null&host=ads.x5.ru&mode=auto&path=%2F&pbk=z4ZddzhbeCYDng09RnRL7lEqFGdc-Sb5mQJNHn-2USA&security=reality&sni=ads.x5.ru&type=xhttp&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+vless://57a6de33-cb7e-4ac3-96b3-8ed01915c354@84.201.135.77:443?encryption=none&extra=null&host=ads.x5.ru&mode=auto&path=%2F&pbk=z4ZddzhbeCYDng09RnRL7lEqFGdc-Sb5mQJNHn-2USA&security=reality&sni=ads.x5.ru&type=xhttp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D%20YA
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@37.139.42.221:443?encryption=none&host=apis.stroymatdv.cc&path=%2Famsws&security=tls&sni=apis.stroymatdv.cc&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@37.139.42.221:443?encryption=none&host=apis.stroymatdv.cc&path=%2Famsws&security=tls&sni=apis.stroymatdv.cc&type=ws&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
+vless://3a8b464f-3701-40ed-b6b6-b612019e34c1@apis.stroymatdv.cc:443?encryption=none&security=tls&sni=apis.stroymatdv.cc&alpn=http%2F1.1&type=ws&path=%2Famsws&host=apis.stroymatdv.cc&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20VK
