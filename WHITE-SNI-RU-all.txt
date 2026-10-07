@@ -1,6 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-07 / 00:34 (Moscow)
-# Количество: 0
+# Date/Time: 2026-10-07 / 07:06 (Moscow)
+# Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&spx=%2F&allowInsecure=1&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
+vless://81aefb7f-1a78-4394-9428-7200b1dfcaf9@31.76.82.113:8443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=storage.yandexcloud.net&pbk=M6Ck7wUfOLhQl4582CBnaXwscPEP6SCpdEkUDzoj4Fc&sid=d8d4ee24&spx=%2F&allowInsecure=1&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20storage.yandexcloud.net
