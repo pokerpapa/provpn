@@ -1,11 +1,6 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-22 / 21:12 (Moscow)
-# Количество: 5
+# Date/Time: 2026-10-23 / 01:19 (Moscow)
+# Количество: 0
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?type=grpc&security=reality&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&sni=vk.ru&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BSNI-RU%5D%20vk.ru
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?type=grpc&security=reality&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&sni=vk.ru&fp=edge#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BSNI-RU%5D%20vk.ru
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?type=grpc&security=reality&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&sni=vk.ru&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BSNI-RU%5D%20vk.ru
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?type=grpc&security=reality&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&sni=vk.ru&fp=random#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BSNI-RU%5D%20vk.ru
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@194.87.29.96:8443?type=grpc&security=reality&pbk=zdUSjR5iPKcmOOUbSFQQ0pCYjGGVJMRBMD6_F3_wBEs&sid=4d2cf3&sni=vk.ru&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B0%F0%9F%87%B7%20%7C%20%5BSNI-RU%5D%20vk.ru
