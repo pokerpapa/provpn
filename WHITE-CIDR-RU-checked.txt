@@ -1,7 +1,17 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | CIDR | Только VK, Yandex, CDNvideo, Beeline
 # profile-update-interval: 1
-# Date/Time: 2026-10-23 / 17:02 (Moscow)
-# Количество: 1
+# Date/Time: 2026-10-23 / 20:54 (Moscow)
+# Количество: 11
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@84.201.170.60:443?encryption=none&flow=xtls-rprx-vision&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&security=reality&sid=7760b69926f2e507&sni=ads.x5.ru&type=raw&fp=android#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@84.201.170.60:443?encryption=none&flow=xtls-rprx-vision&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&security=reality&sid=7760b69926f2e507&sni=ads.x5.ru&type=raw&fp=chrome#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@84.201.170.60:443?encryption=none&flow=xtls-rprx-vision&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&security=reality&sid=7760b69926f2e507&sni=ads.x5.ru&type=raw&fp=edge#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@84.201.170.60:443?encryption=none&flow=xtls-rprx-vision&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&security=reality&sid=7760b69926f2e507&sni=ads.x5.ru&type=raw&fp=firefox#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@84.201.170.60:443?encryption=none&flow=xtls-rprx-vision&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&security=reality&sid=7760b69926f2e507&sni=ads.x5.ru&type=raw&fp=qq#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=edge#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=qq#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=safari#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B%2ACIDR%5D%20YA
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@shop8.clubster.uk:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ads.x5.ru&pbk=KWltK5E_1XCj4H1zDpJqzrfhqb_PeVdZ4PCqedlBKG0&sid=7760b69926f2e507&fp=firefox#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Ht/Cfh7ogUnVzc2lhIHwgWypDSURSXSBZQSIsImFkZCI6IjE1OC4xNjAuMTgwLjE2NSIsInBvcnQiOiIyNDIxMiIsImlkIjoiYzU4YzEyMDUtYjMwOC00MTZmLTg1MDMtYzA0NTU3YWJmOTNkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIiwic25pIjoiIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIifQ==
