@@ -1,7 +1,13 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-29 / 23:41 (Moscow)
-# Количество: 1
+# Date/Time: 2026-10-30 / 03:48 (Moscow)
+# Количество: 7
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@185.218.17.106:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@185.218.17.106:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=edge#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@193.222.97.61:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=u1sx8FpSlA9qKuQoFVJ1EEmlHEU9ro7U-t7tejfuDz0&type=xhttp&sni=ya.ru&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@193.222.97.61:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=u1sx8FpSlA9qKuQoFVJ1EEmlHEU9ro7U-t7tejfuDz0&type=xhttp&sni=ya.ru&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20ya.ru
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20vk.com
