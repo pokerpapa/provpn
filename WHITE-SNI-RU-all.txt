@@ -1,13 +1,8 @@
 # profile-title: 🏳️ БЕЛЫЕ СПИСКИ 🏳️ WHITE LISTS | SNI-RU
 # profile-update-interval: 1
-# Date/Time: 2026-10-30 / 03:48 (Moscow)
-# Количество: 7
+# Date/Time: 2026-10-30 / 09:42 (Moscow)
+# Количество: 2
 # For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
 
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@185.218.17.106:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%5BSNI-RU%5D%20ya.ru
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@185.218.17.106:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=edge#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20%7C%20%5BSNI-RU%5D%20ya.ru
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@193.222.97.61:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=u1sx8FpSlA9qKuQoFVJ1EEmlHEU9ro7U-t7tejfuDz0&type=xhttp&sni=ya.ru&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@193.222.97.61:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=u1sx8FpSlA9qKuQoFVJ1EEmlHEU9ro7U-t7tejfuDz0&type=xhttp&sni=ya.ru&fp=edge#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%7C%20%5BSNI-RU%5D%20ya.ru
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20ya.ru
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?mode=gun&security=reality&encryption=none&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&type=grpc&serviceName=openway_ndrl&sni=ya.ru&sid=af86f23452bf025a&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%5BSNI-RU%5D%20ya.ru
+vless://6a6ac9b3-b336-44f7-a1c4-a03d6c2fae9e@201.58.181.132:2027/?type=xhttp&encryption=none&flow=&path=%2Fpatch&mode=auto&extra=%7B%0A%20%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%0A%20%20%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%0A%20%20%22scMinPostsIntervalMs%22%3A%20%2230%22%2C%0A%20%20%22scStreamUpServerSecs%22%3A%20%2220-80%22%2C%0A%20%20%22xmux%22%3A%20%7B%0A%20%20%20%20%22maxConcurrency%22%3A%20%220%22%2C%0A%20%20%20%20%22maxConnections%22%3A%20%221%22%2C%0A%20%20%20%20%22cMaxReuseTimes%22%3A%20%220%22%2C%0A%20%20%20%20%22hMaxRequestTimes%22%3A%20%22600-900%22%2C%0A%20%20%20%20%22hMaxReusableSecs%22%3A%20%221800-3000%22%2C%0A%20%20%20%20%22hKeepAlivePeriod%22%3A%200%0A%20%20%7D%0A%7D&sni=2gis.ru&fp=qq&security=reality&pbk=EApxy12MeXpqt-78odxizwcXT6hX9f8XeAcbMDVRAV0&sid=6ba7b8109dad11d1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%202gis.ru
 hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443/?insecure=1&sni=vk.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20vk.com
